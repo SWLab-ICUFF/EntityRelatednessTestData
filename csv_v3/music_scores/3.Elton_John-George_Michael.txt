@@ -1,0 +1,17 @@
+CODE	SCORE
+Dionne_Warwick	3456062
+Don't_Let_the_Sun_Go_Down_on_Me	672237
+Elton_John	43408002
+Eric_Clapton	47230292
+Freedom!_'90	331524
+George_Michael	18084805
+Good_Morning_(Kanye_West_song)	1102686
+Kanye_West	191029660
+Matt_Colton	46
+Pet_Shop_Boys	29938835
+Phil_Palmer	640
+Ray_Cooper	51113
+Robbie_Williams	39932224
+Runaway_Train_(Elton_John_and_Eric_Clapton_song)	22505
+Stuart_Epps	109
+Whitney_Houston	19043009

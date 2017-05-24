@@ -1,0 +1,15 @@
+CODE	SCORE
+Blood_on_the_Tracks	6776351
+Bob_Dylan	143419269
+Bob_Dylan's_Greatest_Hits_Vol._II	79949
+Desire_(Bob_Dylan_album)	3211691
+Dylan_(2007_album)	1817046
+I_Shall_Be_Released	751458
+Levon_Helm	728628
+Rick_Danko	88565
+Rob_Fraboni	2
+Robbie_Robertson	724818
+The_Band	13488784
+The_Basement_Tapes	801507
+This_Wheel's_on_Fire	216124
+When_I_Paint_My_Masterpiece	119103

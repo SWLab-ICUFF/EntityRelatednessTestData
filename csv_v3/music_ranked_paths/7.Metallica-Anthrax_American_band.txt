@@ -1,0 +1,51 @@
+ID	NAME_PATH	SCORE
+1	"Metallica @associatedActs Anthrax_(American_band)"	140225504
+2	"Metallica @associatedMusicalArtist Anthrax_(American_band)"	140225504
+3	"Metallica @associatedBand Anthrax_(American_band)"	140225504
+4	"Metallica @associatedActs Megadeth @associatedActs Anthrax_(American_band)"	123417441
+5	"Metallica associatedActs Megadeth associatedActs Anthrax_(American_band)"	123417441
+6	"Metallica @associatedActs Megadeth associatedMusicalArtist Anthrax_(American_band)"	123417441
+7	"Metallica @associatedMusicalArtist Megadeth associatedActs Anthrax_(American_band)"	123417441
+8	"Metallica associatedActs Megadeth associatedMusicalArtist Anthrax_(American_band)"	123417441
+9	"Metallica associatedMusicalArtist Megadeth associatedActs Anthrax_(American_band)"	123417441
+10	"Metallica @associatedActs Megadeth @associatedMusicalArtist Anthrax_(American_band)"	123417441
+11	"Metallica @associatedActs Megadeth @associatedBand Anthrax_(American_band)"	123417441
+12	"Metallica associatedBand Megadeth associatedBand Anthrax_(American_band)"	123417441
+13	"Metallica @associatedMusicalArtist Megadeth associatedMusicalArtist Anthrax_(American_band)"	123417441
+14	"Metallica associatedMusicalArtist Megadeth associatedMusicalArtist Anthrax_(American_band)"	123417441
+15	"Metallica @associatedMusicalArtist Megadeth associatedBand Anthrax_(American_band)"	123417441
+16	"Metallica @associatedBand Megadeth associatedBand Anthrax_(American_band)"	123417441
+17	"Metallica @associatedBand Megadeth associatedMusicalArtist Anthrax_(American_band)"	123417441
+18	"Metallica associatedMusicalArtist Megadeth associatedBand Anthrax_(American_band)"	123417441
+19	"Metallica @associatedBand Megadeth @associatedBand Anthrax_(American_band)"	123417441
+20	"Metallica @associatedActs Megadeth @associatedActs Slayer @associatedActs Anthrax_(American_band)"	111429784.5
+21	"Metallica associatedBand Megadeth associatedActs Slayer associatedActs Anthrax_(American_band)"	111429784.5
+22	"Metallica @associatedActs Megadeth @associatedBand Slayer associatedActs Anthrax_(American_band)"	111429784.5
+23	"Metallica @associatedActs Megadeth @associatedMusicalArtist Slayer associatedActs Anthrax_(American_band)"	111429784.5
+24	"Metallica @associatedActs Megadeth @associatedActs Slayer @associatedBand Anthrax_(American_band)"	111429784.5
+25	"Metallica @associatedActs Megadeth @associatedMusicalArtist Slayer @associatedActs Anthrax_(American_band)"	111429784.5
+26	"Metallica @associatedActs Slayer associatedMusicalArtist Megadeth associatedActs Anthrax_(American_band)"	111429784.5
+27	"Metallica @associatedBand Megadeth @associatedActs Slayer @associatedActs Anthrax_(American_band)"	111429784.5
+28	"Metallica @associatedMusicalArtist Slayer @associatedActs Megadeth associatedBand Anthrax_(American_band)"	111429784.5
+29	"Metallica @associatedActs Megadeth @associatedMusicalArtist Slayer @associatedBand Anthrax_(American_band)"	111429784.5
+30	"Metallica @associatedMusicalArtist Megadeth @associatedMusicalArtist Slayer associatedActs Anthrax_(American_band)"	111429784.5
+31	"Metallica associatedMusicalArtist Megadeth associatedMusicalArtist Slayer associatedActs Anthrax_(American_band)"	111429784.5
+32	"Metallica @associatedActs Slayer associatedMusicalArtist Megadeth associatedMusicalArtist Anthrax_(American_band)"	111429784.5
+33	"Metallica @associatedActs Megadeth associatedMusicalArtist Slayer associatedMusicalArtist Anthrax_(American_band)"	111429784.5
+34	"Metallica associatedActs Megadeth associatedBand Slayer associatedBand Anthrax_(American_band)"	111429784.5
+35	"Metallica @associatedActs Slayer @associatedMusicalArtist Megadeth associatedMusicalArtist Anthrax_(American_band)"	111429784.5
+36	"Metallica @associatedMusicalArtist Megadeth @associatedActs Slayer @associatedBand Anthrax_(American_band)"	111429784.5
+37	"Metallica @associatedMusicalArtist Slayer associatedActs Megadeth associatedBand Anthrax_(American_band)"	111429784.5
+38	"Metallica associatedActs Megadeth associatedBand Slayer associatedMusicalArtist Anthrax_(American_band)"	111429784.5
+39	"Metallica @associatedMusicalArtist Megadeth @associatedBand Slayer associatedActs Anthrax_(American_band)"	111429784.5
+40	"Metallica associatedActs Megadeth associatedMusicalArtist Slayer associatedBand Anthrax_(American_band)"	111429784.5
+41	"Metallica @associatedMusicalArtist Megadeth @associatedActs Slayer @associatedMusicalArtist Anthrax_(American_band)"	111429784.5
+42	"Metallica @associatedMusicalArtist Megadeth @associatedActs Slayer associatedMusicalArtist Anthrax_(American_band)"	111429784.5
+43	"Metallica @associatedBand Megadeth @associatedMusicalArtist Slayer associatedBand Anthrax_(American_band)"	111429784.5
+44	"Metallica @associatedMusicalArtist Slayer @associatedBand Megadeth @associatedMusicalArtist Anthrax_(American_band)"	111429784.5
+45	"Metallica @associatedBand Megadeth associatedBand Slayer associatedBand Anthrax_(American_band)"	111429784.5
+46	"Metallica associatedBand Megadeth associatedMusicalArtist Slayer associatedMusicalArtist Anthrax_(American_band)"	111429784.5
+47	"Metallica @associatedBand Megadeth @associatedMusicalArtist Slayer @associatedMusicalArtist Anthrax_(American_band)"	111429784.5
+48	"Metallica @associatedMusicalArtist Megadeth @associatedMusicalArtist Slayer associatedBand Anthrax_(American_band)"	111429784.5
+49	"Metallica @associatedMusicalArtist Slayer @associatedBand Megadeth associatedBand Anthrax_(American_band)"	111429784.5
+50	"Metallica @associatedMusicalArtist Slayer @associatedMusicalArtist Megadeth @associatedBand Anthrax_(American_band)"	111429784.5

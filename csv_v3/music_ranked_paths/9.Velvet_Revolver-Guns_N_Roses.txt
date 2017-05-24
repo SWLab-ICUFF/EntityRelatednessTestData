@@ -1,0 +1,51 @@
+ID	NAME_PATH	SCORE
+1	"Velvet_Revolver @associatedActs Guns_N'_Roses"	60945414
+2	"Velvet_Revolver associatedActs Guns_N'_Roses"	60945414
+3	"Velvet_Revolver @associatedMusicalArtist Guns_N'_Roses"	60945414
+4	"Velvet_Revolver associatedMusicalArtist Guns_N'_Roses"	60945414
+5	"Velvet_Revolver @associatedBand Guns_N'_Roses"	60945414
+6	"Velvet_Revolver associatedBand Guns_N'_Roses"	60945414
+7	"Velvet_Revolver formerBandMember Duff_McKagan @formerBandMember Jane's_Addiction @associatedBand Nine_Inch_Nails associatedBand Guns_N'_Roses"	60427427.6
+8	"Velvet_Revolver pastMembers Duff_McKagan @formerBandMember Jane's_Addiction associatedBand Nine_Inch_Nails associatedMusicalArtist Guns_N'_Roses"	60427427.6
+9	"Velvet_Revolver @associatedActs Duff_McKagan @formerBandMember Jane's_Addiction @associatedBand Nine_Inch_Nails associatedActs Guns_N'_Roses"	60427427.6
+10	"Velvet_Revolver @associatedActs Duff_McKagan @formerBandMember Jane's_Addiction @associatedActs Nine_Inch_Nails associatedMusicalArtist Guns_N'_Roses"	60427427.6
+11	"Velvet_Revolver formerBandMember Duff_McKagan associatedActs Jane's_Addiction associatedBand Nine_Inch_Nails associatedActs Guns_N'_Roses"	60427427.6
+12	"Velvet_Revolver formerBandMember Duff_McKagan associatedBand Jane's_Addiction associatedBand Nine_Inch_Nails associatedActs Guns_N'_Roses"	60427427.6
+13	"Velvet_Revolver @associatedMusicalArtist Duff_McKagan @formerBandMember Jane's_Addiction @associatedBand Nine_Inch_Nails associatedBand Guns_N'_Roses"	60427427.6
+14	"Velvet_Revolver pastMembers Duff_McKagan associatedMusicalArtist Jane's_Addiction associatedBand Nine_Inch_Nails associatedActs Guns_N'_Roses"	60427427.6
+15	"Velvet_Revolver pastMembers Duff_McKagan associatedActs Jane's_Addiction associatedBand Nine_Inch_Nails associatedMusicalArtist Guns_N'_Roses"	60427427.6
+16	"Velvet_Revolver @associatedActs Duff_McKagan associatedMusicalArtist Jane's_Addiction associatedActs Nine_Inch_Nails associatedMusicalArtist Guns_N'_Roses"	60427427.6
+17	"Velvet_Revolver @associatedActs Camp_Freddy @associatedActs Jane's_Addiction @associatedActs Nine_Inch_Nails associatedActs Guns_N'_Roses"	60380946.6
+18	"Velvet_Revolver @associatedActs Camp_Freddy @associatedActs Jane's_Addiction @associatedActs Nine_Inch_Nails associatedMusicalArtist Guns_N'_Roses"	60380946.6
+19	"Velvet_Revolver @associatedActs Camp_Freddy @associatedActs Jane's_Addiction associatedActs Nine_Inch_Nails associatedBand Guns_N'_Roses"	60380946.6
+20	"Velvet_Revolver @associatedActs Camp_Freddy @associatedActs Jane's_Addiction associatedActs Nine_Inch_Nails associatedMusicalArtist Guns_N'_Roses"	60380946.6
+21	"Velvet_Revolver @associatedActs Camp_Freddy @associatedActs Jane's_Addiction @associatedBand Nine_Inch_Nails associatedActs Guns_N'_Roses"	60380946.6
+22	"Velvet_Revolver @associatedActs Camp_Freddy @associatedActs Jane's_Addiction @associatedMusicalArtist Nine_Inch_Nails associatedMusicalArtist Guns_N'_Roses"	60380946.6
+23	"Velvet_Revolver @associatedMusicalArtist Camp_Freddy associatedBand Jane's_Addiction associatedActs Nine_Inch_Nails associatedActs Guns_N'_Roses"	60380946.6
+24	"Velvet_Revolver @associatedMusicalArtist Camp_Freddy associatedMusicalArtist Jane's_Addiction associatedMusicalArtist Nine_Inch_Nails associatedMusicalArtist Guns_N'_Roses"	60380946.6
+25	"Velvet_Revolver @associatedMusicalArtist Macy_Gray @associatedActs Justin_Meldal-Johnsen associatedActs Nine_Inch_Nails associatedActs Guns_N'_Roses"	59489462.4
+26	"Velvet_Revolver @associatedMusicalArtist Macy_Gray @associatedActs Justin_Meldal-Johnsen associatedActs Nine_Inch_Nails associatedMusicalArtist Guns_N'_Roses"	59489462.4
+27	"Velvet_Revolver @associatedMusicalArtist Macy_Gray @associatedBand Justin_Meldal-Johnsen associatedActs Nine_Inch_Nails associatedActs Guns_N'_Roses"	59489462.4
+28	"Velvet_Revolver @associatedMusicalArtist Macy_Gray @associatedActs Justin_Meldal-Johnsen associatedMusicalArtist Nine_Inch_Nails associatedActs Guns_N'_Roses"	59489462.4
+29	"Velvet_Revolver @associatedMusicalArtist Macy_Gray @associatedActs Justin_Meldal-Johnsen associatedMusicalArtist Nine_Inch_Nails associatedMusicalArtist Guns_N'_Roses"	59489462.4
+30	"Velvet_Revolver @associatedBand Macy_Gray @associatedMusicalArtist Justin_Meldal-Johnsen associatedBand Nine_Inch_Nails associatedActs Guns_N'_Roses"	59489462.4
+31	"Velvet_Revolver @associatedMusicalArtist Macy_Gray @associatedBand Justin_Meldal-Johnsen associatedBand Nine_Inch_Nails associatedActs Guns_N'_Roses"	59489462.4
+32	"Velvet_Revolver @associatedBand Macy_Gray @associatedMusicalArtist Justin_Meldal-Johnsen associatedMusicalArtist Nine_Inch_Nails associatedMusicalArtist Guns_N'_Roses"	59489462.4
+33	"Velvet_Revolver @associatedBand Macy_Gray @associatedMusicalArtist Justin_Meldal-Johnsen associatedBand Nine_Inch_Nails associatedBand Guns_N'_Roses"	59489462.4
+34	"Velvet_Revolver @associatedBand Macy_Gray @associatedMusicalArtist Justin_Meldal-Johnsen associatedBand Nine_Inch_Nails associatedMusicalArtist Guns_N'_Roses"	59489462.4
+35	"Velvet_Revolver @associatedBand Macy_Gray @associatedMusicalArtist Justin_Meldal-Johnsen associatedMusicalArtist Nine_Inch_Nails associatedBand Guns_N'_Roses"	59489462.4
+36	"Velvet_Revolver pastMembers Dave_Kushner associatedMusicalArtist Dave_Navarro associatedActs Nine_Inch_Nails associatedMusicalArtist Guns_N'_Roses"	58098328.4
+37	"Velvet_Revolver pastMembers Dave_Kushner associatedMusicalArtist Dave_Navarro associatedMusicalArtist Nine_Inch_Nails associatedActs Guns_N'_Roses"	58098328.4
+38	"Velvet_Revolver pastMembers Dave_Kushner associatedMusicalArtist Dave_Navarro associatedBand Nine_Inch_Nails associatedActs Guns_N'_Roses"	58098328.4
+39	"Velvet_Revolver pastMembers Dave_Kushner associatedMusicalArtist Dave_Navarro associatedBand Nine_Inch_Nails associatedMusicalArtist Guns_N'_Roses"	58098328.4
+40	"Velvet_Revolver pastMembers Dave_Kushner associatedMusicalArtist Dave_Navarro associatedBand Nine_Inch_Nails associatedBand Guns_N'_Roses"	58098328.4
+41	"Velvet_Revolver pastMembers Dave_Kushner associatedMusicalArtist Dave_Navarro associatedMusicalArtist Nine_Inch_Nails associatedMusicalArtist Guns_N'_Roses"	58098328.4
+42	"Velvet_Revolver @associatedBand Slash_(musician) @bandMember Guns_N'_Roses"	44969427
+43	"Velvet_Revolver pastMembers Slash_(musician) associatedMusicalArtist Guns_N'_Roses"	44969427
+44	"Velvet_Revolver @associatedActs Slash_(musician) associatedActs Guns_N'_Roses"	44969427
+45	"Velvet_Revolver @associatedBand Slash_(musician) associatedActs Guns_N'_Roses"	44969427
+46	"Velvet_Revolver @associatedActs Slash_(musician) associatedMusicalArtist Guns_N'_Roses"	44969427
+47	"Velvet_Revolver @associatedActs Slash_(musician) associatedBand Guns_N'_Roses"	44969427
+48	"Velvet_Revolver @associatedMusicalArtist Slash_(musician) associatedActs Guns_N'_Roses"	44969427
+49	"Velvet_Revolver @associatedBand Slash_(musician) associatedMusicalArtist Guns_N'_Roses"	44969427
+50	"Velvet_Revolver @associatedBand Slash_(musician) associatedBand Guns_N'_Roses"	44969427

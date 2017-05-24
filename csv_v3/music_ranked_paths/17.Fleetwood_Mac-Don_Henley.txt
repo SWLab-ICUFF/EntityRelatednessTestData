@@ -1,0 +1,51 @@
+ID	NAME_PATH	SCORE
+1	"Fleetwood_Mac @associatedActs Jorge_Calderón associatedActs Eagles_(band) bandMember Don_Henley"	22352494.5
+2	"Fleetwood_Mac @associatedActs Jorge_Calderón associatedBand Eagles_(band) bandMember Don_Henley"	22352494.5
+3	"Fleetwood_Mac @associatedBand Jorge_Calderón associatedActs Eagles_(band) bandMember Don_Henley"	22352494.5
+4	"Fleetwood_Mac @associatedMusicalArtist Jorge_Calderón associatedActs Eagles_(band) bandMember Don_Henley"	22352494.5
+5	"Fleetwood_Mac @associatedActs Jorge_Calderón associatedMusicalArtist Eagles_(band) bandMember Don_Henley"	22352494.5
+6	"Fleetwood_Mac @associatedMusicalArtist Jorge_Calderón associatedBand Eagles_(band) bandMember Don_Henley"	22352494.5
+7	"Fleetwood_Mac @associatedBand Jorge_Calderón associatedBand Eagles_(band) bandMember Don_Henley"	22352494.5
+8	"Fleetwood_Mac @associatedMusicalArtist Jorge_Calderón associatedMusicalArtist Eagles_(band) bandMember Don_Henley"	22352494.5
+9	"Fleetwood_Mac @associatedBand Jorge_Calderón associatedMusicalArtist Eagles_(band) bandMember Don_Henley"	22352494.5
+10	"Fleetwood_Mac @associatedActs Jorge_Calderón associatedActs Eagles_(band) currentMembers Don_Henley"	22352494.5
+11	"Fleetwood_Mac @associatedBand Jorge_Calderón associatedActs Eagles_(band) currentMembers Don_Henley"	22352494.5
+12	"Fleetwood_Mac @associatedActs Jorge_Calderón associatedMusicalArtist Eagles_(band) currentMembers Don_Henley"	22352494.5
+13	"Fleetwood_Mac @associatedActs Jorge_Calderón associatedBand Eagles_(band) currentMembers Don_Henley"	22352494.5
+14	"Fleetwood_Mac @associatedMusicalArtist Jorge_Calderón associatedActs Eagles_(band) currentMembers Don_Henley"	22352494.5
+15	"Fleetwood_Mac @associatedMusicalArtist Jorge_Calderón associatedMusicalArtist Eagles_(band) currentMembers Don_Henley"	22352494.5
+16	"Fleetwood_Mac @associatedMusicalArtist Jorge_Calderón associatedBand Eagles_(band) currentMembers Don_Henley"	22352494.5
+17	"Fleetwood_Mac @associatedBand Jorge_Calderón associatedBand Eagles_(band) currentMembers Don_Henley"	22352494.5
+18	"Fleetwood_Mac @associatedBand Jorge_Calderón associatedMusicalArtist Eagles_(band) currentMembers Don_Henley"	22352494.5
+19	"Fleetwood_Mac bandMember Stevie_Nicks @associatedActs Don_Henley"	21681237.666667
+20	"Fleetwood_Mac bandMember Stevie_Nicks @associatedMusicalArtist Don_Henley"	21681237.666667
+21	"Fleetwood_Mac bandMember Stevie_Nicks @associatedBand Don_Henley"	21681237.666667
+22	"Fleetwood_Mac currentMembers Stevie_Nicks @associatedActs Don_Henley"	21681237.666667
+23	"Fleetwood_Mac currentMembers Stevie_Nicks @associatedMusicalArtist Don_Henley"	21681237.666667
+24	"Fleetwood_Mac currentMembers Stevie_Nicks @associatedBand Don_Henley"	21681237.666667
+25	"Fleetwood_Mac @associatedActs Dave_Carlock associatedActs Eric_Clapton @associatedMusicalArtist Ian_Wallace_(drummer) associatedBand Don_Henley"	21333481
+26	"Fleetwood_Mac @associatedMusicalArtist Dave_Carlock associatedBand Eric_Clapton @associatedActs Ian_Wallace_(drummer) associatedBand Don_Henley"	21333481
+27	"Fleetwood_Mac @associatedMusicalArtist Dave_Carlock associatedBand Eric_Clapton @associatedActs Ian_Wallace_(drummer) associatedMusicalArtist Don_Henley"	21333481
+28	"Fleetwood_Mac @associatedBand Dave_Carlock associatedMusicalArtist Eric_Clapton @associatedActs Ian_Wallace_(drummer) associatedBand Don_Henley"	21333481
+29	"Fleetwood_Mac @associatedBand Dave_Carlock associatedBand Eric_Clapton @associatedMusicalArtist Ian_Wallace_(drummer) associatedActs Don_Henley"	21333481
+30	"Fleetwood_Mac @associatedBand Dave_Carlock associatedMusicalArtist Eric_Clapton @associatedBand Ian_Wallace_(drummer) associatedMusicalArtist Don_Henley"	21333481
+31	"Fleetwood_Mac bandMember Stevie_Nicks @associatedActs Warren_Zevon associatedActs Eagles_(band) bandMember Don_Henley"	20253678.6
+32	"Fleetwood_Mac bandMember Stevie_Nicks @associatedBand Warren_Zevon associatedActs Eagles_(band) bandMember Don_Henley"	20253678.6
+33	"Fleetwood_Mac bandMember Stevie_Nicks @associatedBand Warren_Zevon associatedBand Eagles_(band) bandMember Don_Henley"	20253678.6
+34	"Fleetwood_Mac currentMembers Stevie_Nicks @associatedActs Warren_Zevon associatedBand Eagles_(band) bandMember Don_Henley"	20253678.6
+35	"Fleetwood_Mac currentMembers Stevie_Nicks @associatedBand Warren_Zevon associatedActs Eagles_(band) bandMember Don_Henley"	20253678.6
+36	"Fleetwood_Mac currentMembers Stevie_Nicks @associatedMusicalArtist Warren_Zevon associatedActs Eagles_(band) bandMember Don_Henley"	20253678.6
+37	"Fleetwood_Mac currentMembers Stevie_Nicks @associatedBand Warren_Zevon associatedBand Eagles_(band) bandMember Don_Henley"	20253678.6
+38	"Fleetwood_Mac bandMember Stevie_Nicks @associatedBand Warren_Zevon associatedBand Eagles_(band) currentMembers Don_Henley"	20253678.6
+39	"Fleetwood_Mac currentMembers Stevie_Nicks @associatedActs Warren_Zevon associatedActs Eagles_(band) currentMembers Don_Henley"	20253678.6
+40	"Fleetwood_Mac currentMembers Stevie_Nicks @associatedMusicalArtist Warren_Zevon associatedActs Eagles_(band) currentMembers Don_Henley"	20253678.6
+41	"Fleetwood_Mac currentMembers Stevie_Nicks @associatedMusicalArtist Warren_Zevon associatedMusicalArtist Eagles_(band) currentMembers Don_Henley"	20253678.6
+42	"Fleetwood_Mac currentMembers Stevie_Nicks @associatedBand Warren_Zevon associatedMusicalArtist Eagles_(band) currentMembers Don_Henley"	20253678.6
+43	"Fleetwood_Mac @associatedBand Rick_Vito associatedBand Jackson_Browne associatedBand Eagles_(band) bandMember Don_Henley"	19308730
+44	"Fleetwood_Mac @associatedMusicalArtist Rick_Vito associatedBand Jackson_Browne associatedMusicalArtist Eagles_(band) bandMember Don_Henley"	19308730
+45	"Fleetwood_Mac @associatedBand Rick_Vito associatedActs Jackson_Browne associatedActs Eagles_(band) currentMembers Don_Henley"	19308730
+46	"Fleetwood_Mac @associatedActs Rick_Vito associatedBand Jackson_Browne associatedActs Eagles_(band) currentMembers Don_Henley"	19308730
+47	"Fleetwood_Mac @associatedActs Rick_Vito associatedMusicalArtist Jackson_Browne associatedMusicalArtist Eagles_(band) currentMembers Don_Henley"	19308730
+48	"Fleetwood_Mac @associatedActs Rick_Vito associatedBand Jackson_Browne associatedMusicalArtist Eagles_(band) currentMembers Don_Henley"	19308730
+49	"Fleetwood_Mac @associatedBand Rick_Vito associatedBand Jackson_Browne associatedMusicalArtist Eagles_(band) currentMembers Don_Henley"	19308730
+50	"Fleetwood_Mac @associatedBand Rick_Vito associatedMusicalArtist Jackson_Browne associatedBand Eagles_(band) currentMembers Don_Henley"	19308730

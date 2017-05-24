@@ -1,0 +1,15 @@
+ Music Ontology 	DBpedia Ontology 	last.fm 
+mso:MusicGroupArtist 	dbo:Band 	Artist 
+mso:MusicArtist 	dbo:Artist	Artist 
+mso:MusicArtist 	dbo:Singer 	Artist 
+mso:MusicArtist 	dbo:MusicalArtist 	Artist 
+mso:MusicArtist 	dbo:MusicDirector 	Artist 
+mso:MusicArtist 	dbo:ClassicalMusicArtist 	Artist 
+mso:MusicArtist 	dbo:MusicComposer 	Artist 
+mso:MusicArtist 	dbo:SongWriter 	Artist 
+mso:album 	dbo:Album 	Album 
+mso:single 	dbo:Single 	Track 
+mso:soundtrack 	dbo:Song 	Track 
+mso:track 	dbo:MusicalWork 	Track 
+mso:MusicalWork 	dbo:MusicalWork 	Track 
+

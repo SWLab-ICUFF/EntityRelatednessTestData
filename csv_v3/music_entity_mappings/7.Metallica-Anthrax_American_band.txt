@@ -1,0 +1,5 @@
+CODE	TYPE	DBPEDIA_URI	LAST.FM_URI
+Slayer	Artist	http://dbpedia.org/resource/Slayer	https://www.last.fm/music/Slayer
+Anthrax_(American_band)	Artist	http://dbpedia.org/resource/Anthrax_(American_band)	https://www.last.fm/music/Anthrax
+Metallica	Artist	http://dbpedia.org/resource/Metallica	https://www.last.fm/music/Metallica
+Megadeth	Artist	http://dbpedia.org/resource/Megadeth	https://www.last.fm/music/Megadeth

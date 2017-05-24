@@ -1,0 +1,51 @@
+ID	NAME_PATH	SCORE
+1	"Elton_John @writer Good_Morning_(Kanye_West_song) artist Kanye_West @associatedBand Matt_Colton associatedMusicalArtist George_Michael"	50725039.8
+2	"Elton_John @writer Good_Morning_(Kanye_West_song) artist Kanye_West @associatedMusicalArtist Matt_Colton associatedBand George_Michael"	50725039.8
+3	"Elton_John @writer Good_Morning_(Kanye_West_song) artist Kanye_West @associatedMusicalArtist Matt_Colton associatedMusicalArtist George_Michael"	50725039.8
+4	"Elton_John @writer Good_Morning_(Kanye_West_song) producer Kanye_West @associatedMusicalArtist Matt_Colton associatedMusicalArtist George_Michael"	50725039.8
+5	"Elton_John @writer Good_Morning_(Kanye_West_song) writer Kanye_West @associatedMusicalArtist Matt_Colton associatedBand George_Michael"	50725039.8
+6	"Elton_John @writer Good_Morning_(Kanye_West_song) writer Kanye_West @associatedBand Matt_Colton associatedMusicalArtist George_Michael"	50725039.8
+7	"Elton_John @associatedActs George_Michael"	30746403.5
+8	"Elton_John @associatedMusicalArtist George_Michael"	30746403.5
+9	"Elton_John @associatedBand George_Michael"	30746403.5
+10	"Elton_John @associatedMusicalArtist Pet_Shop_Boys @associatedMusicalArtist Robbie_Williams @musicalArtist Freedom!_'90 musicalBand George_Michael"	26339078
+11	"Elton_John @associatedBand Pet_Shop_Boys associatedMusicalArtist Robbie_Williams @musicalBand Freedom!_'90 artist George_Michael"	26339078
+12	"Elton_John @associatedMusicalArtist Pet_Shop_Boys associatedMusicalArtist Robbie_Williams @musicalBand Freedom!_'90 writer George_Michael"	26339078
+13	"Elton_John @associatedBand Pet_Shop_Boys @associatedMusicalArtist Robbie_Williams @artist Freedom!_'90 producer George_Michael"	26339078
+14	"Elton_John @associatedBand Ray_Cooper associatedActs Eric_Clapton @associatedBand Phil_Palmer associatedActs George_Michael"	21754970.4
+15	"Elton_John @associatedBand Ray_Cooper associatedActs Eric_Clapton @associatedMusicalArtist Phil_Palmer associatedBand George_Michael"	21754970.4
+16	"Elton_John @associatedBand Ray_Cooper associatedActs Eric_Clapton @associatedBand Phil_Palmer associatedMusicalArtist George_Michael"	21754970.4
+17	"Elton_John @associatedBand Ray_Cooper associatedActs Eric_Clapton @associatedBand Phil_Palmer associatedBand George_Michael"	21754970.4
+18	"Elton_John @associatedBand Ray_Cooper associatedActs Eric_Clapton @associatedMusicalArtist Phil_Palmer associatedMusicalArtist George_Michael"	21754970.4
+19	"Elton_John @musicalArtist Runaway_Train_(Elton_John_and_Eric_Clapton_song) musicalArtist Eric_Clapton @associatedActs Phil_Palmer associatedMusicalArtist George_Michael"	21749248.8
+20	"Elton_John @musicalArtist Runaway_Train_(Elton_John_and_Eric_Clapton_song) musicalArtist Eric_Clapton @associatedBand Phil_Palmer associatedActs George_Michael"	21749248.8
+21	"Elton_John @musicalArtist Runaway_Train_(Elton_John_and_Eric_Clapton_song) musicalArtist Eric_Clapton @associatedMusicalArtist Phil_Palmer associatedActs George_Michael"	21749248.8
+22	"Elton_John @musicalArtist Runaway_Train_(Elton_John_and_Eric_Clapton_song) musicalArtist Eric_Clapton @associatedBand Phil_Palmer associatedBand George_Michael"	21749248.8
+23	"Elton_John @musicalArtist Runaway_Train_(Elton_John_and_Eric_Clapton_song) musicalArtist Eric_Clapton @associatedMusicalArtist Phil_Palmer associatedBand George_Michael"	21749248.8
+24	"Elton_John @musicalArtist Runaway_Train_(Elton_John_and_Eric_Clapton_song) musicalArtist Eric_Clapton @associatedMusicalArtist Phil_Palmer associatedMusicalArtist George_Michael"	21749248.8
+25	"Elton_John @associatedBand Dionne_Warwick @relation Whitney_Houston @associatedActs George_Michael"	20997969.5
+26	"Elton_John @associatedBand Dionne_Warwick @relation Whitney_Houston @associatedBand George_Michael"	20997969.5
+27	"Elton_John @associatedBand Dionne_Warwick @relation Whitney_Houston @associatedMusicalArtist George_Michael"	20997969.5
+28	"Elton_John @associatedMusicalArtist Dionne_Warwick @relation Whitney_Houston @associatedMusicalArtist George_Michael"	20997969.5
+29	"Elton_John @associatedActs Dionne_Warwick @relations Whitney_Houston @associatedMusicalArtist George_Michael"	20997969.5
+30	"Elton_John @associatedBand Dionne_Warwick @relations Whitney_Houston @associatedActs George_Michael"	20997969.5
+31	"Elton_John @musicalBand Don't_Let_the_Sun_Go_Down_on_Me musicalArtist George_Michael"	20721681.333333
+32	"Elton_John @musicalArtist Don't_Let_the_Sun_Go_Down_on_Me producer George_Michael"	20721681.333333
+33	"Elton_John @writer Don't_Let_the_Sun_Go_Down_on_Me musicalArtist George_Michael"	20721681.333333
+34	"Elton_John @artist Don't_Let_the_Sun_Go_Down_on_Me producer George_Michael"	20721681.333333
+35	"Elton_John @writer Don't_Let_the_Sun_Go_Down_on_Me producer George_Michael"	20721681.333333
+36	"Elton_John @associatedActs Stuart_Epps associatedActs Robbie_Williams @artist Freedom!_'90 musicalArtist George_Michael"	20351332.8
+37	"Elton_John @associatedActs Stuart_Epps associatedActs Robbie_Williams @artist Freedom!_'90 musicalBand George_Michael"	20351332.8
+38	"Elton_John @associatedActs Stuart_Epps associatedActs Robbie_Williams @musicalArtist Freedom!_'90 artist George_Michael"	20351332.8
+39	"Elton_John @associatedBand Stuart_Epps associatedActs Robbie_Williams @artist Freedom!_'90 musicalArtist George_Michael"	20351332.8
+40	"Elton_John @associatedBand Stuart_Epps associatedActs Robbie_Williams @musicalArtist Freedom!_'90 artist George_Michael"	20351332.8
+41	"Elton_John @associatedBand Stuart_Epps associatedActs Robbie_Williams @artist Freedom!_'90 musicalBand George_Michael"	20351332.8
+42	"Elton_John @associatedActs Stuart_Epps associatedMusicalArtist Robbie_Williams @artist Freedom!_'90 musicalBand George_Michael"	20351332.8
+43	"Elton_John @associatedActs Stuart_Epps associatedMusicalArtist Robbie_Williams @artist Freedom!_'90 musicalArtist George_Michael"	20351332.8
+44	"Elton_John @associatedActs Stuart_Epps associatedActs Robbie_Williams @artist Freedom!_'90 artist George_Michael"	20351332.8
+45	"Elton_John @associatedBand Stuart_Epps associatedActs Robbie_Williams @artist Freedom!_'90 artist George_Michael"	20351332.8
+46	"Elton_John @associatedActs Stuart_Epps associatedMusicalArtist Robbie_Williams @artist Freedom!_'90 artist George_Michael"	20351332.8
+47	"Elton_John @associatedActs Stuart_Epps associatedMusicalArtist Robbie_Williams @artist Freedom!_'90 producer George_Michael"	20351332.8
+48	"Elton_John @associatedActs Stuart_Epps associatedMusicalArtist Robbie_Williams @artist Freedom!_'90 writer George_Michael"	20351332.8
+49	"Elton_John @associatedBand Stuart_Epps associatedActs Robbie_Williams @artist Freedom!_'90 writer George_Michael"	20351332.8
+50	"Elton_John @associatedActs Stuart_Epps associatedBand Robbie_Williams @artist Freedom!_'90 writer George_Michael"	20351332.8

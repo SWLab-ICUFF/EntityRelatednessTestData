@@ -1,0 +1,51 @@
+ID	NAME_PATH	SCORE
+1	"Vivien_Leigh @starring Gone_with_the_Wind producer David_O._Selznick @producer Rebecca starring Laurence_Olivier"	6.670432
+2	"Vivien_Leigh @starring The_Village_Squire producer Anthony_Havelock-Allan @producer Romeo_and_Juliet narrator Laurence_Olivier"	6.479354
+3	"Vivien_Leigh @starring Waterloo_Bridge musicComposer Herbert_Stothart @musicComposer Pride_and_Prejudice starring Laurence_Olivier"	6.437934
+4	"Vivien_Leigh @starring Waterloo_Bridge musicComposer Herbert_Stothart @music Pride_and_Prejudice starring Laurence_Olivier"	6.437934
+5	"Vivien_Leigh @starring Waterloo_Bridge music Herbert_Stothart @musicComposer Pride_and_Prejudice starring Laurence_Olivier"	6.437934
+6	"Vivien_Leigh @starring Waterloo_Bridge music Herbert_Stothart @music Pride_and_Prejudice starring Laurence_Olivier"	6.437934
+7	"Vivien_Leigh @starring The_Village_Squire producer Anthony_Havelock-Allan @writer This_Happy_Breed narrator Laurence_Olivier"	6.419354
+8	"Vivien_Leigh @starring The_Village_Squire producer Anthony_Havelock-Allan @producer Othello starring Laurence_Olivier"	6.419354
+9	"Vivien_Leigh @starring Gone_with_the_Wind starring Leslie_Howard @starring 49th_Parallel starring Laurence_Olivier"	6.38492
+10	"Vivien_Leigh @starring A_Yank_at_Oxford writer Michael_Hogan @screenplay Rebecca starring Laurence_Olivier"	6.236356
+11	"Vivien_Leigh @starring A_Yank_at_Oxford writer Michael_Hogan @writer Rebecca starring Laurence_Olivier"	6.236356
+12	"Vivien_Leigh @starring The_Deep_Blue_Sea cinematography Jack_Hildyard @cinematography Henry_V director Laurence_Olivier"	6.23259
+13	"Vivien_Leigh @starring The_Deep_Blue_Sea cinematography Jack_Hildyard @cinematography Henry_V producer Laurence_Olivier"	6.23259
+14	"Vivien_Leigh @starring The_Deep_Blue_Sea cinematography Jack_Hildyard @cinematography Henry_V writer Laurence_Olivier"	6.23259
+15	"Vivien_Leigh @starring The_Deep_Blue_Sea cinematography Jack_Hildyard @cinematography Henry_V starring Laurence_Olivier"	6.23259
+16	"Vivien_Leigh @starring Gentlemen's_Agreement producer Anthony_Havelock-Allan @producer Romeo_and_Juliet narrator Laurence_Olivier"	6.199354
+17	"Vivien_Leigh @starring Gentlemen's_Agreement producer Anthony_Havelock-Allan @producer Othello starring Laurence_Olivier"	6.139354
+18	"Vivien_Leigh @starring Caesar_and_Cleopatra cinematography Jack_Hildyard @cinematography The_Devil's_Disciple starring Laurence_Olivier"	6.11259
+19	"Vivien_Leigh @starring Anna_Karenina producer Alexander_Korda @producer Richard_III director Laurence_Olivier"	6.107854
+20	"Vivien_Leigh @starring Anna_Karenina producer Alexander_Korda @producer Richard_III producer Laurence_Olivier"	6.107854
+21	"Vivien_Leigh @starring Anna_Karenina producer Alexander_Korda @producer Richard_III writer Laurence_Olivier"	6.107854
+22	"Vivien_Leigh @starring Anna_Karenina producer Alexander_Korda @producer Richard_III starring Laurence_Olivier"	6.107854
+23	"Vivien_Leigh @starring Caesar_and_Cleopatra cinematography Jack_Hildyard @cinematography Henry_V director Laurence_Olivier"	6.09259
+24	"Vivien_Leigh @starring Caesar_and_Cleopatra cinematography Jack_Hildyard @cinematography Henry_V producer Laurence_Olivier"	6.09259
+25	"Vivien_Leigh @starring Caesar_and_Cleopatra cinematography Jack_Hildyard @cinematography Henry_V writer Laurence_Olivier"	6.09259
+26	"Vivien_Leigh @starring Caesar_and_Cleopatra cinematography Jack_Hildyard @cinematography Henry_V starring Laurence_Olivier"	6.09259
+27	"Vivien_Leigh @starring Storm_in_a_Teacup director Ian_Dalrymple @producer Words_for_Battle narrator Laurence_Olivier"	6.07162
+28	"Vivien_Leigh @starring Storm_in_a_Teacup director Ian_Dalrymple @writer The_Divorce_of_Lady_X starring Laurence_Olivier"	6.05162
+29	"Vivien_Leigh @starring Anna_Karenina producer Alexander_Korda @director That_Hamilton_Woman starring Laurence_Olivier"	6.047854
+30	"Vivien_Leigh @starring Anna_Karenina producer Alexander_Korda @producer That_Hamilton_Woman starring Laurence_Olivier"	6.047854
+31	"Vivien_Leigh @starring Gone_with_the_Wind musicComposer Max_Steiner @musicComposer Friends_and_Lovers starring Laurence_Olivier"	6.022856
+32	"Vivien_Leigh @starring Gone_with_the_Wind musicComposer Max_Steiner @music Friends_and_Lovers starring Laurence_Olivier"	6.022856
+33	"Vivien_Leigh @starring Gone_with_the_Wind music Max_Steiner @musicComposer Friends_and_Lovers starring Laurence_Olivier"	6.022856
+34	"Vivien_Leigh @starring Gone_with_the_Wind music Max_Steiner @music Friends_and_Lovers starring Laurence_Olivier"	6.022856
+35	"Vivien_Leigh @starring The_Deep_Blue_Sea musicComposer Malcolm_Arnold @musicComposer David_Copperfield starring Laurence_Olivier"	5.86836
+36	"Vivien_Leigh @starring The_Deep_Blue_Sea musicComposer Malcolm_Arnold @music David_Copperfield starring Laurence_Olivier"	5.86836
+37	"Vivien_Leigh @starring The_Deep_Blue_Sea music Malcolm_Arnold @musicComposer David_Copperfield starring Laurence_Olivier"	5.86836
+38	"Vivien_Leigh @starring The_Deep_Blue_Sea music Malcolm_Arnold @music David_Copperfield starring Laurence_Olivier"	5.86836
+39	"Vivien_Leigh @starring Anna_Karenina starring Ralph_Richardson @starring Wagner starring Laurence_Olivier"	5.824504
+40	"Vivien_Leigh @starring That_Hamilton_Woman starring Laurence_Olivier"	5.7734333333333
+41	"Vivien_Leigh @starring Anna_Karenina starring Ralph_Richardson @starring Richard_III director Laurence_Olivier"	5.744504
+42	"Vivien_Leigh @starring Anna_Karenina starring Ralph_Richardson @starring Richard_III producer Laurence_Olivier"	5.744504
+43	"Vivien_Leigh @starring Anna_Karenina starring Ralph_Richardson @starring Richard_III writer Laurence_Olivier"	5.744504
+44	"Vivien_Leigh @starring Anna_Karenina starring Ralph_Richardson @starring Richard_III starring Laurence_Olivier"	5.744504
+45	"Vivien_Leigh @starring Anna_Karenina starring Ralph_Richardson @starring Oh!_What_a_Lovely_War starring Laurence_Olivier"	5.664504
+46	"Vivien_Leigh @starring Anna_Karenina starring Ralph_Richardson @starring Battle_of_Britain starring Laurence_Olivier"	5.624504
+47	"Vivien_Leigh @starring Anna_Karenina starring Ralph_Richardson @starring Khartoum starring Laurence_Olivier"	5.604504
+48	"Vivien_Leigh @starring Fire_Over_England starring Laurence_Olivier"	5.5734333333333
+49	"Vivien_Leigh @starring Anna_Karenina starring Ralph_Richardson @starring David_Copperfield starring Laurence_Olivier"	5.424504
+50	"Vivien_Leigh @starring 21_Days starring Laurence_Olivier"	5.4067666666667

@@ -1,0 +1,51 @@
+ID	NAME_PATH	SCORE
+1	"Grace_Kelly @starring Rear_Window editing George_Tomasini @editing Psycho director Alfred_Hitchcock"	7.123478
+2	"Grace_Kelly @starring Rear_Window editing George_Tomasini @editing Psycho producer Alfred_Hitchcock"	7.123478
+3	"Grace_Kelly @starring Rear_Window editing George_Tomasini @editing Vertigo director Alfred_Hitchcock"	7.103478
+4	"Grace_Kelly @starring Rear_Window editing George_Tomasini @editing North_by_Northwest director Alfred_Hitchcock"	7.103478
+5	"Grace_Kelly @starring Rear_Window editing George_Tomasini @editing North_by_Northwest producer Alfred_Hitchcock"	7.103478
+6	"Grace_Kelly @starring Rear_Window editing George_Tomasini @editing Vertigo producer Alfred_Hitchcock"	7.103478
+7	"Grace_Kelly @starring Rear_Window cinematography Robert_Burks @cinematography North_by_Northwest director Alfred_Hitchcock"	7.095644
+8	"Grace_Kelly @starring Rear_Window cinematography Robert_Burks @cinematography Vertigo director Alfred_Hitchcock"	7.095644
+9	"Grace_Kelly @starring Rear_Window cinematography Robert_Burks @cinematography North_by_Northwest producer Alfred_Hitchcock"	7.095644
+10	"Grace_Kelly @starring Rear_Window cinematography Robert_Burks @cinematography Vertigo producer Alfred_Hitchcock"	7.095644
+11	"Grace_Kelly @starring Dial_M_for_Murder cinematography Robert_Burks @cinematography Rear_Window director Alfred_Hitchcock"	7.055644
+12	"Grace_Kelly @starring Rear_Window cinematography Robert_Burks @cinematography Dial_M_for_Murder director Alfred_Hitchcock"	7.055644
+13	"Grace_Kelly @starring Dial_M_for_Murder cinematography Robert_Burks @cinematography Rear_Window producer Alfred_Hitchcock"	7.055644
+14	"Grace_Kelly @starring Rear_Window cinematography Robert_Burks @cinematography Dial_M_for_Murder producer Alfred_Hitchcock"	7.055644
+15	"Grace_Kelly @starring Dial_M_for_Murder cinematography Robert_Burks @cinematography Vertigo director Alfred_Hitchcock"	7.035644
+16	"Grace_Kelly @starring Dial_M_for_Murder cinematography Robert_Burks @cinematography North_by_Northwest director Alfred_Hitchcock"	7.035644
+17	"Grace_Kelly @starring Dial_M_for_Murder cinematography Robert_Burks @cinematography North_by_Northwest producer Alfred_Hitchcock"	7.035644
+18	"Grace_Kelly @starring Dial_M_for_Murder cinematography Robert_Burks @cinematography Vertigo producer Alfred_Hitchcock"	7.035644
+19	"Grace_Kelly @starring Dial_M_for_Murder cinematography Robert_Burks @cinematography Strangers_on_a_Train director Alfred_Hitchcock"	6.975644
+20	"Grace_Kelly @starring Dial_M_for_Murder cinematography Robert_Burks @cinematography Strangers_on_a_Train producer Alfred_Hitchcock"	6.975644
+21	"Grace_Kelly @starring Rear_Window musicComposer Franz_Waxman @musicComposer Rebecca director Alfred_Hitchcock"	6.93751
+22	"Grace_Kelly @starring Rear_Window musicComposer Franz_Waxman @music Rebecca director Alfred_Hitchcock"	6.93751
+23	"Grace_Kelly @starring Rear_Window music Franz_Waxman @musicComposer Rebecca director Alfred_Hitchcock"	6.93751
+24	"Grace_Kelly @starring Rear_Window music Franz_Waxman @music Rebecca director Alfred_Hitchcock"	6.93751
+25	"Grace_Kelly @starring Dial_M_for_Murder cinematography Robert_Burks @cinematography The_Birds director Alfred_Hitchcock"	6.895644
+26	"Grace_Kelly @starring Dial_M_for_Murder cinematography Robert_Burks @cinematography The_Birds producer Alfred_Hitchcock"	6.895644
+27	"Grace_Kelly @starring Dial_M_for_Murder musicComposer Dimitri_Tiomkin @musicComposer Strangers_on_a_Train director Alfred_Hitchcock"	6.86302
+28	"Grace_Kelly @starring Dial_M_for_Murder musicComposer Dimitri_Tiomkin @music Strangers_on_a_Train director Alfred_Hitchcock"	6.86302
+29	"Grace_Kelly @starring Dial_M_for_Murder music Dimitri_Tiomkin @musicComposer Strangers_on_a_Train director Alfred_Hitchcock"	6.86302
+30	"Grace_Kelly @starring Dial_M_for_Murder musicComposer Dimitri_Tiomkin @musicComposer Strangers_on_a_Train producer Alfred_Hitchcock"	6.86302
+31	"Grace_Kelly @starring Dial_M_for_Murder music Dimitri_Tiomkin @music Strangers_on_a_Train director Alfred_Hitchcock"	6.86302
+32	"Grace_Kelly @starring Dial_M_for_Murder musicComposer Dimitri_Tiomkin @music Strangers_on_a_Train producer Alfred_Hitchcock"	6.86302
+33	"Grace_Kelly @starring Dial_M_for_Murder music Dimitri_Tiomkin @musicComposer Strangers_on_a_Train producer Alfred_Hitchcock"	6.86302
+34	"Grace_Kelly @starring Dial_M_for_Murder music Dimitri_Tiomkin @music Strangers_on_a_Train producer Alfred_Hitchcock"	6.86302
+35	"Grace_Kelly @starring Dial_M_for_Murder cinematography Robert_Burks @cinematography The_Wrong_Man director Alfred_Hitchcock"	6.855644
+36	"Grace_Kelly @starring To_Catch_a_Thief cinematography Robert_Burks @cinematography Dial_M_for_Murder producer Alfred_Hitchcock"	6.855644
+37	"Grace_Kelly @starring Rear_Window musicComposer Franz_Waxman @musicComposer Suspicion director Alfred_Hitchcock"	6.77751
+38	"Grace_Kelly @starring Rear_Window musicComposer Franz_Waxman @music Suspicion director Alfred_Hitchcock"	6.77751
+39	"Grace_Kelly @starring Rear_Window music Franz_Waxman @musicComposer Suspicion director Alfred_Hitchcock"	6.77751
+40	"Grace_Kelly @starring Rear_Window musicComposer Franz_Waxman @musicComposer Suspicion producer Alfred_Hitchcock"	6.77751
+41	"Grace_Kelly @starring Rear_Window music Franz_Waxman @music Suspicion director Alfred_Hitchcock"	6.77751
+42	"Grace_Kelly @starring Rear_Window musicComposer Franz_Waxman @music Suspicion producer Alfred_Hitchcock"	6.77751
+43	"Grace_Kelly @starring Rear_Window music Franz_Waxman @musicComposer Suspicion producer Alfred_Hitchcock"	6.77751
+44	"Grace_Kelly @starring Rear_Window music Franz_Waxman @music Suspicion producer Alfred_Hitchcock"	6.77751
+45	"Grace_Kelly @starring Dial_M_for_Murder starring Ray_Milland @director Suspicion executiveProducer Alfred_Hitchcock"	6.579814
+46	"Grace_Kelly @starring Dial_M_for_Murder starring Ray_Milland @director Suspicion director Alfred_Hitchcock"	6.579814
+47	"Grace_Kelly @starring Rear_Window director Alfred_Hitchcock"	6.5679166666667
+48	"Grace_Kelly @starring Rear_Window producer Alfred_Hitchcock"	6.5679166666667
+49	"Grace_Kelly @starring Dial_M_for_Murder director Alfred_Hitchcock"	6.4679166666667
+50	"Grace_Kelly @starring Dial_M_for_Murder producer Alfred_Hitchcock"	6.4679166666667

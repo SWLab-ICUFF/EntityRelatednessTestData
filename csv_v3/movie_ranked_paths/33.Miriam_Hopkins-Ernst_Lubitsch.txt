@@ -1,0 +1,51 @@
+ID	NAME_PATH	SCORE
+1	"Miriam_Hopkins @starring Trouble_in_Paradise screenplay Samson_Raphaelson @screenplay The_Shop_Around_the_Corner director Ernst_Lubitsch"	6.617286
+2	"Miriam_Hopkins @starring Trouble_in_Paradise screenplay Samson_Raphaelson @screenplay The_Shop_Around_the_Corner producer Ernst_Lubitsch"	6.617286
+3	"Miriam_Hopkins @starring Trouble_in_Paradise screenplay Samson_Raphaelson @writer The_Shop_Around_the_Corner director Ernst_Lubitsch"	6.617286
+4	"Miriam_Hopkins @starring Trouble_in_Paradise writer Samson_Raphaelson @screenplay The_Shop_Around_the_Corner director Ernst_Lubitsch"	6.617286
+5	"Miriam_Hopkins @starring Trouble_in_Paradise writer Samson_Raphaelson @screenplay The_Shop_Around_the_Corner producer Ernst_Lubitsch"	6.617286
+6	"Miriam_Hopkins @starring Trouble_in_Paradise screenplay Samson_Raphaelson @writer The_Shop_Around_the_Corner producer Ernst_Lubitsch"	6.617286
+7	"Miriam_Hopkins @starring Trouble_in_Paradise writer Samson_Raphaelson @writer The_Shop_Around_the_Corner director Ernst_Lubitsch"	6.617286
+8	"Miriam_Hopkins @starring Trouble_in_Paradise writer Samson_Raphaelson @writer The_Shop_Around_the_Corner producer Ernst_Lubitsch"	6.617286
+9	"Miriam_Hopkins @starring Trouble_in_Paradise screenplay Samson_Raphaelson @writer The_Smiling_Lieutenant director Ernst_Lubitsch"	6.557286
+10	"Miriam_Hopkins @starring The_Smiling_Lieutenant writer Samson_Raphaelson @screenplay Trouble_in_Paradise producer Ernst_Lubitsch"	6.557286
+11	"Miriam_Hopkins @starring Trouble_in_Paradise screenplay Samson_Raphaelson @writer The_Smiling_Lieutenant writer Ernst_Lubitsch"	6.557286
+12	"Miriam_Hopkins @starring Trouble_in_Paradise writer Samson_Raphaelson @writer The_Smiling_Lieutenant director Ernst_Lubitsch"	6.557286
+13	"Miriam_Hopkins @starring Trouble_in_Paradise writer Samson_Raphaelson @writer The_Smiling_Lieutenant producer Ernst_Lubitsch"	6.557286
+14	"Miriam_Hopkins @starring Trouble_in_Paradise screenplay Samson_Raphaelson @writer The_Merry_Widow director Ernst_Lubitsch"	6.497286
+15	"Miriam_Hopkins @starring Trouble_in_Paradise screenplay Samson_Raphaelson @writer The_Merry_Widow producer Ernst_Lubitsch"	6.497286
+16	"Miriam_Hopkins @starring Trouble_in_Paradise writer Samson_Raphaelson @writer The_Merry_Widow director Ernst_Lubitsch"	6.497286
+17	"Miriam_Hopkins @starring Trouble_in_Paradise writer Samson_Raphaelson @writer The_Merry_Widow producer Ernst_Lubitsch"	6.497286
+18	"Miriam_Hopkins @starring Trouble_in_Paradise screenplay Samson_Raphaelson @screenplay Angel director Ernst_Lubitsch"	6.477286
+19	"Miriam_Hopkins @starring Trouble_in_Paradise screenplay Samson_Raphaelson @screenplay Angel producer Ernst_Lubitsch"	6.477286
+20	"Miriam_Hopkins @starring Trouble_in_Paradise screenplay Samson_Raphaelson @writer Angel director Ernst_Lubitsch"	6.477286
+21	"Miriam_Hopkins @starring Trouble_in_Paradise writer Samson_Raphaelson @screenplay Angel director Ernst_Lubitsch"	6.477286
+22	"Miriam_Hopkins @starring Trouble_in_Paradise writer Samson_Raphaelson @screenplay Angel producer Ernst_Lubitsch"	6.477286
+23	"Miriam_Hopkins @starring Trouble_in_Paradise screenplay Samson_Raphaelson @writer Angel producer Ernst_Lubitsch"	6.477286
+24	"Miriam_Hopkins @starring Trouble_in_Paradise writer Samson_Raphaelson @writer Angel director Ernst_Lubitsch"	6.477286
+25	"Miriam_Hopkins @starring Trouble_in_Paradise writer Samson_Raphaelson @writer Angel producer Ernst_Lubitsch"	6.477286
+26	"Miriam_Hopkins @starring The_Smiling_Lieutenant writer Samson_Raphaelson @writer The_Merry_Widow director Ernst_Lubitsch"	6.417286
+27	"Miriam_Hopkins @starring The_Smiling_Lieutenant writer Samson_Raphaelson @writer The_Merry_Widow producer Ernst_Lubitsch"	6.417286
+28	"Miriam_Hopkins @starring The_Smiling_Lieutenant writer Samson_Raphaelson @screenplay Angel director Ernst_Lubitsch"	6.397286
+29	"Miriam_Hopkins @starring The_Smiling_Lieutenant writer Samson_Raphaelson @screenplay Angel producer Ernst_Lubitsch"	6.397286
+30	"Miriam_Hopkins @starring The_Smiling_Lieutenant writer Samson_Raphaelson @writer Angel director Ernst_Lubitsch"	6.397286
+31	"Miriam_Hopkins @starring The_Smiling_Lieutenant writer Samson_Raphaelson @writer Angel producer Ernst_Lubitsch"	6.397286
+32	"Miriam_Hopkins @starring Trouble_in_Paradise cinematography Victor_Milner @cinematography Desire producer Ernst_Lubitsch"	6.364944
+33	"Miriam_Hopkins @starring Trouble_in_Paradise starring Herbert_Marshall @starring Angel director Ernst_Lubitsch"	6.34987
+34	"Miriam_Hopkins @starring Trouble_in_Paradise starring Herbert_Marshall @starring Angel producer Ernst_Lubitsch"	6.34987
+35	"Miriam_Hopkins @starring The_Mating_Season cinematography Charles_Lang @cinematography Angel director Ernst_Lubitsch"	6.332996
+36	"Miriam_Hopkins @starring The_Mating_Season cinematography Charles_Lang @cinematography Angel producer Ernst_Lubitsch"	6.332996
+37	"Miriam_Hopkins @starring The_Mating_Season cinematography Charles_Lang @cinematography Desire producer Ernst_Lubitsch"	6.312996
+38	"Miriam_Hopkins @starring The_Smiling_Lieutenant writer Ernest_Vajda @writer The_Merry_Widow director Ernst_Lubitsch"	6.299842
+39	"Miriam_Hopkins @starring The_Smiling_Lieutenant writer Ernest_Vajda @writer The_Merry_Widow producer Ernst_Lubitsch"	6.299842
+40	"Miriam_Hopkins @starring Design_for_Living cinematography Victor_Milner @cinematography Desire producer Ernst_Lubitsch"	6.244944
+41	"Miriam_Hopkins @starring The_Outcasts_of_Poker_Flat cinematography Joseph_LaShelle @cinematography Cluny_Brown director Ernst_Lubitsch"	6.176984
+42	"Miriam_Hopkins @starring The_Outcasts_of_Poker_Flat cinematography Joseph_LaShelle @cinematography Cluny_Brown producer Ernst_Lubitsch"	6.176984
+43	"Miriam_Hopkins @starring Trouble_in_Paradise director Ernst_Lubitsch"	5.9797366666667
+44	"Miriam_Hopkins @starring Trouble_in_Paradise producer Ernst_Lubitsch"	5.9797366666667
+45	"Miriam_Hopkins @starring All_of_Me cinematography Victor_Milner @cinematography Desire producer Ernst_Lubitsch"	5.964944
+46	"Miriam_Hopkins @starring The_Smiling_Lieutenant director Ernst_Lubitsch"	5.8464033333333
+47	"Miriam_Hopkins @starring The_Smiling_Lieutenant producer Ernst_Lubitsch"	5.8464033333333
+48	"Miriam_Hopkins @starring The_Smiling_Lieutenant writer Ernst_Lubitsch"	5.8464033333333
+49	"Miriam_Hopkins @starring Design_for_Living director Ernst_Lubitsch"	5.7797366666667
+50	"Miriam_Hopkins @starring Design_for_Living producer Ernst_Lubitsch"	5.7797366666667

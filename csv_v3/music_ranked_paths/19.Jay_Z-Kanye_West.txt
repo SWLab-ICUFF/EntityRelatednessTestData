@@ -1,0 +1,51 @@
+ID	NAME_PATH	SCORE
+1	"Jay_Z @associatedActs Linkin_Park @musicalArtist Encore writer Kanye_West"	116112762.25
+2	"Jay_Z @associatedActs Linkin_Park @musicalBand Encore writer Kanye_West"	116112762.25
+3	"Jay_Z @associatedBand Linkin_Park @musicalArtist Encore writer Kanye_West"	116112762.25
+4	"Jay_Z @associatedMusicalArtist Linkin_Park @musicalBand Encore writer Kanye_West"	116112762.25
+5	"Jay_Z @associatedMusicalArtist Linkin_Park @musicalArtist Encore writer Kanye_West"	116112762.25
+6	"Jay_Z @associatedBand Linkin_Park @musicalBand Encore writer Kanye_West"	116112762.25
+7	"Jay_Z @associatedActs Linkin_Park @associatedActs Rick_Rubin associatedMusicalArtist Kanye_West"	113746058.25
+8	"Jay_Z @associatedActs Linkin_Park @associatedMusicalArtist Rick_Rubin associatedBand Kanye_West"	113746058.25
+9	"Jay_Z @associatedMusicalArtist Linkin_Park @associatedActs Rick_Rubin associatedMusicalArtist Kanye_West"	113746058.25
+10	"Jay_Z @associatedMusicalArtist Linkin_Park @associatedMusicalArtist Rick_Rubin associatedMusicalArtist Kanye_West"	113746058.25
+11	"Jay_Z @associatedBand Linkin_Park @associatedBand Rick_Rubin associatedMusicalArtist Kanye_West"	113746058.25
+12	"Jay_Z @associatedMusicalArtist Linkin_Park @associatedBand Rick_Rubin associatedBand Kanye_West"	113746058.25
+13	"Jay_Z @associatedActs Linkin_Park @artist Minutes_to_Midnight_(album) producer Rick_Rubin associatedActs Kanye_West"	99298800.6
+14	"Jay_Z @associatedActs Linkin_Park @artist Minutes_to_Midnight_(album) producer Rick_Rubin associatedBand Kanye_West"	99298800.6
+15	"Jay_Z @associatedBand Linkin_Park @artist Minutes_to_Midnight_(album) producer Rick_Rubin associatedActs Kanye_West"	99298800.6
+16	"Jay_Z @associatedMusicalArtist Linkin_Park @artist Minutes_to_Midnight_(album) producer Rick_Rubin associatedActs Kanye_West"	99298800.6
+17	"Jay_Z @associatedActs Linkin_Park @artist Minutes_to_Midnight_(album) producer Rick_Rubin associatedMusicalArtist Kanye_West"	99298800.6
+18	"Jay_Z @associatedBand Linkin_Park @artist Minutes_to_Midnight_(album) producer Rick_Rubin associatedMusicalArtist Kanye_West"	99298800.6
+19	"Jay_Z @associatedBand Linkin_Park @artist Minutes_to_Midnight_(album) producer Rick_Rubin associatedBand Kanye_West"	99298800.6
+20	"Jay_Z @associatedMusicalArtist Linkin_Park @artist Minutes_to_Midnight_(album) producer Rick_Rubin associatedBand Kanye_West"	99298800.6
+21	"Jay_Z @associatedMusicalArtist Linkin_Park @artist Minutes_to_Midnight_(album) producer Rick_Rubin associatedMusicalArtist Kanye_West"	99298800.6
+22	"Jay_Z @associatedActs Linkin_Park @artist A_Thousand_Suns producer Rick_Rubin associatedActs Kanye_West"	94485113.4
+23	"Jay_Z @associatedBand Linkin_Park @artist A_Thousand_Suns producer Rick_Rubin associatedActs Kanye_West"	94485113.4
+24	"Jay_Z @associatedMusicalArtist Linkin_Park @artist A_Thousand_Suns producer Rick_Rubin associatedMusicalArtist Kanye_West"	94485113.4
+25	"Jay_Z @associatedActs Linkin_Park @musicalArtist What_I've_Done previousWork Encore writer Kanye_West"	94440403.4
+26	"Jay_Z @associatedActs Linkin_Park @artist What_I've_Done previousWork Encore writer Kanye_West"	94440403.4
+27	"Jay_Z @associatedBand Linkin_Park @artist What_I've_Done previousWork Encore writer Kanye_West"	94440403.4
+28	"Jay_Z @associatedMusicalArtist Linkin_Park @artist What_I've_Done previousWork Encore writer Kanye_West"	94440403.4
+29	"Jay_Z @associatedMusicalArtist Linkin_Park @artist What_I've_Done @subsequentWork Encore writer Kanye_West"	94440403.4
+30	"Jay_Z @associatedActs Linkin_Park @musicalArtist Breaking_the_Habit subsequentWork Encore writer Kanye_West"	94248272.6
+31	"Jay_Z @associatedBand Linkin_Park @musicalBand Breaking_the_Habit @previousWork Encore writer Kanye_West"	94248272.6
+32	"Jay_Z @associatedBand Linkin_Park @musicalArtist Breaking_the_Habit subsequentWork Encore writer Kanye_West"	94248272.6
+33	"Jay_Z @associatedMusicalArtist Linkin_Park @musicalBand Breaking_the_Habit subsequentWork Encore writer Kanye_West"	94248272.6
+34	"Jay_Z @associatedMusicalArtist Linkin_Park @musicalArtist Breaking_the_Habit subsequentWork Encore writer Kanye_West"	94248272.6
+35	"Jay_Z @associatedMusicalArtist Linkin_Park @producer Breaking_the_Habit @previousWork Encore writer Kanye_West"	94248272.6
+36	"Jay_Z @associatedBand Linkin_Park @writer Breaking_the_Habit subsequentWork Encore writer Kanye_West"	94248272.6
+37	"Jay_Z @associatedActs Linkin_Park @artist Living_Things_(Linkin_Park_album) producer Rick_Rubin associatedActs Kanye_West"	93969437.6
+38	"Jay_Z @associatedActs Linkin_Park @artist Living_Things_(Linkin_Park_album) producer Rick_Rubin associatedMusicalArtist Kanye_West"	93969437.6
+39	"Jay_Z @associatedMusicalArtist Linkin_Park @artist Living_Things_(Linkin_Park_album) producer Rick_Rubin associatedActs Kanye_West"	93969437.6
+40	"Jay_Z @associatedMusicalArtist Linkin_Park @artist Living_Things_(Linkin_Park_album) producer Rick_Rubin associatedBand Kanye_West"	93969437.6
+41	"Jay_Z @associatedMusicalArtist Linkin_Park @artist Living_Things_(Linkin_Park_album) producer Rick_Rubin associatedMusicalArtist Kanye_West"	93969437.6
+42	"Jay_Z @associatedBand Linkin_Park @artist Living_Things_(Linkin_Park_album) producer Rick_Rubin associatedMusicalArtist Kanye_West"	93969437.6
+43	"Jay_Z @associatedBand Linkin_Park @artist Living_Things_(Linkin_Park_album) producer Rick_Rubin associatedBand Kanye_West"	93969437.6
+44	"Jay_Z @associatedActs Linkin_Park @associatedActs Z-Trip associatedActs Talib_Kweli associatedMusicalArtist Kanye_West"	93558515.4
+45	"Jay_Z @associatedMusicalArtist Linkin_Park @associatedActs Z-Trip associatedMusicalArtist Talib_Kweli associatedBand Kanye_West"	93558515.4
+46	"Jay_Z @associatedBand Linkin_Park @associatedBand Z-Trip associatedBand Talib_Kweli associatedActs Kanye_West"	93558515.4
+47	"Jay_Z @associatedMusicalArtist Linkin_Park @associatedBand Z-Trip associatedBand Talib_Kweli associatedActs Kanye_West"	93558515.4
+48	"Jay_Z @associatedBand Linkin_Park @associatedBand Z-Trip associatedBand Talib_Kweli associatedMusicalArtist Kanye_West"	93558515.4
+49	"Jay_Z @associatedMusicalArtist Linkin_Park @associatedBand Z-Trip associatedBand Talib_Kweli associatedBand Kanye_West"	93558515.4
+50	"Jay_Z @associatedBand Linkin_Park @associatedBand Z-Trip associatedMusicalArtist Talib_Kweli associatedBand Kanye_West"	93558515.4

@@ -1,0 +1,14 @@
+CODE	SCORE
+George_Harrison	17285119
+I_Wanna_Be_Your_Man	996965
+John_Kosh	6597
+John_Lennon	34166969
+Not_Fade_Away_(song)	895252
+Paul_McCartney	26355426
+Ray_Cooper	51113
+Robert_Fitzpatrick	1
+Ronnie_Schneider	1
+The_Beatles	476722738
+The_Dirty_Mac	69168
+The_Rolling_Stones	140805637
+Traveling_Wilburys	4232678

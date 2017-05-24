@@ -1,0 +1,9 @@
+CODE	SCORE
+Bob_Dylan	143419269
+Grateful_Dead	26924519
+Ian_Wallace_(drummer)	4431
+Stevie_Nicks	5868677
+Tom_Petty	12177607
+Tom_Petty_and_the_Heartbreakers	18568548
+Traveling_Wilburys	4232678
+Warren_Zevon	6026361

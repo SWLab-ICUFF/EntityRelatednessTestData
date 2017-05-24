@@ -1,0 +1,51 @@
+ID	NAME_PATH	SCORE
+1	"Errol_Flynn @starring The_Adventures_of_Robin_Hood musicComposer Erich_Wolfgang_Korngold @musicComposer Captain_Blood starring Olivia_de_Havilland"	6.7029
+2	"Errol_Flynn @starring Captain_Blood musicComposer Erich_Wolfgang_Korngold @musicComposer The_Adventures_of_Robin_Hood starring Olivia_de_Havilland"	6.7029
+3	"Errol_Flynn @starring The_Sea_Hawk musicComposer Erich_Wolfgang_Korngold @musicComposer The_Adventures_of_Robin_Hood starring Olivia_de_Havilland"	6.7029
+4	"Errol_Flynn @starring The_Adventures_of_Robin_Hood musicComposer Erich_Wolfgang_Korngold @music Captain_Blood starring Olivia_de_Havilland"	6.7029
+5	"Errol_Flynn @starring The_Sea_Hawk musicComposer Erich_Wolfgang_Korngold @music The_Adventures_of_Robin_Hood starring Olivia_de_Havilland"	6.7029
+6	"Errol_Flynn @starring Captain_Blood musicComposer Erich_Wolfgang_Korngold @music The_Adventures_of_Robin_Hood starring Olivia_de_Havilland"	6.7029
+7	"Errol_Flynn @starring Captain_Blood music Erich_Wolfgang_Korngold @musicComposer The_Adventures_of_Robin_Hood starring Olivia_de_Havilland"	6.7029
+8	"Errol_Flynn @starring The_Adventures_of_Robin_Hood music Erich_Wolfgang_Korngold @musicComposer Captain_Blood starring Olivia_de_Havilland"	6.7029
+9	"Errol_Flynn @starring The_Sea_Hawk music Erich_Wolfgang_Korngold @musicComposer The_Adventures_of_Robin_Hood starring Olivia_de_Havilland"	6.7029
+10	"Errol_Flynn @starring The_Adventures_of_Robin_Hood music Erich_Wolfgang_Korngold @music Captain_Blood starring Olivia_de_Havilland"	6.7029
+11	"Errol_Flynn @starring Captain_Blood music Erich_Wolfgang_Korngold @music The_Adventures_of_Robin_Hood starring Olivia_de_Havilland"	6.7029
+12	"Errol_Flynn @starring The_Sea_Hawk music Erich_Wolfgang_Korngold @music The_Adventures_of_Robin_Hood starring Olivia_de_Havilland"	6.7029
+13	"Errol_Flynn @starring The_Prince_and_the_Pauper musicComposer Erich_Wolfgang_Korngold @musicComposer The_Adventures_of_Robin_Hood starring Olivia_de_Havilland"	6.6029
+14	"Errol_Flynn @starring The_Prince_and_the_Pauper musicComposer Erich_Wolfgang_Korngold @music The_Adventures_of_Robin_Hood starring Olivia_de_Havilland"	6.6029
+15	"Errol_Flynn @starring The_Prince_and_the_Pauper music Erich_Wolfgang_Korngold @musicComposer The_Adventures_of_Robin_Hood starring Olivia_de_Havilland"	6.6029
+16	"Errol_Flynn @starring The_Prince_and_the_Pauper music Erich_Wolfgang_Korngold @music The_Adventures_of_Robin_Hood starring Olivia_de_Havilland"	6.6029
+17	"Errol_Flynn @starring The_Dawn_Patrol editing Ralph_Dawson @editing The_Adventures_of_Robin_Hood starring Olivia_de_Havilland"	6.590172
+18	"Errol_Flynn @starring The_Adventures_of_Robin_Hood musicComposer Erich_Wolfgang_Korngold @musicComposer The_Private_Lives_of_Elizabeth_and_Essex starring Olivia_de_Havilland"	6.5829
+19	"Errol_Flynn @starring The_Private_Lives_of_Elizabeth_and_Essex musicComposer Erich_Wolfgang_Korngold @musicComposer The_Adventures_of_Robin_Hood starring Olivia_de_Havilland"	6.5829
+20	"Errol_Flynn @starring The_Sea_Hawk musicComposer Erich_Wolfgang_Korngold @music Captain_Blood starring Olivia_de_Havilland"	6.5829
+21	"Errol_Flynn @starring The_Adventures_of_Robin_Hood musicComposer Erich_Wolfgang_Korngold @music The_Private_Lives_of_Elizabeth_and_Essex starring Olivia_de_Havilland"	6.5829
+22	"Errol_Flynn @starring The_Private_Lives_of_Elizabeth_and_Essex musicComposer Erich_Wolfgang_Korngold @music The_Adventures_of_Robin_Hood starring Olivia_de_Havilland"	6.5829
+23	"Errol_Flynn @starring The_Sea_Hawk music Erich_Wolfgang_Korngold @musicComposer Captain_Blood starring Olivia_de_Havilland"	6.5829
+24	"Errol_Flynn @starring The_Private_Lives_of_Elizabeth_and_Essex music Erich_Wolfgang_Korngold @musicComposer The_Adventures_of_Robin_Hood starring Olivia_de_Havilland"	6.5829
+25	"Errol_Flynn @starring The_Adventures_of_Robin_Hood music Erich_Wolfgang_Korngold @musicComposer The_Private_Lives_of_Elizabeth_and_Essex starring Olivia_de_Havilland"	6.5829
+26	"Errol_Flynn @starring The_Private_Lives_of_Elizabeth_and_Essex music Erich_Wolfgang_Korngold @music The_Adventures_of_Robin_Hood starring Olivia_de_Havilland"	6.5829
+27	"Errol_Flynn @starring The_Sea_Hawk music Erich_Wolfgang_Korngold @music Captain_Blood starring Olivia_de_Havilland"	6.5829
+28	"Errol_Flynn @starring The_Adventures_of_Robin_Hood music Erich_Wolfgang_Korngold @music The_Private_Lives_of_Elizabeth_and_Essex starring Olivia_de_Havilland"	6.5829
+29	"Errol_Flynn @starring The_Adventures_of_Robin_Hood musicComposer Erich_Wolfgang_Korngold @musicComposer Devotion starring Olivia_de_Havilland"	6.4829
+30	"Errol_Flynn @starring The_Adventures_of_Robin_Hood musicComposer Erich_Wolfgang_Korngold @music Devotion starring Olivia_de_Havilland"	6.4829
+31	"Errol_Flynn @starring The_Adventures_of_Robin_Hood music Erich_Wolfgang_Korngold @musicComposer Devotion starring Olivia_de_Havilland"	6.4829
+32	"Errol_Flynn @starring The_Adventures_of_Robin_Hood music Erich_Wolfgang_Korngold @music Devotion starring Olivia_de_Havilland"	6.4829
+33	"Errol_Flynn @starring Edge_of_Darkness producer Henry_Blanke @producer The_Adventures_of_Robin_Hood starring Olivia_de_Havilland"	6.461444
+34	"Errol_Flynn @starring The_Adventures_of_Robin_Hood producer Henry_Blanke @producer A_Midsummer_Night's_Dream starring Olivia_de_Havilland"	6.421444
+35	"Errol_Flynn @starring The_Adventures_of_Robin_Hood editing Ralph_Dawson @editing A_Midsummer_Night's_Dream starring Olivia_de_Havilland"	6.410172
+36	"Errol_Flynn @starring The_Dawn_Patrol editing Ralph_Dawson @editing A_Midsummer_Night's_Dream starring Olivia_de_Havilland"	6.310172
+37	"Errol_Flynn @starring The_Sea_Hawk producer Henry_Blanke @producer A_Midsummer_Night's_Dream starring Olivia_de_Havilland"	6.301444
+38	"Errol_Flynn @starring The_Adventures_of_Robin_Hood producer Hal_B._Wallis @producer Four's_a_Crowd starring Olivia_de_Havilland"	6.279136
+39	"Errol_Flynn @starring Four's_a_Crowd producer Hal_B._Wallis @producer The_Adventures_of_Robin_Hood starring Olivia_de_Havilland"	6.279136
+40	"Errol_Flynn @starring The_Prince_and_the_Pauper editing Ralph_Dawson @editing A_Midsummer_Night's_Dream starring Olivia_de_Havilland"	6.190172
+41	"Errol_Flynn @starring Edge_of_Darkness producer Henry_Blanke @producer A_Midsummer_Night's_Dream starring Olivia_de_Havilland"	6.181444
+42	"Errol_Flynn @starring Captain_Blood cinematography Hal_Mohr award A_Midsummer_Night's_Dream starring Olivia_de_Havilland"	6.114868
+43	"Errol_Flynn @starring Captain_Blood cinematography Hal_Mohr @cinematography A_Midsummer_Night's_Dream starring Olivia_de_Havilland"	6.114868
+44	"Errol_Flynn @starring The_Adventures_of_Robin_Hood starring Olivia_de_Havilland"	6.0669533333333
+45	"Errol_Flynn @starring Cry_Wolf producer Henry_Blanke @producer A_Midsummer_Night's_Dream starring Olivia_de_Havilland"	6.061444
+46	"Errol_Flynn @starring Captain_Blood starring Olivia_de_Havilland"	5.8669533333333
+47	"Errol_Flynn @starring They_Died_with_Their_Boots_On starring Olivia_de_Havilland"	5.7002866666667
+48	"Errol_Flynn @starring The_Private_Lives_of_Elizabeth_and_Essex starring Olivia_de_Havilland"	5.6669533333333
+49	"Errol_Flynn @starring Dodge_City starring Olivia_de_Havilland"	5.6669533333333
+50	"Errol_Flynn @starring Four's_a_Crowd starring Olivia_de_Havilland"	5.43362

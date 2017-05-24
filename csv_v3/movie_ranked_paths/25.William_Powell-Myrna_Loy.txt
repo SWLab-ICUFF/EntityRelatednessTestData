@@ -1,0 +1,51 @@
+ID	NAME_PATH	SCORE
+1	"William_Powell @starring Forgotten_Faces editing David_O._Selznick @producer Topaze starring Myrna_Loy"	6.753128
+2	"William_Powell @starring One_Way_Passage editing Ralph_Dawson @editing The_Desert_Song starring Myrna_Loy"	6.656756
+3	"William_Powell @starring Forgotten_Faces editing David_O._Selznick @producer Night_Flight starring Myrna_Loy"	6.633128
+4	"William_Powell @starring Forgotten_Faces producer David_O._Selznick @producer Night_Flight starring Myrna_Loy"	6.633128
+5	"William_Powell @starring Rendezvous musicComposer William_Axt @musicComposer The_Thin_Man starring Myrna_Loy"	6.545226
+6	"William_Powell @starring Rendezvous musicComposer William_Axt @music The_Thin_Man starring Myrna_Loy"	6.545226
+7	"William_Powell @starring Rendezvous music William_Axt @musicComposer The_Thin_Man starring Myrna_Loy"	6.545226
+8	"William_Powell @starring Rendezvous music William_Axt @music The_Thin_Man starring Myrna_Loy"	6.545226
+9	"William_Powell @starring Rendezvous cinematography James_Wong_Howe @cinematography The_Thin_Man starring Myrna_Loy"	6.541478
+10	"William_Powell @starring Rendezvous producer Lawrence_Weingarten @producer Libeled_Lady starring Myrna_Loy"	6.530658
+11	"William_Powell @starring The_Thin_Man musicComposer William_Axt @musicComposer Men_in_White starring Myrna_Loy"	6.505226
+12	"William_Powell @starring Rendezvous musicComposer William_Axt @musicComposer Libeled_Lady starring Myrna_Loy"	6.505226
+13	"William_Powell @starring The_Thin_Man musicComposer William_Axt @music Men_in_White starring Myrna_Loy"	6.505226
+14	"William_Powell @starring Rendezvous musicComposer William_Axt @music Libeled_Lady starring Myrna_Loy"	6.505226
+15	"William_Powell @starring The_Thin_Man music William_Axt @musicComposer Men_in_White starring Myrna_Loy"	6.505226
+16	"William_Powell @starring Rendezvous music William_Axt @musicComposer Libeled_Lady starring Myrna_Loy"	6.505226
+17	"William_Powell @starring The_Thin_Man music William_Axt @music Men_in_White starring Myrna_Loy"	6.505226
+18	"William_Powell @starring Rendezvous music William_Axt @music Libeled_Lady starring Myrna_Loy"	6.505226
+19	"William_Powell @starring Rendezvous musicComposer William_Axt @musicComposer After_the_Thin_Man starring Myrna_Loy"	6.465226
+20	"William_Powell @starring Rendezvous musicComposer William_Axt @music After_the_Thin_Man starring Myrna_Loy"	6.465226
+21	"William_Powell @starring Rendezvous music William_Axt @musicComposer After_the_Thin_Man starring Myrna_Loy"	6.465226
+22	"William_Powell @starring Rendezvous music William_Axt @music After_the_Thin_Man starring Myrna_Loy"	6.465226
+23	"William_Powell @starring Rendezvous producer Lawrence_Weingarten @producer I_Love_You_Again starring Myrna_Loy"	6.450658
+24	"William_Powell @starring Rendezvous cinematography William_H._Daniels @cinematography Love_Crazy starring Myrna_Loy"	6.43366
+25	"William_Powell @starring Rendezvous cinematography William_H._Daniels @cinematography Another_Thin_Man starring Myrna_Loy"	6.43366
+26	"William_Powell @starring The_Thin_Man starring Myrna_Loy"	6.41126
+27	"William_Powell @starring Rendezvous cinematography James_Wong_Howe @cinematography Mr._Blandings_Builds_His_Dream_House starring Myrna_Loy"	6.401478
+28	"William_Powell @starring Rendezvous musicComposer William_Axt @musicComposer Manhattan_Melodrama starring Myrna_Loy"	6.365226
+29	"William_Powell @starring Rendezvous musicComposer William_Axt @music Manhattan_Melodrama starring Myrna_Loy"	6.365226
+30	"William_Powell @starring Rendezvous music William_Axt @musicComposer Manhattan_Melodrama starring Myrna_Loy"	6.365226
+31	"William_Powell @starring Rendezvous music William_Axt @music Manhattan_Melodrama starring Myrna_Loy"	6.365226
+32	"William_Powell @starring Rendezvous cinematography James_Wong_Howe @cinematography Manhattan_Melodrama starring Myrna_Loy"	6.361478
+33	"William_Powell @starring Libeled_Lady starring Myrna_Loy"	6.3445933333333
+34	"William_Powell @starring Reckless starring Jean_Harlow @starring Libeled_Lady starring Myrna_Loy"	6.285846
+35	"William_Powell @starring After_the_Thin_Man starring Myrna_Loy"	6.2779266666667
+36	"William_Powell @starring Love_Crazy starring Myrna_Loy"	6.21126
+37	"William_Powell @starring I_Love_You_Again starring Myrna_Loy"	6.21126
+38	"William_Powell @starring Another_Thin_Man starring Myrna_Loy"	6.21126
+39	"William_Powell @starring Rendezvous musicComposer William_Axt @musicComposer Men_in_White starring Myrna_Loy"	6.205226
+40	"William_Powell @starring Rendezvous musicComposer William_Axt @music Men_in_White starring Myrna_Loy"	6.205226
+41	"William_Powell @starring Rendezvous music William_Axt @musicComposer Men_in_White starring Myrna_Loy"	6.205226
+42	"William_Powell @starring Rendezvous music William_Axt @music Men_in_White starring Myrna_Loy"	6.205226
+43	"William_Powell @starring Reckless producer David_O._Selznick @producer Night_Flight starring Myrna_Loy"	6.193128
+44	"William_Powell @starring The_Thin_Man_Goes_Home starring Myrna_Loy"	6.1779266666667
+45	"William_Powell @starring Shadow_of_the_Thin_Man starring Myrna_Loy"	6.1445933333333
+46	"William_Powell @starring Reckless cinematography George_J._Folsey @cinematography Men_in_White starring Myrna_Loy"	6.134182
+47	"William_Powell @starring Manhattan_Melodrama starring Myrna_Loy"	6.11126
+48	"William_Powell @starring Double_Wedding starring Myrna_Loy"	6.0445933333333
+49	"William_Powell @starring Song_of_the_Thin_Man starring Myrna_Loy"	6.0445933333333
+50	"William_Powell @starring Sherlock_Holmes starring John_Barrymore @starring Night_Flight starring Myrna_Loy"	5.87186

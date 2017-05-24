@@ -1,0 +1,7 @@
+CODE	TYPE	DBPEDIA_URI	LAST.FM_URI
+Ronnie_Wood	Artist	http://dbpedia.org/resource/Ronnie_Wood	https://www.last.fm/music/+noredirect/Ronnie+Wood
+Ian_McLagan	Artist	http://dbpedia.org/resource/Ian_McLagan	https://www.last.fm/music/Ian+McLagan
+Rod_Stewart	Artist	http://dbpedia.org/resource/Rod_Stewart	https://www.last.fm/music/Rod+Stewart
+Billy_Nicholls	Artist	http://dbpedia.org/resource/Billy_Nicholls	https://www.last.fm/music/Billy+Nicholls
+Faces_(band)	Artist	http://dbpedia.org/resource/Faces_(band)	https://www.last.fm/music/Faces
+The_Rolling_Stones	Artist	http://dbpedia.org/resource/The_Rolling_Stones	https://www.last.fm/music/The+Rolling+Stones

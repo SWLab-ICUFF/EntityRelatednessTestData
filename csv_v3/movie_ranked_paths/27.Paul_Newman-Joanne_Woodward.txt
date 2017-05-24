@@ -1,0 +1,51 @@
+ID	NAME_PATH	SCORE
+1	"Paul_Newman @starring The_Hustler editing Dede_Allen @editing Rachel,_Rachel starring Joanne_Woodward"	6.236704
+2	"Paul_Newman @director Rachel,_Rachel screenplay Stewart_Stern @author Sybil starring Joanne_Woodward"	6.22918
+3	"Paul_Newman @producer Rachel,_Rachel screenplay Stewart_Stern @author Sybil starring Joanne_Woodward"	6.22918
+4	"Paul_Newman @director Rachel,_Rachel screenplay Stewart_Stern @writer Sybil starring Joanne_Woodward"	6.22918
+5	"Paul_Newman @producer Rachel,_Rachel screenplay Stewart_Stern @writer Sybil starring Joanne_Woodward"	6.22918
+6	"Paul_Newman @director Rachel,_Rachel writer Stewart_Stern @author Sybil starring Joanne_Woodward"	6.22918
+7	"Paul_Newman @producer Rachel,_Rachel writer Stewart_Stern @author Sybil starring Joanne_Woodward"	6.22918
+8	"Paul_Newman @director Rachel,_Rachel writer Stewart_Stern @writer Sybil starring Joanne_Woodward"	6.22918
+9	"Paul_Newman @producer Rachel,_Rachel writer Stewart_Stern @writer Sybil starring Joanne_Woodward"	6.22918
+10	"Paul_Newman @starring Hud producer Irving_Ravetch @writer The_Long,_Hot_Summer starring Joanne_Woodward"	6.21718
+11	"Paul_Newman @starring Hud writer Irving_Ravetch @writer The_Long,_Hot_Summer starring Joanne_Woodward"	6.21718
+12	"Paul_Newman @director The_Glass_Menagerie starring James_Naughton @director Our_Town producer Joanne_Woodward"	6.192954
+13	"Paul_Newman @starring Our_Town director James_Naughton @starring The_Glass_Menagerie starring Joanne_Woodward"	6.192954
+14	"Paul_Newman @starring Hud director Martin_Ritt @director The_Long,_Hot_Summer starring Joanne_Woodward"	6.152268
+15	"Paul_Newman @starring Hud producer Martin_Ritt @director The_Long,_Hot_Summer starring Joanne_Woodward"	6.152268
+16	"Paul_Newman @starring The_Long,_Hot_Summer cinematography Joseph_LaShelle @cinematography No_Down_Payment starring Joanne_Woodward"	6.126322
+17	"Paul_Newman @starring The_Long,_Hot_Summer editing Louis_R._Loeffler @editing No_Down_Payment starring Joanne_Woodward"	6.067276
+18	"Paul_Newman @starring The_Long,_Hot_Summer producer Jerry_Wald @producer No_Down_Payment starring Joanne_Woodward"	6.065876
+19	"Paul_Newman @starring Hombre director Martin_Ritt @director The_Long,_Hot_Summer starring Joanne_Woodward"	6.052268
+20	"Paul_Newman @starring Hombre producer Martin_Ritt @director The_Long,_Hot_Summer starring Joanne_Woodward"	6.052268
+21	"Paul_Newman @starring The_Long,_Hot_Summer director Martin_Ritt @director No_Down_Payment starring Joanne_Woodward"	6.032268
+22	"Paul_Newman @starring The_Long,_Hot_Summer producer Jerry_Wald @producer The_Stripper starring Joanne_Woodward"	6.025876
+23	"Paul_Newman @starring The_Long,_Hot_Summer artist Lionel_Newman @musicComposer A_Kiss_Before_Dying starring Joanne_Woodward"	5.962278
+24	"Paul_Newman @starring The_Long,_Hot_Summer artist Lionel_Newman @music A_Kiss_Before_Dying starring Joanne_Woodward"	5.962278
+25	"Paul_Newman @starring The_Long,_Hot_Summer writer Irving_Ravetch @writer The_Sound_and_the_Fury starring Joanne_Woodward"	5.91718
+26	"Paul_Newman @starring The_Long,_Hot_Summer director Martin_Ritt @director Paris_Blues starring Joanne_Woodward "	5.912268
+27	"Paul_Newman @starring The_Prize musicComposer Jerry_Goldsmith @musicComposer The_Stripper starring Joanne_Woodward"	5.873646
+28	"Paul_Newman @starring The_Prize musicComposer Jerry_Goldsmith @music The_Stripper starring Joanne_Woodward"	5.873646
+29	"Paul_Newman @starring The_Prize music Jerry_Goldsmith @musicComposer The_Stripper starring Joanne_Woodward"	5.873646
+30	"Paul_Newman @starring The_Prize music Jerry_Goldsmith @music The_Stripper starring Joanne_Woodward"	5.873646
+31	"Paul_Newman @starring Twilight writer Richard_Russo @author Empire_Falls starring Joanne_Woodward"	5.852736
+32	"Paul_Newman @starring Twilight writer Richard_Russo @writer Empire_Falls starring Joanne_Woodward"	5.852736
+33	"Paul_Newman @starring Exodus starring Lee_J._Cobb @starring The_Three_Faces_of_Eve starring Joanne_Woodward"	5.759012
+34	"Paul_Newman @starring Twilight musicComposer Elmer_Bernstein @musicComposer The_Age_of_Innocence narrator Joanne_Woodward"	5.690654
+35	"Paul_Newman @starring Twilight musicComposer Elmer_Bernstein @music The_Age_of_Innocence narrator Joanne_Woodward"	5.690654
+36	"Paul_Newman @starring Twilight music Elmer_Bernstein @musicComposer The_Age_of_Innocence narrator Joanne_Woodward"	5.690654
+37	"Paul_Newman @starring Twilight music Elmer_Bernstein @music The_Age_of_Innocence narrator Joanne_Woodward"	5.690654
+38	"Paul_Newman @starring Twilight musicComposer Elmer_Bernstein @artist The_Age_of_Innocence narrator Joanne_Woodward"	5.690654
+39	"Paul_Newman @starring Twilight music Elmer_Bernstein @artist The_Age_of_Innocence narrator Joanne_Woodward"	5.690654
+40	"Paul_Newman @starring Our_Town producer Joanne_Woodward"	5.6619666666667
+41	"Paul_Newman @director The_Glass_Menagerie starring Joanne_Woodward"	5.4953
+42	"Paul_Newman @director The_Effect_of_Gamma_Rays_on_Man-in-the-Moon_Marigolds starring Joanne_Woodward"	5.4619666666667
+43	"Paul_Newman @producer The_Effect_of_Gamma_Rays_on_Man-in-the-Moon_Marigolds starring Joanne_Woodward"	5.4619666666667
+44	"Paul_Newman @narrator King:_A_Filmed_Record..._Montgomery_to_Memphis narrator Joanne_Woodward"	5.4286333333333
+45	"Paul_Newman @director Rachel,_Rachel starring Joanne_Woodward"	5.4286333333333
+46	"Paul_Newman @producer Rachel,_Rachel starring Joanne_Woodward"	5.4286333333333
+47	"Paul_Newman @starring The_Long,_Hot_Summer starring Joanne_Woodward"	5.4286333333333
+48	"Paul_Newman @starring Empire_Falls starring Joanne_Woodward"	5.3953
+49	"Paul_Newman @starring From_the_Terrace starring Joanne_Woodward"	5.1619666666667
+50	"Paul_Newman @starring Paris_Blues starring Joanne_Woodward"	5.1619666666667

@@ -1,0 +1,51 @@
+ID	NAME_PATH	SCORE
+1	"Bob_Dylan @formerBandMember The_Band"	78454026.5
+2	"Bob_Dylan @pastMembers The_Band"	78454026.5
+3	"Bob_Dylan @associatedActs The_Band"	78454026.5
+4	"Bob_Dylan @associatedMusicalArtist The_Band"	78454026.5
+5	"Bob_Dylan @associatedBand The_Band"	78454026.5
+6	"Bob_Dylan @artist The_Basement_Tapes artist The_Band"	52569853.333333
+7	"Bob_Dylan @producer The_Basement_Tapes artist The_Band"	52569853.333333
+8	"Bob_Dylan @artist The_Basement_Tapes producer The_Band"	52569853.333333
+9	"Bob_Dylan @producer The_Basement_Tapes producer The_Band"	52569853.333333
+10	"Bob_Dylan @artist I_Shall_Be_Released artist The_Band"	52553170.333333
+11	"Bob_Dylan @writer I_Shall_Be_Released artist The_Band"	52553170.333333
+12	"Bob_Dylan @associatedMusicalArtist Levon_Helm @formerBandMember The_Band"	52545560.333333
+13	"Bob_Dylan @associatedBand Levon_Helm @pastMembers The_Band"	52545560.333333
+14	"Bob_Dylan @associatedMusicalArtist Levon_Helm @pastMembers The_Band"	52545560.333333
+15	"Bob_Dylan @associatedMusicalArtist Levon_Helm associatedBand The_Band"	52545560.333333
+16	"Bob_Dylan @associatedBand Levon_Helm associatedMusicalArtist The_Band"	52545560.333333
+17	"Bob_Dylan @associatedActs Robbie_Robertson associatedActs The_Band"	52544290.333333
+18	"Bob_Dylan @associatedMusicalArtist Robbie_Robertson associatedActs The_Band"	52544290.333333
+19	"Bob_Dylan @associatedBand Robbie_Robertson associatedActs The_Band"	52544290.333333
+20	"Bob_Dylan @associatedBand Robbie_Robertson associatedMusicalArtist The_Band"	52544290.333333
+21	"Bob_Dylan @associatedActs Rick_Danko @formerBandMember The_Band"	52332206
+22	"Bob_Dylan @associatedBand Rick_Danko @pastMembers The_Band"	52332206
+23	"Bob_Dylan @associatedBand Rick_Danko associatedActs The_Band"	52332206
+24	"Bob_Dylan @associatedActs Rick_Danko associatedBand The_Band"	52332206
+25	"Bob_Dylan @associatedMusicalArtist Rick_Danko associatedMusicalArtist The_Band"	52332206
+26	"Bob_Dylan @associatedBand Rick_Danko associatedBand The_Band"	52332206
+27	"Bob_Dylan @associatedMusicalArtist Rick_Danko associatedBand The_Band"	52332206
+28	"Bob_Dylan @associatedActs Rob_Fraboni associatedMusicalArtist The_Band"	52302685
+29	"Bob_Dylan @associatedMusicalArtist Rob_Fraboni associatedActs The_Band"	52302685
+30	"Bob_Dylan @associatedMusicalArtist Rob_Fraboni associatedBand The_Band"	52302685
+31	"Bob_Dylan @artist Blood_on_the_Tracks subsequentWork The_Basement_Tapes artist The_Band"	41121477.75
+32	"Bob_Dylan @artist Blood_on_the_Tracks subsequentWork The_Basement_Tapes producer The_Band"	41121477.75
+33	"Bob_Dylan @producer Blood_on_the_Tracks subsequentWork The_Basement_Tapes artist The_Band"	41121477.75
+34	"Bob_Dylan @producer Blood_on_the_Tracks subsequentWork The_Basement_Tapes producer The_Band"	41121477.75
+35	"Bob_Dylan @artist Desire_(Bob_Dylan_album) previousWork The_Basement_Tapes artist The_Band"	40230312.75
+36	"Bob_Dylan @artist Desire_(Bob_Dylan_album) @subsequentWork The_Basement_Tapes artist The_Band"	40230312.75
+37	"Bob_Dylan @artist Desire_(Bob_Dylan_album) previousWork The_Basement_Tapes producer The_Band"	40230312.75
+38	"Bob_Dylan @artist Desire_(Bob_Dylan_album) @subsequentWork The_Basement_Tapes producer The_Band"	40230312.75
+39	"Bob_Dylan @artist Dylan_(2007_album) producer Rob_Fraboni associatedActs The_Band"	39681275.25
+40	"Bob_Dylan @artist Dylan_(2007_album) producer Rob_Fraboni associatedBand The_Band"	39681275.25
+41	"Bob_Dylan @artist Dylan_(2007_album) producer Rob_Fraboni associatedMusicalArtist The_Band"	39681275.25
+42	"Bob_Dylan @producer Dylan_(2007_album) producer Rob_Fraboni associatedActs The_Band"	39681275.25
+43	"Bob_Dylan @producer Dylan_(2007_album) producer Rob_Fraboni associatedMusicalArtist The_Band"	39681275.25
+44	"Bob_Dylan @producer Dylan_(2007_album) producer Rob_Fraboni associatedBand The_Band"	39681275.25
+45	"Bob_Dylan @artist This_Wheel's_on_Fire album The_Basement_Tapes producer The_Band"	39481421
+46	"Bob_Dylan @writer This_Wheel's_on_Fire album The_Basement_Tapes artist The_Band"	39481421
+47	"Bob_Dylan @writer This_Wheel's_on_Fire album The_Basement_Tapes producer The_Band"	39481421
+48	"Bob_Dylan @artist When_I_Paint_My_Masterpiece subsequentWork I_Shall_Be_Released artist The_Band"	39444653.5
+49	"Bob_Dylan @writer When_I_Paint_My_Masterpiece subsequentWork I_Shall_Be_Released artist The_Band"	39444653.5
+50	"Bob_Dylan @artist Bob_Dylan's_Greatest_Hits_Vol._II @album I_Shall_Be_Released artist The_Band"	39434865

@@ -1,0 +1,22 @@
+ # 	Entity 1	Entity 2
+21 	Elizabeth Taylor	Richard Burton 
+22 	Cary Grant	Katharine Hepburn 
+23 	Laurence Olivier	Ralph Richardson 
+24 	Errol Flynn	Olivia de Havilland 
+25 	William Powell	Myrna Loy 
+26 	James Stewart	Henry Fonda 
+27 	Paul Newman	Joanne Woodward 
+28 	Bette Davis	Joan Crawford 
+29 	John Wayne	Kirk Douglas 
+30 	Charlie Chaplin	Frank D. Williams 
+31 	Humphrey Bogart	Lauren Bacall 
+32 	Judy Garland	Mickey Rooney 
+33 	Miriam Hopkins	Ernst Lubitsch 
+34 	Myrna Loy	Jean Harlow 
+35 	Jean Harlow	Clark Gable 
+36 	Grace Kelly	Alfred Hitchcock 
+37 	Vivien Leigh	Laurence Olivier 
+38 	Joan Blondell	James Cagney 
+39 	Ronald Colman	Samuel Goldwyn 
+40 	Audrey Hepburn	Gregory Peck 
+

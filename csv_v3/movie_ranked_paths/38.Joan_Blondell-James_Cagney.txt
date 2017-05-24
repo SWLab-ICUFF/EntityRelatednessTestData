@@ -1,0 +1,51 @@
+ID	NAME_PATH	SCORE
+1	"Joan_Blondell @starring Convention_City writer Robert_Lord @producer Footlight_Parade starring James_Cagney"	6.488466
+2	"Joan_Blondell @starring Convention_City producer Henry_Blanke @producer Come_Fill_the_Cup starring James_Cagney"	6.419892
+3	"Joan_Blondell @starring Convention_City producer Henry_Blanke @producer Lady_Killer starring James_Cagney"	6.419892
+4	"Joan_Blondell @starring Convention_City producer Henry_Blanke @producer A_Midsummer_Night's_Dream starring James_Cagney"	6.399892
+5	"Joan_Blondell @starring Convention_City writer Robert_Lord @producer Taxi! starring James_Cagney"	6.268466
+6	"Joan_Blondell @starring Convention_City writer Robert_Lord @writer Winner_Take_All starring James_Cagney"	6.168466
+7	"Joan_Blondell @starring The_Public_Enemy basedOn Kubec_Glasmon @writer Taxi! starring James_Cagney"	6.15481
+8	"Joan_Blondell @starring The_Public_Enemy writer Kubec_Glasmon @writer Taxi! starring James_Cagney"	6.15481
+9	"Joan_Blondell @starring Central_Park musicComposer Ray_Heindorf @musicComposer The_Roaring_Twenties starring James_Cagney"	6.14112
+10	"Joan_Blondell @starring Central_Park musicComposer Ray_Heindorf @music The_Roaring_Twenties starring James_Cagney"	6.14112
+11	"Joan_Blondell @starring Central_Park music Ray_Heindorf @musicComposer The_Roaring_Twenties starring James_Cagney"	6.14112
+12	"Joan_Blondell @starring Central_Park music Ray_Heindorf @music The_Roaring_Twenties starring James_Cagney"	6.14112
+13	"Joan_Blondell @starring Big_City_Blues music Ray_Heindorf @music The_Roaring_Twenties starring James_Cagney"	6.14112
+14	"Joan_Blondell @starring Central_Park musicComposer Ray_Heindorf @musicComposer Yankee_Doodle_Dandy starring James_Cagney"	6.12112
+15	"Joan_Blondell @starring Central_Park musicComposer Ray_Heindorf @music Yankee_Doodle_Dandy starring James_Cagney"	6.12112
+16	"Joan_Blondell @starring Central_Park music Ray_Heindorf @musicComposer Yankee_Doodle_Dandy starring James_Cagney"	6.12112
+17	"Joan_Blondell @starring Central_Park music Ray_Heindorf @music Yankee_Doodle_Dandy starring James_Cagney"	6.12112
+18	"Joan_Blondell @starring Footlight_Parade producer Robert_Lord @producer Taxi! starring James_Cagney"	6.108466
+19	"Joan_Blondell @starring Stage_Struck producer Hal_B._Wallis @producer The_Roaring_Twenties starring James_Cagney"	5.977584
+20	"Joan_Blondell @starring Stage_Struck musicComposer Heinz_Roemheld @musicComposer The_Roaring_Twenties starring James_Cagney"	5.961378
+21	"Joan_Blondell @starring Stage_Struck musicComposer Heinz_Roemheld @music The_Roaring_Twenties starring James_Cagney"	5.961378
+22	"Joan_Blondell @starring Stage_Struck music Heinz_Roemheld @musicComposer The_Roaring_Twenties starring James_Cagney"	5.961378
+23	"Joan_Blondell @starring Stage_Struck music Heinz_Roemheld @music The_Roaring_Twenties starring James_Cagney"	5.961378
+24	"Joan_Blondell @starring Stage_Struck producer Hal_B._Wallis @producer Yankee_Doodle_Dandy starring James_Cagney"	5.957584
+25	"Joan_Blondell @starring Stage_Struck musicComposer Heinz_Roemheld @musicComposer Yankee_Doodle_Dandy starring James_Cagney"	5.941378
+26	"Joan_Blondell @starring Stage_Struck musicComposer Heinz_Roemheld @music Yankee_Doodle_Dandy starring James_Cagney"	5.941378
+27	"Joan_Blondell @starring Stage_Struck music Heinz_Roemheld @musicComposer Yankee_Doodle_Dandy starring James_Cagney"	5.941378
+28	"Joan_Blondell @starring Stage_Struck music Heinz_Roemheld @music Yankee_Doodle_Dandy starring James_Cagney"	5.941378
+29	"Joan_Blondell @starring Off_the_Record editing Thomas_Richards @editing Each_Dawn_I_Die starring James_Cagney"	5.929054
+30	"Joan_Blondell @starring Stage_Struck producer Robert_Lord @producer Footlight_Parade starring James_Cagney"	5.928466
+31	"Joan_Blondell @starring Stage_Struck writer Robert_Lord @producer Footlight_Parade starring James_Cagney"	5.928466
+32	"Joan_Blondell @starring Stage_Struck director Busby_Berkeley @director Footlight_Parade starring James_Cagney"	5.924454
+33	"Joan_Blondell @starring Bullets_or_Ballots cinematography Hal_Mohr award A_Midsummer_Night's_Dream starring James_Cagney"	5.913316
+34	"Joan_Blondell @starring Bullets_or_Ballots cinematography Hal_Mohr @cinematography A_Midsummer_Night's_Dream starring James_Cagney"	5.913316
+35	"Joan_Blondell @starring Off_the_Record editing Thomas_Richards @editing Jimmy_the_Gent starring James_Cagney"	5.889054
+36	"Joan_Blondell @starring Footlight_Parade director Lloyd_Bacon @director Boy_Meets_Girl starring James_Cagney"	5.88664
+37	"Joan_Blondell @starring Off_the_Record editing Thomas_Richards @editing The_Bride_Came_C.O.D. starring James_Cagney"	5.869054
+38	"Joan_Blondell @starring Three_on_a_Match cinematography Sol_Polito @cinematography Boy_Meets_Girl starring James_Cagney"	5.86112
+39	"Joan_Blondell @starring Three_on_a_Match producer Samuel_Bischoff @producer Boy_Meets_Girl starring James_Cagney"	5.86112
+40	"Joan_Blondell @starring Dames cinematography Sol_Polito @cinematography Boy_Meets_Girl starring James_Cagney"	5.84112
+41	"Joan_Blondell @starring Central_Park director John_G._Adolfi @director The_Millionaire starring James_Cagney"	5.767488
+42	"Joan_Blondell @starring Footlight_Parade starring James_Cagney"	5.7643666666667
+43	"Joan_Blondell @starring The_Public_Enemy starring James_Cagney"	5.7310333333333
+44	"Joan_Blondell @starring Convention_City starring Dick_Powell @starring A_Midsummer_Night's_Dream starring James_Cagney"	5.71186
+45	"Joan_Blondell @starring Stage_Struck producer Robert_Lord @producer Taxi! starring James_Cagney"	5.708466
+46	"Joan_Blondell @starring Stage_Struck writer Robert_Lord @producer Taxi! starring James_Cagney"	5.708466
+47	"Joan_Blondell @starring Footlight_Parade starring Dick_Powell @starring A_Midsummer_Night's_Dream starring James_Cagney"	5.55186
+48	"Joan_Blondell @starring Blonde_Crazy starring James_Cagney"	5.5310333333333
+49	"Joan_Blondell @starring Off_the_Record starring Pat_O'Brien @starring Boy_Meets_Girl starring James_Cagney"	5.33862
+50	"Joan_Blondell @starring Stage_Struck starring Dick_Powell @starring A_Midsummer_Night's_Dream starring James_Cagney"	5.15186

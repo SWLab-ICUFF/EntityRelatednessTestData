@@ -1,0 +1,22 @@
+ # 	Entity 1	Entity 2
+1 	Michael Jackson 	Whitney Houston 
+2 	The Beatles	The Rolling Stones 
+3 	Elton John	George Michael 
+4 	Led Zeppelin	The Who 
+5 	Pink Floyd 	David Gilmour 
+6 	U2	R.E.M. 
+7 	Metallica	Anthrax (American band) 
+8 	Rihanna	Nicki Minaj 
+9 	Guns N' Roses	Velvet Revolver 
+10 	Bob Dylan	The Band 
+11 	Eminem	Dr. Dre 
+12 	Don Henley	Eagles (band) 
+13 	Phil Collins	Peter Gabriel 
+14 	Lil Wayne	2 Chainz 
+15 	Rod Stewart	Faces (band) 
+16 	Bob Dylan	Stevie Nicks 
+17 	Fleetwood Mac 	Don Henley 
+18 	Paul McCartney	Ringo Starr 
+19 	Jay Z	Kanye_West 
+20 	Genesis (band)	Steve Hackett 
+

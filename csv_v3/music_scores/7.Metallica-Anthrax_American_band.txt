@@ -1,0 +1,5 @@
+CODE	SCORE
+Anthrax_(American_band)	23984092
+Megadeth	89801315
+Metallica	256466916
+Slayer	75466815

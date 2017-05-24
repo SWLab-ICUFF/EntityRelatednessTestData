@@ -1,0 +1,51 @@
+ID	NAME_PATH	SCORE
+1	"Jean_Harlow @starring Reckless producer David_O._Selznick @producer Gone_with_the_Wind starring Clark_Gable"	6.575514
+2	"Jean_Harlow @starring Reckless director Victor_Fleming @director Gone_with_the_Wind starring Clark_Gable"	6.569722
+3	"Jean_Harlow @starring Riffraff producer Irving_Thalberg @producer Mutiny_on_the_Bounty starring Clark_Gable"	6.542786
+4	"Jean_Harlow @starring Reckless editing Margaret_Booth @editing Mutiny_on_the_Bounty starring Clark_Gable"	6.478954
+5	"Jean_Harlow @starring Libeled_Lady musicComposer William_Axt @musicComposer Men_in_White starring Clark_Gable"	6.467612
+6	"Jean_Harlow @starring Libeled_Lady musicComposer William_Axt @music Men_in_White starring Clark_Gable"	6.467612
+7	"Jean_Harlow @starring Libeled_Lady music William_Axt @musicComposer Men_in_White starring Clark_Gable"	6.467612
+8	"Jean_Harlow @starring Libeled_Lady music William_Axt @music Men_in_White starring Clark_Gable"	6.467612
+9	"Jean_Harlow @starring Riffraff producer Irving_Thalberg @producer Red_Dust starring Clark_Gable"	6.462786
+10	"Jean_Harlow @starring Dinner_at_Eight producer David_O._Selznick @producer Night_Flight starring Clark_Gable"	6.435514
+11	"Jean_Harlow @starring Reckless director Victor_Fleming @director Red_Dust starring Clark_Gable"	6.409722
+12	"Jean_Harlow @starring Riffraff writer John_Lee_Mahin @screenplay Red_Dust starring Clark_Gable"	6.402218
+13	"Jean_Harlow @starring Riffraff writer John_Lee_Mahin @writer Red_Dust starring Clark_Gable"	6.402218
+14	"Jean_Harlow @starring Riffraff producer Irving_Thalberg @producer China_Seas starring Clark_Gable"	6.382786
+15	"Jean_Harlow @starring Riffraff starring Spencer_Tracy @starring San_Francisco starring Clark_Gable"	6.355442
+16	"Jean_Harlow @starring Riffraff producer Irving_Thalberg @producer Possessed starring Clark_Gable"	6.342786
+17	"Jean_Harlow @starring Red_Dust screenplay John_Lee_Mahin @screenplay Chained starring Clark_Gable"	6.282218
+18	"Jean_Harlow @starring Red_Dust screenplay John_Lee_Mahin @writer Chained starring Clark_Gable"	6.282218
+19	"Jean_Harlow @starring Red_Dust writer John_Lee_Mahin @screenplay Chained starring Clark_Gable"	6.282218
+20	"Jean_Harlow @starring Red_Dust writer John_Lee_Mahin @writer Chained starring Clark_Gable"	6.282218
+21	"Jean_Harlow @starring Bombshell screenplay John_Lee_Mahin @screenplay Chained starring Clark_Gable"	6.262218
+22	"Jean_Harlow @starring Bombshell writer John_Lee_Mahin @screenplay Chained starring Clark_Gable"	6.262218
+23	"Jean_Harlow @starring Bombshell screenplay John_Lee_Mahin @writer Chained starring Clark_Gable"	6.262218
+24	"Jean_Harlow @starring Bombshell writer John_Lee_Mahin @writer Chained starring Clark_Gable"	6.262218
+25	"Jean_Harlow @starring Wife_vs._Secretary screenplay John_Lee_Mahin @screenplay Chained starring Clark_Gable"	6.222218
+26	"Jean_Harlow @starring Wife_vs._Secretary writer John_Lee_Mahin @screenplay Chained starring Clark_Gable"	6.222218
+27	"Jean_Harlow @starring Wife_vs._Secretary screenplay John_Lee_Mahin @writer Chained starring Clark_Gable"	6.222218
+28	"Jean_Harlow @starring Wife_vs._Secretary writer John_Lee_Mahin @writer Chained starring Clark_Gable"	6.222218
+29	"Jean_Harlow @starring Wife_vs._Secretary musicComposer Herbert_Stothart @musicComposer Chained starring Clark_Gable"	6.203016
+30	"Jean_Harlow @starring Wife_vs._Secretary musicComposer Herbert_Stothart @music Chained starring Clark_Gable"	6.203016
+31	"Jean_Harlow @starring Wife_vs._Secretary music Herbert_Stothart @musicComposer Chained starring Clark_Gable"	6.203016
+32	"Jean_Harlow @starring Wife_vs._Secretary music Herbert_Stothart @music Chained starring Clark_Gable"	6.203016
+33	"Jean_Harlow @starring Red_Dust cinematography Harold_Rosson @cinematography Homecoming starring Clark_Gable"	6.196342
+34	"Jean_Harlow @starring Reckless producer David_O._Selznick @producer Night_Flight starring Clark_Gable"	6.195514
+35	"Jean_Harlow @starring Wife_vs._Secretary director Clarence_Brown @director Chained starring Clark_Gable"	6.184082
+36	"Jean_Harlow @starring Wife_vs._Secretary producer Clarence_Brown @director Chained starring Clark_Gable"	6.184082
+37	"Jean_Harlow @starring China_Seas musicComposer Herbert_Stothart @musicComposer Chained starring Clark_Gable"	6.183016
+38	"Jean_Harlow @starring China_Seas musicComposer Herbert_Stothart @music Chained starring Clark_Gable"	6.183016
+39	"Jean_Harlow @starring China_Seas music Herbert_Stothart @musicComposer Chained starring Clark_Gable"	6.183016
+40	"Jean_Harlow @starring China_Seas music Herbert_Stothart @music Chained starring Clark_Gable"	6.183016
+41	"Jean_Harlow @starring Red_Dust starring Clark_Gable"	6.1819033333333
+42	"Jean_Harlow @starring Bombshell cinematography Harold_Rosson @cinematography Homecoming starring Clark_Gable"	6.176342
+43	"Jean_Harlow @starring Libeled_Lady starring Myrna_Loy @starring Night_Flight starring Clark_Gable"	6.156698
+44	"Jean_Harlow @starring Reckless cinematography George_J._Folsey @cinematography Men_in_White starring Clark_Gable"	6.136568
+45	"Jean_Harlow @starring Red-Headed_Woman cinematography Harold_Rosson @cinematography Homecoming starring Clark_Gable"	6.136342
+46	"Jean_Harlow @starring Riffraff writer John_Lee_Mahin @screenplay Chained starring Clark_Gable"	6.082218
+47	"Jean_Harlow @starring Riffraff writer John_Lee_Mahin @writer Chained starring Clark_Gable"	6.082218
+48	"Jean_Harlow @starring Wife_vs._Secretary starring Clark_Gable"	6.0819033333333
+49	"Jean_Harlow @starring China_Seas starring Clark_Gable"	6.04857
+50	"Jean_Harlow @starring Reckless cinematography George_J._Folsey @cinematography Chained starring Clark_Gable"	6.016568

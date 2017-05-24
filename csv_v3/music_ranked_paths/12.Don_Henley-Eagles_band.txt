@@ -1,0 +1,51 @@
+ID	NAME_PATH	SCORE
+1	"Don_Henley @associatedActs Pino_Palladino associatedActs The_Who @associatedActs Glyn_Johns associatedActs Eagles_(band)"	20568972
+2	"Don_Henley @associatedActs Pino_Palladino associatedMusicalArtist The_Who @associatedActs Glyn_Johns associatedActs Eagles_(band)"	20568972
+3	"Don_Henley @associatedActs Pino_Palladino associatedMusicalArtist The_Who @associatedActs Glyn_Johns associatedBand Eagles_(band)"	20568972
+4	"Don_Henley @associatedBand Pino_Palladino associatedActs The_Who @associatedActs Glyn_Johns associatedBand Eagles_(band)"	20568972
+5	"Don_Henley @associatedActs Pino_Palladino associatedBand The_Who @associatedMusicalArtist Glyn_Johns associatedBand Eagles_(band)"	20568972
+6	"Don_Henley @associatedBand Pino_Palladino associatedActs The_Who @associatedMusicalArtist Glyn_Johns associatedMusicalArtist Eagles_(band)"	20568972
+7	"Don_Henley @associatedMusicalArtist Pino_Palladino associatedActs The_Who @associatedBand Glyn_Johns associatedBand Eagles_(band)"	20568972
+8	"Don_Henley @associatedActs Pino_Palladino associatedMusicalArtist The_Who @associatedBand Glyn_Johns associatedBand Eagles_(band)"	20568972
+9	"Don_Henley @associatedBand Pino_Palladino associatedActs The_Who @associatedBand Glyn_Johns associatedMusicalArtist Eagles_(band)"	20568972
+10	"Don_Henley @associatedBand Pino_Palladino associatedBand The_Who @associatedBand Glyn_Johns associatedActs Eagles_(band)"	20568972
+11	"Don_Henley @associatedBand Pino_Palladino associatedBand The_Who @associatedBand Glyn_Johns associatedMusicalArtist Eagles_(band)"	20568972
+12	"Don_Henley @associatedMusicalArtist Pino_Palladino associatedBand The_Who @associatedBand Glyn_Johns associatedBand Eagles_(band)"	20568972
+13	"Don_Henley @associatedBand Pino_Palladino associatedMusicalArtist The_Who @associatedBand Glyn_Johns associatedMusicalArtist Eagles_(band)"	20568972
+14	"Don_Henley @associatedMusicalArtist Frank_Simes associatedActs The_Who @associatedActs Glyn_Johns associatedActs Eagles_(band)"	20568888.4
+15	"Don_Henley @associatedMusicalArtist Frank_Simes associatedMusicalArtist The_Who @associatedActs Glyn_Johns associatedActs Eagles_(band)"	20568888.4
+16	"Don_Henley @associatedBand Frank_Simes associatedMusicalArtist The_Who @associatedActs Glyn_Johns associatedActs Eagles_(band)"	20568888.4
+17	"Don_Henley @associatedMusicalArtist Frank_Simes associatedActs The_Who @associatedActs Glyn_Johns associatedMusicalArtist Eagles_(band)"	20568888.4
+18	"Don_Henley @associatedBand Frank_Simes associatedBand The_Who @associatedActs Glyn_Johns associatedMusicalArtist Eagles_(band)"	20568888.4
+19	"Don_Henley @associatedMusicalArtist Frank_Simes associatedMusicalArtist The_Who @associatedActs Glyn_Johns associatedBand Eagles_(band)"	20568888.4
+20	"Don_Henley @associatedMusicalArtist Frank_Simes associatedMusicalArtist The_Who @associatedBand Glyn_Johns associatedActs Eagles_(band)"	20568888.4
+21	"Don_Henley @associatedBand Frank_Simes associatedBand The_Who @associatedMusicalArtist Glyn_Johns associatedBand Eagles_(band)"	20568888.4
+22	"Don_Henley @associatedMusicalArtist Frank_Simes associatedMusicalArtist The_Who @associatedBand Glyn_Johns associatedMusicalArtist Eagles_(band)"	20568888.4
+23	"Don_Henley @associatedBand Frank_Simes associatedBand The_Who @associatedMusicalArtist Glyn_Johns associatedMusicalArtist Eagles_(band)"	20568888.4
+24	"Don_Henley @associatedMusicalArtist Frank_Simes associatedBand The_Who @associatedMusicalArtist Glyn_Johns associatedMusicalArtist Eagles_(band)"	20568888.4
+25	"Don_Henley @associatedMusicalArtist Frank_Simes associatedBand The_Who @associatedBand Glyn_Johns associatedMusicalArtist Eagles_(band)"	20568888.4
+26	"Don_Henley @bandMember Eagles_(band)"	17502471.5
+27	"Don_Henley @currentMembers Eagles_(band)"	17502471.5
+28	"Don_Henley associatedActs Eagles_(band)"	17502471.5
+29	"Don_Henley associatedBand Eagles_(band)"	17502471.5
+30	"Don_Henley associatedMusicalArtist Eagles_(band)"	17502471.5
+31	"Don_Henley @associatedBand Bruce_Hornsby associatedMusicalArtist Eric_Clapton @associatedActs Glyn_Johns associatedActs Eagles_(band)"	16729932.8
+32	"Don_Henley @associatedMusicalArtist Bruce_Hornsby associatedBand Eric_Clapton @associatedActs Glyn_Johns associatedActs Eagles_(band)"	16729932.8
+33	"Don_Henley @associatedBand Bruce_Hornsby associatedBand Eric_Clapton @associatedActs Glyn_Johns associatedMusicalArtist Eagles_(band)"	16729932.8
+34	"Don_Henley @associatedMusicalArtist Bruce_Hornsby associatedBand Eric_Clapton @associatedActs Glyn_Johns associatedBand Eagles_(band)"	16729932.8
+35	"Don_Henley @associatedMusicalArtist Bruce_Hornsby associatedBand Eric_Clapton @associatedMusicalArtist Glyn_Johns associatedActs Eagles_(band)"	16729932.8
+36	"Don_Henley @associatedMusicalArtist Bruce_Hornsby associatedMusicalArtist Eric_Clapton @associatedMusicalArtist Glyn_Johns associatedActs Eagles_(band)"	16729932.8
+37	"Don_Henley @associatedBand Bruce_Hornsby associatedMusicalArtist Eric_Clapton @associatedMusicalArtist Glyn_Johns associatedActs Eagles_(band)"	16729932.8
+38	"Don_Henley @associatedBand Bruce_Hornsby associatedBand Eric_Clapton @associatedMusicalArtist Glyn_Johns associatedActs Eagles_(band)"	16729932.8
+39	"Don_Henley @associatedBand Bruce_Hornsby associatedBand Eric_Clapton @associatedBand Glyn_Johns associatedActs Eagles_(band)"	16729932.8
+40	"Don_Henley @associatedBand Bruce_Hornsby associatedBand Eric_Clapton @associatedBand Glyn_Johns associatedBand Eagles_(band)"	16729932.8
+41	"Don_Henley @associatedMusicalArtist Bruce_Hornsby associatedMusicalArtist Eric_Clapton @associatedBand Glyn_Johns associatedMusicalArtist Eagles_(band)"	16729932.8
+42	"Don_Henley @associatedMusicalArtist Bruce_Hornsby associatedMusicalArtist Eric_Clapton @associatedBand Glyn_Johns associatedBand Eagles_(band)"	16729932.8
+43	"Don_Henley @associatedMusicalArtist Bruce_Hornsby associatedBand Eric_Clapton @associatedBand Glyn_Johns associatedMusicalArtist Eagles_(band)"	16729932.8
+44	"Don_Henley @associatedBand Bruce_Hornsby associatedBand Eric_Clapton @associatedMusicalArtist Glyn_Johns associatedBand Eagles_(band)"	16729932.8
+45	"Don_Henley @associatedBand Bruce_Hornsby associatedMusicalArtist Eric_Clapton @associatedMusicalArtist Glyn_Johns associatedMusicalArtist Eagles_(band)"	16729932.8
+46	"Don_Henley @associatedMusicalArtist Bruce_Hornsby associatedBand Eric_Clapton @associatedBand Glyn_Johns associatedBand Eagles_(band)"	16729932.8
+47	"Don_Henley @associatedBand Bruce_Hornsby associatedMusicalArtist Eric_Clapton @associatedBand Glyn_Johns associatedBand Eagles_(band)"	16729932.8
+48	"Don_Henley @associatedBand Bruce_Hornsby associatedMusicalArtist Eric_Clapton @associatedBand Glyn_Johns associatedMusicalArtist Eagles_(band)"	16729932.8
+49	"Don_Henley @associatedMusicalArtist Bruce_Hornsby associatedBand Eric_Clapton @associatedActs Albhy_Galuten associatedBand Eagles_(band)"	16729635.8
+50	"Don_Henley @associatedBand Bruce_Hornsby associatedBand Eric_Clapton @associatedMusicalArtist Albhy_Galuten associatedMusicalArtist Eagles_(band)"	16729635.8

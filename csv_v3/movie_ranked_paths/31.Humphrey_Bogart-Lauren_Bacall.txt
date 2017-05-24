@@ -1,0 +1,51 @@
+ID	NAME_PATH	SCORE
+1	"Humphrey_Bogart @starring The_Treasure_of_the_Sierra_Madre director John_Huston @director Key_Largo starring Lauren_Bacall"	6.577038
+2	"Humphrey_Bogart @starring The_Treasure_of_the_Sierra_Madre director John_Huston @writer Key_Largo starring Lauren_Bacall"	6.577038
+3	"Humphrey_Bogart @starring The_Treasure_of_the_Sierra_Madre writer John_Huston @director Key_Largo starring Lauren_Bacall"	6.577038
+4	"Humphrey_Bogart @starring The_Treasure_of_the_Sierra_Madre writer John_Huston @writer Key_Largo starring Lauren_Bacall"	6.577038
+5	"Humphrey_Bogart @starring The_Treasure_of_the_Sierra_Madre musicComposer Max_Steiner @musicComposer Key_Largo starring Lauren_Bacall"	6.552254
+6	"Humphrey_Bogart @starring The_Treasure_of_the_Sierra_Madre musicComposer Max_Steiner @music Key_Largo starring Lauren_Bacall"	6.552254
+7	"Humphrey_Bogart @starring The_Treasure_of_the_Sierra_Madre music Max_Steiner @musicComposer Key_Largo starring Lauren_Bacall"	6.552254
+8	"Humphrey_Bogart @starring The_Treasure_of_the_Sierra_Madre music Max_Steiner @music Key_Largo starring Lauren_Bacall"	6.552254
+9	"Humphrey_Bogart @starring The_Roaring_Twenties writer Jerry_Wald @producer Key_Largo starring Lauren_Bacall"	6.542154
+10	"Humphrey_Bogart @starring Dark_Passage musicComposer Franz_Waxman @musicComposer To_Have_and_Have_Not starring Lauren_Bacall"	6.510218
+11	"Humphrey_Bogart @starring Dark_Passage musicComposer Franz_Waxman @music To_Have_and_Have_Not starring Lauren_Bacall"	6.510218
+12	"Humphrey_Bogart @starring Dark_Passage music Franz_Waxman @musicComposer To_Have_and_Have_Not starring Lauren_Bacall"	6.510218
+13	"Humphrey_Bogart @starring Dark_Passage music Franz_Waxman @music To_Have_and_Have_Not starring Lauren_Bacall"	6.510218
+14	"Humphrey_Bogart @starring To_Have_and_Have_Not musicComposer Franz_Waxman @musicComposer Dark_Passage starring Lauren_Bacall"	6.510218
+15	"Humphrey_Bogart @starring To_Have_and_Have_Not musicComposer Franz_Waxman @music Dark_Passage starring Lauren_Bacall"	6.510218
+16	"Humphrey_Bogart @starring To_Have_and_Have_Not music Franz_Waxman @musicComposer Dark_Passage starring Lauren_Bacall"	6.510218
+17	"Humphrey_Bogart @starring To_Have_and_Have_Not music Franz_Waxman @music Dark_Passage starring Lauren_Bacall"	6.510218
+18	"Humphrey_Bogart @starring The_African_Queen director John_Huston @director Key_Largo starring Lauren_Bacall"	6.497038
+19	"Humphrey_Bogart @starring The_African_Queen director John_Huston @writer Key_Largo starring Lauren_Bacall"	6.497038
+20	"Humphrey_Bogart @starring The_African_Queen writer John_Huston @director Key_Largo starring Lauren_Bacall"	6.497038
+21	"Humphrey_Bogart @starring The_African_Queen writer John_Huston @writer Key_Largo starring Lauren_Bacall"	6.497038
+22	"Humphrey_Bogart @starring In_a_Lonely_Place screenplay Edmund_H._North @screenplay Young_Man_with_a_Horn starring Lauren_Bacall"	6.49581
+23	"Humphrey_Bogart @starring In_a_Lonely_Place screenplay Edmund_H._North @writer Young_Man_with_a_Horn starring Lauren_Bacall"	6.49581
+24	"Humphrey_Bogart @starring In_a_Lonely_Place writer Edmund_H._North @screenplay Young_Man_with_a_Horn starring Lauren_Bacall"	6.49581
+25	"Humphrey_Bogart @starring In_a_Lonely_Place writer Edmund_H._North @writer Young_Man_with_a_Horn starring Lauren_Bacall"	6.49581
+26	"Humphrey_Bogart @starring Angels_with_Dirty_Faces musicComposer Max_Steiner @musicComposer Key_Largo starring Lauren_Bacall"	6.492254
+27	"Humphrey_Bogart @starring Angels_with_Dirty_Faces musicComposer Max_Steiner @music Key_Largo starring Lauren_Bacall"	6.492254
+28	"Humphrey_Bogart @starring Angels_with_Dirty_Faces music Max_Steiner @musicComposer Key_Largo starring Lauren_Bacall"	6.492254
+29	"Humphrey_Bogart @starring Angels_with_Dirty_Faces music Max_Steiner @music Key_Largo starring Lauren_Bacall"	6.492254
+30	"Humphrey_Bogart @starring Key_Largo producer Jerry_Wald @producer Dark_Passage starring Lauren_Bacall"	6.482154
+31	"Humphrey_Bogart @starring Dark_Passage producer Jerry_Wald @producer Key_Largo starring Lauren_Bacall"	6.482154
+32	"Humphrey_Bogart @starring The_Roaring_Twenties writer Jerry_Wald @producer Dark_Passage starring Lauren_Bacall"	6.482154
+33	"Humphrey_Bogart @starring The_Caine_Mutiny musicComposer Max_Steiner @musicComposer Key_Largo starring Lauren_Bacall"	6.472254
+34	"Humphrey_Bogart @starring The_Caine_Mutiny musicComposer Max_Steiner @music Key_Largo starring Lauren_Bacall"	6.472254
+35	"Humphrey_Bogart @starring The_Caine_Mutiny music Max_Steiner @musicComposer Key_Largo starring Lauren_Bacall"	6.472254
+36	"Humphrey_Bogart @starring The_Caine_Mutiny music Max_Steiner @music Key_Largo starring Lauren_Bacall"	6.472254
+37	"Humphrey_Bogart @starring High_Sierra writer John_Huston @writer Key_Largo starring Lauren_Bacall"	6.437038
+38	"Humphrey_Bogart @starring Dead_End starring Claire_Trevor @starring Key_Largo starring Lauren_Bacall"	6.389034
+39	"Humphrey_Bogart @starring Dead_End musicComposer Alfred_Newman @musicComposer How_to_Marry_a_Millionaire starring Lauren_Bacall"	6.354968
+40	"Humphrey_Bogart @starring Dead_End music Alfred_Newman @musicComposer How_to_Marry_a_Millionaire starring Lauren_Bacall"	6.354968
+41	"Humphrey_Bogart @starring Bold_Venture starring Lauren_Bacall"	6.2890966666667
+42	"Humphrey_Bogart @starring Body_and_Soul writer Jules_Furthman @screenplay To_Have_and_Have_Not starring Lauren_Bacall"	6.23501
+43	"Humphrey_Bogart @starring Body_and_Soul writer Jules_Furthman @writer To_Have_and_Have_Not starring Lauren_Bacall"	6.23501
+44	"Humphrey_Bogart @starring Dead_End musicComposer Alfred_Newman @musicComposer The_Gift_of_Love starring Lauren_Bacall"	6.234968
+45	"Humphrey_Bogart @starring Dead_End musicComposer Alfred_Newman @music The_Gift_of_Love starring Lauren_Bacall"	6.234968
+46	"Humphrey_Bogart @starring Dead_End music Alfred_Newman @musicComposer The_Gift_of_Love starring Lauren_Bacall"	6.234968
+47	"Humphrey_Bogart @starring Dead_End music Alfred_Newman @music The_Gift_of_Love starring Lauren_Bacall"	6.234968
+48	"Humphrey_Bogart @starring To_Have_and_Have_Not starring Lauren_Bacall"	6.0557633333333
+49	"Humphrey_Bogart @starring Key_Largo starring Lauren_Bacall"	6.02243
+50	"Humphrey_Bogart @starring Dark_Passage starring Lauren_Bacall"	5.92243

@@ -1,0 +1,10 @@
+CODE	TYPE	DBPEDIA_URI	LAST.FM_URI
+Madonna_(entertainer)	Artist	http://dbpedia.org/resource/Madonna_(entertainer)	https://www.last.fm/music/Madonna
+U2	Artist	http://dbpedia.org/resource/U2	https://www.last.fm/music/U2
+Spike_Stent	Artist	http://dbpedia.org/resource/Spike_Stent	https://www.last.fm/music/Spike
+Damian_LeGassick	Artist	http://dbpedia.org/resource/Damian_LeGassick	https://www.last.fm/music/Damian+Legassick
+Arthur_Fogel	Artist	http://dbpedia.org/resource/Arthur_Fogel	
+Mike_McKnight	Artist	http://dbpedia.org/resource/Mike_McKnight	https://www.last.fm/music/Mike+McKnight
+R.E.M.	Artist	http://dbpedia.org/resource/R.E.M.	https://www.last.fm/music/R.E.M.
+Nellee_Hooper	Artist	http://dbpedia.org/resource/Nellee_Hooper	https://www.last.fm/music/Nellee+Hooper
+Automatic_Baby	Artist	http://dbpedia.org/resource/Automatic_Baby	https://www.last.fm/music/Automatic+Baby

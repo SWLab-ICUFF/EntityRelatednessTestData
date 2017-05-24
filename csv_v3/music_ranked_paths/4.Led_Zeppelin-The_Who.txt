@@ -1,0 +1,51 @@
+ID	NAME_PATH	SCORE
+1	"Led_Zeppelin @associatedActs Glyn_Johns associatedActs The_Beatles @musicalBand Twist_and_Shout musicalBand The_Who"	142827824.2
+2	"Led_Zeppelin @associatedBand Glyn_Johns associatedActs The_Beatles @musicalArtist Twist_and_Shout musicalBand The_Who"	142827824.2
+3	"Led_Zeppelin @associatedActs Glyn_Johns associatedMusicalArtist The_Beatles @musicalBand Twist_and_Shout musicalBand The_Who"	142827824.2
+4	"Led_Zeppelin @associatedMusicalArtist Glyn_Johns associatedMusicalArtist The_Beatles @musicalArtist Twist_and_Shout musicalBand The_Who"	142827824.2
+5	"Led_Zeppelin @associatedBand Glyn_Johns associatedMusicalArtist The_Beatles @musicalArtist Twist_and_Shout musicalBand The_Who"	142827824.2
+6	"Led_Zeppelin @associatedActs Glyn_Johns associatedActs The_Beatles @musicalBand Twist_and_Shout artist The_Who"	142827824.2
+7	"Led_Zeppelin @associatedActs Glyn_Johns associatedMusicalArtist The_Beatles @musicalBand Twist_and_Shout artist The_Who"	142827824.2
+8	"Led_Zeppelin @associatedMusicalArtist Glyn_Johns associatedMusicalArtist The_Beatles @artist Twist_and_Shout musicalBand The_Who"	142827824.2
+9	"Led_Zeppelin @associatedBand Glyn_Johns associatedMusicalArtist The_Beatles @artist Twist_and_Shout musicalBand The_Who"	142827824.2
+10	"Led_Zeppelin @associatedActs Glyn_Johns associatedMusicalArtist The_Beatles @artist Twist_and_Shout artist The_Who"	142827824.2
+11	"Led_Zeppelin @associatedActs John_Entwistle @formerBandMember The_Who"	78253194
+12	"Led_Zeppelin @associatedBand John_Entwistle @formerBandMember The_Who"	78253194
+13	"Led_Zeppelin @associatedActs John_Entwistle @pastMembers The_Who"	78253194
+14	"Led_Zeppelin @associatedMusicalArtist John_Entwistle @pastMembers The_Who"	78253194
+15	"Led_Zeppelin @associatedActs John_Entwistle associatedActs The_Who"	78253194
+16	"Led_Zeppelin @associatedMusicalArtist John_Entwistle associatedActs The_Who"	78253194
+17	"Led_Zeppelin @associatedBand John_Entwistle associatedMusicalArtist The_Who"	78253194
+18	"Led_Zeppelin @associatedMusicalArtist John_Entwistle associatedBand The_Who"	78253194
+19	"Led_Zeppelin @associatedBand Glyn_Johns associatedMusicalArtist The_Who"	78118095
+20	"Led_Zeppelin @associatedMusicalArtist Glyn_Johns associatedMusicalArtist The_Who"	78118095
+21	"Led_Zeppelin @associatedBand Glyn_Johns associatedBand The_Who"	78118095
+22	"Led_Zeppelin @associatedMusicalArtist Glyn_Johns associatedBand The_Who"	78118095
+23	"Led_Zeppelin @associatedActs Richard_Cole associatedActs The_Who"	78117889.666667
+24	"Led_Zeppelin @associatedActs Richard_Cole associatedBand The_Who"	78117889.666667
+25	"Led_Zeppelin @associatedBand Richard_Cole associatedActs The_Who"	78117889.666667
+26	"Led_Zeppelin @associatedActs Richard_Cole associatedMusicalArtist The_Who"	78117889.666667
+27	"Led_Zeppelin @associatedBand Richard_Cole associatedBand The_Who"	78117889.666667
+28	"Led_Zeppelin @associatedBand Richard_Cole associatedMusicalArtist The_Who"	78117889.666667
+29	"Led_Zeppelin @associatedActs Ian_Stewart_(musician) @formerBandMember The_Rolling_Stones @associatedBand Faces_(band) associatedMusicalArtist The_Who"	75647220.8
+30	"Led_Zeppelin @associatedBand Ian_Stewart_(musician) @formerBandMember The_Rolling_Stones @associatedMusicalArtist Faces_(band) associatedBand The_Who"	75647220.8
+31	"Led_Zeppelin @associatedBand Ian_Stewart_(musician) @formerBandMember The_Rolling_Stones @associatedMusicalArtist Faces_(band) associatedMusicalArtist The_Who"	75647220.8
+32	"Led_Zeppelin @associatedBand Ian_Stewart_(musician) @pastMembers The_Rolling_Stones @associatedBand Faces_(band) associatedActs The_Who"	75647220.8
+33	"Led_Zeppelin @associatedBand Ian_Stewart_(musician) @pastMembers The_Rolling_Stones @associatedActs Faces_(band) associatedMusicalArtist The_Who"	75647220.8
+34	"Led_Zeppelin @associatedActs Ian_Stewart_(musician) @pastMembers The_Rolling_Stones @associatedMusicalArtist Faces_(band) associatedMusicalArtist The_Who"	75647220.8
+35	"Led_Zeppelin @associatedActs Ian_Stewart_(musician) @pastMembers The_Rolling_Stones @associatedBand Faces_(band) associatedBand The_Who"	75647220.8
+36	"Led_Zeppelin @associatedActs Ian_Stewart_(musician) @pastMembers The_Rolling_Stones @associatedMusicalArtist Faces_(band) associatedBand The_Who"	75647220.8
+37	"Led_Zeppelin @associatedBand Ian_Stewart_(musician) @pastMembers The_Rolling_Stones @associatedActs Faces_(band) associatedBand The_Who"	75647220.8
+38	"Led_Zeppelin @associatedActs Ian_Stewart_(musician) associatedActs The_Rolling_Stones @associatedMusicalArtist Faces_(band) associatedBand The_Who"	75647220.8
+39	"Led_Zeppelin @associatedMusicalArtist Ian_Stewart_(musician) associatedMusicalArtist The_Rolling_Stones @associatedActs Billy_Nicholls associatedActs The_Who"	75064636
+40	"Led_Zeppelin @associatedMusicalArtist Ian_Stewart_(musician) associatedMusicalArtist The_Rolling_Stones @associatedActs Billy_Nicholls associatedBand The_Who"	75064636
+41	"Led_Zeppelin @associatedMusicalArtist Ian_Stewart_(musician) associatedMusicalArtist The_Rolling_Stones @associatedActs Billy_Nicholls associatedMusicalArtist The_Who"	75064636
+42	"Led_Zeppelin @associatedBand Ian_Stewart_(musician) associatedMusicalArtist The_Rolling_Stones @associatedActs Billy_Nicholls associatedMusicalArtist The_Who"	75064636
+43	"Led_Zeppelin @associatedMusicalArtist Ian_Stewart_(musician) associatedBand The_Rolling_Stones @associatedMusicalArtist Billy_Nicholls associatedActs The_Who"	75064636
+44	"Led_Zeppelin @associatedMusicalArtist Ian_Stewart_(musician) associatedBand The_Rolling_Stones @associatedMusicalArtist Billy_Nicholls associatedMusicalArtist The_Who"	75064636
+45	"Led_Zeppelin @associatedMusicalArtist Ian_Stewart_(musician) associatedBand The_Rolling_Stones @associatedMusicalArtist Billy_Nicholls associatedBand The_Who"	75064636
+46	"Led_Zeppelin @associatedMusicalArtist Ian_Stewart_(musician) associatedBand The_Rolling_Stones @associatedBand Billy_Nicholls associatedMusicalArtist The_Who"	75064636
+47	"Led_Zeppelin @associatedMusicalArtist Ian_Stewart_(musician) associatedBand The_Rolling_Stones @associatedBand Billy_Nicholls associatedBand The_Who"	75064636
+48	"Led_Zeppelin @associatedActs Glyn_Johns associatedActs The_Rolling_Stones @associatedMusicalArtist Billy_Nicholls associatedActs The_Who"	75063768.6
+49	"Led_Zeppelin @associatedActs Glyn_Johns associatedActs The_Rolling_Stones @associatedMusicalArtist Billy_Nicholls associatedBand The_Who"	75063768.6
+50	"Led_Zeppelin @associatedActs Glyn_Johns associatedActs The_Rolling_Stones @associatedMusicalArtist Billy_Nicholls associatedMusicalArtist The_Who "	75063768.6

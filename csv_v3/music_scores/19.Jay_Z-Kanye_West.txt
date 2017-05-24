@@ -1,0 +1,13 @@
+CODE	SCORE
+A_Thousand_Suns	17441334
+Breaking_the_Habit	6790314
+Encore	9477074
+Jay_Z	9421
+Kanye_West	191029660
+Linkin_Park	263934894
+Living_Things_(Linkin_Park_album)	14862955
+Minutes_to_Midnight_(album)	41509770
+Rick_Rubin	10258
+Talib_Kweli	12296819
+What_I've_Done	7750968
+Z-Trip	521783

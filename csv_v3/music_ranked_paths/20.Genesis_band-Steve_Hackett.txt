@@ -1,0 +1,51 @@
+ID	NAME_PATH	SCORE
+1	"Genesis_(band) formerBandMember Steve_Hackett"	17682167.5
+2	"Genesis_(band) pastMembers Steve_Hackett"	17682167.5
+3	"Genesis_(band) @associatedActs Steve_Hackett"	17682167.5
+4	"Genesis_(band) @associatedBand Steve_Hackett"	17682167.5
+5	"Genesis_(band) @associatedMusicalArtist Steve_Hackett"	17682167.5
+6	"Genesis_(band) bandMember Phil_Collins @writer Firth_of_Fifth writer Steve_Hackett"	15718181
+7	"Genesis_(band) currentMembers Phil_Collins @writer Firth_of_Fifth writer Steve_Hackett"	15718181
+8	"Genesis_(band) bandMember Phil_Collins @producer Turn_It_On_Again:_The_Hits producer Steve_Hackett"	15692603.5
+9	"Genesis_(band) currentMembers Phil_Collins @producer Turn_It_On_Again:_The_Hits producer Steve_Hackett"	15692603.5
+10	"Genesis_(band) bandMember Phil_Collins @writer Supper's_Ready writer Steve_Hackett"	15675547.75
+11	"Genesis_(band) currentMembers Phil_Collins @writer Supper's_Ready writer Steve_Hackett"	15675547.75
+12	"Genesis_(band) bandMember Phil_Collins @writer The_Lamb_Lies_Down_on_Broadway_(song) writer Steve_Hackett"	15671331.5
+13	"Genesis_(band) currentMembers Phil_Collins @writer The_Lamb_Lies_Down_on_Broadway_(song) writer Steve_Hackett"	15671331.5
+14	"Genesis_(band) bandMember Phil_Collins @writer The_Musical_Box_(Genesis_song) writer Steve_Hackett"	15668864.75
+15	"Genesis_(band) currentMembers Phil_Collins @writer The_Musical_Box_(Genesis_song) writer Steve_Hackett"	15668864.75
+16	"Genesis_(band) bandMember Phil_Collins @writer Watcher_of_the_Skies writer Steve_Hackett"	15664650.25
+17	"Genesis_(band) currentMembers Phil_Collins @writer Watcher_of_the_Skies writer Steve_Hackett"	15664650.25
+18	"Genesis_(band) bandMember Phil_Collins @writer Get_'Em_Out_by_Friday writer Steve_Hackett"	15639178.75
+19	"Genesis_(band) currentMembers Phil_Collins @writer Get_'Em_Out_by_Friday writer Steve_Hackett"	15639178.75
+20	"Genesis_(band) bandMember Phil_Collins @writer Can-Utility_and_the_Coastliners writer Steve_Hackett"	15633673.75
+21	"Genesis_(band) currentMembers Phil_Collins @writer Can-Utility_and_the_Coastliners writer Steve_Hackett"	15633673.75
+22	"Genesis_(band) bandMember Phil_Collins @writer Seven_Stones_(song) writer Steve_Hackett"	15631933.75
+23	"Genesis_(band) currentMembers Phil_Collins @writer Seven_Stones_(song) writer Steve_Hackett"	15631933.75
+24	"Genesis_(band) bandMember Phil_Collins @writer The_Carpet_Crawlers writer Steve_Hackett"	15619738
+25	"Genesis_(band) currentMembers Phil_Collins @writer The_Carpet_Crawlers writer Steve_Hackett"	15619738
+26	"Genesis_(band) bandMember Phil_Collins @associatedActs Chester_Thompson associatedBand Steve_Hackett"	15595916.5
+27	"Genesis_(band) bandMember Phil_Collins @associatedBand Chester_Thompson associatedActs Steve_Hackett"	15595916.5
+28	"Genesis_(band) bandMember Phil_Collins @associatedActs Chester_Thompson associatedMusicalArtist Steve_Hackett"	15595916.5
+29	"Genesis_(band) bandMember Phil_Collins @associatedBand Chester_Thompson associatedMusicalArtist Steve_Hackett"	15595916.5
+30	"Genesis_(band) currentMembers Phil_Collins @associatedActs Chester_Thompson associatedBand Steve_Hackett"	15595916.5
+31	"Genesis_(band) currentMembers Phil_Collins @associatedBand Chester_Thompson associatedMusicalArtist Steve_Hackett"	15595916.5
+32	"Genesis_(band) currentMembers Phil_Collins @associatedMusicalArtist Chester_Thompson associatedBand Steve_Hackett"	15595916.5
+33	"Genesis_(band) currentMembers Phil_Collins @associatedBand Chester_Thompson associatedBand Steve_Hackett"	15595916.5
+34	"Genesis_(band) formerBandMember Peter_Gabriel @writer Firth_of_Fifth writer Steve_Hackett"	14380635.5
+35	"Genesis_(band) pastMembers Peter_Gabriel @writer Firth_of_Fifth writer Steve_Hackett"	14380635.5
+36	"Genesis_(band) @associatedActs Peter_Gabriel @writer Firth_of_Fifth writer Steve_Hackett"	14380635.5
+37	"Genesis_(band) @associatedMusicalArtist Peter_Gabriel @writer Firth_of_Fifth writer Steve_Hackett"	14380635.5
+38	"Genesis_(band) @associatedBand Peter_Gabriel @writer Firth_of_Fifth writer Steve_Hackett"	14380635.5
+39	"Genesis_(band) formerBandMember Peter_Gabriel @writer Supper's_Ready writer Steve_Hackett"	14338002.25
+40	"Genesis_(band) pastMembers Peter_Gabriel @writer Supper's_Ready writer Steve_Hackett"	14338002.25
+41	"Genesis_(band) @associatedActs Peter_Gabriel @writer Supper's_Ready writer Steve_Hackett"	14338002.25
+42	"Genesis_(band) @associatedMusicalArtist Peter_Gabriel @writer Supper's_Ready writer Steve_Hackett"	14338002.25
+43	"Genesis_(band) @associatedBand Peter_Gabriel @writer Supper's_Ready writer Steve_Hackett"	14338002.25
+44	"Genesis_(band) @associatedActs Peter_Gabriel @writer The_Musical_Box_(Genesis_song) writer Steve_Hackett"	14331319.25
+45	"Genesis_(band) @associatedBand Peter_Gabriel @writer The_Musical_Box_(Genesis_song) writer Steve_Hackett"	14331319.25
+46	"Genesis_(band) @associatedMusicalArtist Peter_Gabriel @writer The_Musical_Box_(Genesis_song) writer Steve_Hackett"	14331319.25
+47	"Genesis_(band) @associatedActs Nik_Kershaw associatedActs Steve_Hackett"	12519958
+48	"Genesis_(band) @associatedActs Nik_Kershaw associatedBand Steve_Hackett"	12519958
+49	"Genesis_(band) @associatedMusicalArtist Nik_Kershaw associatedBand Steve_Hackett"	12519958
+50	"Genesis_(band) @associatedMusicalArtist Nik_Kershaw associatedMusicalArtist Steve_Hackett"	12519958

@@ -1,0 +1,51 @@
+ID	NAME_PATH	SCORE
+1	"Ronald_Colman @starring The_Prisoner_of_Zenda musicComposer Alfred_Newman @music The_Dark_Angel producer Samuel_Goldwyn"	6.70138
+2	"Ronald_Colman @starring The_Prisoner_of_Zenda music Alfred_Newman @musicComposer The_Dark_Angel producer Samuel_Goldwyn"	6.70138
+3	"Ronald_Colman @starring The_Prisoner_of_Zenda music Alfred_Newman @music The_Dark_Angel producer Samuel_Goldwyn"	6.70138
+4	"Ronald_Colman @starring The_Rescue musicComposer Hugo_Riesenfeld @musicComposer The_Awakening producer Samuel_Goldwyn"	6.479336
+5	"Ronald_Colman @starring The_Rescue musicComposer Hugo_Riesenfeld @music The_Awakening producer Samuel_Goldwyn"	6.479336
+6	"Ronald_Colman @starring The_Rescue music Hugo_Riesenfeld @musicComposer The_Awakening producer Samuel_Goldwyn"	6.479336
+7	"Ronald_Colman @starring The_Rescue music Hugo_Riesenfeld @music The_Awakening producer Samuel_Goldwyn"	6.479336
+8	"Ronald_Colman @starring The_Dark_Angel writer Frances_Marion @writer The_Awakening producer Samuel_Goldwyn"	6.468666
+9	"Ronald_Colman @starring The_Prisoner_of_Zenda musicComposer Alfred_Newman @musicComposer Dead_End producer Samuel_Goldwyn"	6.46138
+10	"Ronald_Colman @starring The_Prisoner_of_Zenda musicComposer Alfred_Newman @music Dead_End producer Samuel_Goldwyn"	6.46138
+11	"Ronald_Colman @starring The_Prisoner_of_Zenda music Alfred_Newman @musicComposer Dead_End producer Samuel_Goldwyn"	6.46138
+12	"Ronald_Colman @starring The_Prisoner_of_Zenda music Alfred_Newman @music Dead_End producer Samuel_Goldwyn"	6.46138
+13	"Ronald_Colman @starring Condemned cinematography Gregg_Toland @cinematography The_Dark_Angel producer Samuel_Goldwyn"	6.449282
+14	"Ronald_Colman @starring The_Light_That_Failed starring Walter_Huston @starring Dodsworth producer Samuel_Goldwyn"	6.408576
+15	"Ronald_Colman @starring The_Dark_Angel director George_Fitzmaurice @director Raffles producer Samuel_Goldwyn"	6.385618
+16	"Ronald_Colman @starring Raffles director George_Fitzmaurice @director The_Dark_Angel producer Samuel_Goldwyn"	6.385618
+17	"Ronald_Colman @starring Raffles editing Stuart_Heisler @editing The_Dark_Angel producer Samuel_Goldwyn"	6.380854
+18	"Ronald_Colman @starring The_Dark_Angel editing Stuart_Heisler @editing The_Wedding_Night producer Samuel_Goldwyn"	6.360854
+19	"Ronald_Colman @starring The_Prisoner_of_Zenda musicComposer Alfred_Newman @musicComposer The_Wedding_Night producer Samuel_Goldwyn"	6.32138
+20	"Ronald_Colman @starring The_Prisoner_of_Zenda musicComposer Alfred_Newman @music The_Wedding_Night producer Samuel_Goldwyn"	6.32138
+21	"Ronald_Colman @starring The_Prisoner_of_Zenda music Alfred_Newman @musicComposer The_Wedding_Night producer Samuel_Goldwyn"	6.32138
+22	"Ronald_Colman @starring The_Prisoner_of_Zenda music Alfred_Newman @music The_Wedding_Night producer Samuel_Goldwyn"	6.32138
+23	"Ronald_Colman @starring The_Dark_Angel cinematography George_Barnes @cinematography The_Awakening producer Samuel_Goldwyn"	6.293362
+24	"Ronald_Colman @starring The_Prisoner_of_Zenda writer Sidney_Howard @writer Raffles producer Samuel_Goldwyn"	6.23987
+25	"Ronald_Colman @starring The_Rescue cinematography George_Barnes @cinematography The_Awakening producer Samuel_Goldwyn"	6.233362
+26	"Ronald_Colman @starring The_Dark_Angel producer Samuel_Goldwyn"	6.2331166666667
+27	"Ronald_Colman @starring The_Dark_Angel director George_Fitzmaurice @director Nana producer Samuel_Goldwyn"	6.225618
+28	"Ronald_Colman @starring Condemned cinematography Gregg_Toland @cinematography Dead_End producer Samuel_Goldwyn"	6.209282
+29	"Ronald_Colman @starring Condemned cinematography Gregg_Toland @cinematography The_Westerner producer Samuel_Goldwyn"	6.209282
+30	"Ronald_Colman @starring Beau_Geste musicComposer Hugo_Riesenfeld @musicComposer The_Awakening producer Samuel_Goldwyn"	6.199336
+31	"Ronald_Colman @starring Beau_Geste musicComposer Hugo_Riesenfeld @music The_Awakening producer Samuel_Goldwyn"	6.199336
+32	"Ronald_Colman @starring Beau_Geste music Hugo_Riesenfeld @musicComposer The_Awakening producer Samuel_Goldwyn"	6.199336
+33	"Ronald_Colman @starring Beau_Geste music Hugo_Riesenfeld @music The_Awakening producer Samuel_Goldwyn"	6.199336
+34	"Ronald_Colman @starring The_Rescue producer Samuel_Goldwyn"	6.1331166666667
+35	"Ronald_Colman @starring Raffles writer Sidney_Howard @writer Raffles producer Samuel_Goldwyn"	6.07987
+36	"Ronald_Colman @starring Condemned musicComposer Hugo_Riesenfeld @musicComposer The_Awakening producer Samuel_Goldwyn"	6.079336
+37	"Ronald_Colman @starring Condemned musicComposer Hugo_Riesenfeld @music The_Awakening producer Samuel_Goldwyn"	6.079336
+38	"Ronald_Colman @starring Condemned music Hugo_Riesenfeld @musicComposer The_Awakening producer Samuel_Goldwyn"	6.079336
+39	"Ronald_Colman @starring Condemned music Hugo_Riesenfeld @music The_Awakening producer Samuel_Goldwyn"	6.079336
+40	"Ronald_Colman @starring Condemned cinematography Gregg_Toland @cinematography The_Wedding_Night producer Samuel_Goldwyn"	6.069282
+41	"Ronald_Colman @starring Raffles editing Stuart_Heisler @editing The_Wedding_Night producer Samuel_Goldwyn"	6.000854
+42	"Ronald_Colman @starring Raffles writer Sidney_Howard @writer Condemned producer Samuel_Goldwyn"	5.97987
+43	"Ronald_Colman @starring Condemned writer Sidney_Howard @writer Raffles producer Samuel_Goldwyn"	5.97987
+44	"Ronald_Colman @starring Raffles writer E._W._Hornung @writer Raffles producer Samuel_Goldwyn"	5.948052
+45	"Ronald_Colman @starring Raffles director George_Fitzmaurice @director Nana producer Samuel_Goldwyn"	5.865618
+46	"Ronald_Colman @starring Condemned cinematography George_Barnes @cinematography The_Awakening producer Samuel_Goldwyn"	5.833362
+47	"Ronald_Colman @starring Stella_Dallas producer Samuel_Goldwyn"	5.8331166666667
+48	"Ronald_Colman @starring The_Winning_of_Barbara_Worth producer Samuel_Goldwyn"	5.8331166666667
+49	"Ronald_Colman @starring Raffles producer Samuel_Goldwyn"	5.6331166666667
+50	"Ronald_Colman @starring Condemned producer Samuel_Goldwyn"	5.46645

@@ -1,0 +1,12 @@
+CODE	SCORE
+Dave_Carlock	257646
+Don_Henley	4806624
+Eagles_(band)	30198319
+Eric_Clapton	47230292
+Fleetwood_Mac	54368412
+Ian_Wallace_(drummer)	4431
+Jackson_Browne	7152748
+Jorge_Calderón	36623
+Rick_Vito	17547
+Stevie_Nicks	5868677
+Warren_Zevon	6026361

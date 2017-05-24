@@ -1,0 +1,12 @@
+CODE	SCORE
+Billy_Nicholls	158921
+Faces_(band)	3071845
+Glyn_Johns	1579
+Ian_Stewart_(musician)	5916
+John_Entwistle	406876
+Led_Zeppelin	166514845
+Richard_Cole	963
+The_Beatles	476722738
+The_Rolling_Stones	140805637
+The_Who	67837861
+Twist_and_Shout	3062098

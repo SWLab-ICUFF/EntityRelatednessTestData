@@ -1,0 +1,51 @@
+ID	NAME_PATH	SCORE
+1	"Rod_Stewart @associatedActs Ian_McLagan associatedActs The_Rolling_Stones @associatedActs Faces_(band)"	39857716.5
+2	"Rod_Stewart @associatedMusicalArtist Ian_McLagan associatedActs The_Rolling_Stones @associatedActs Faces_(band)"	39857716.5
+3	"Rod_Stewart @associatedActs Ian_McLagan associatedActs The_Rolling_Stones @associatedBand Faces_(band)"	39857716.5
+4	"Rod_Stewart @associatedBand Ian_McLagan associatedActs The_Rolling_Stones @associatedActs Faces_(band)"	39857716.5
+5	"Rod_Stewart @associatedActs Ian_McLagan associatedMusicalArtist The_Rolling_Stones @associatedBand Faces_(band)"	39857716.5
+6	"Rod_Stewart @associatedMusicalArtist Ian_McLagan associatedActs The_Rolling_Stones @associatedBand Faces_(band)"	39857716.5
+7	"Rod_Stewart @associatedBand Ian_McLagan associatedActs The_Rolling_Stones @associatedMusicalArtist Faces_(band)"	39857716.5
+8	"Rod_Stewart @associatedBand Ian_McLagan associatedMusicalArtist The_Rolling_Stones @associatedActs Faces_(band)"	39857716.5
+9	"Rod_Stewart @associatedBand Ian_McLagan associatedActs The_Rolling_Stones @associatedBand Faces_(band)"	39857716.5
+10	"Rod_Stewart @associatedMusicalArtist Ian_McLagan associatedActs The_Rolling_Stones @associatedMusicalArtist Faces_(band)"	39857716.5
+11	"Rod_Stewart @associatedActs Ian_McLagan associatedMusicalArtist The_Rolling_Stones @associatedMusicalArtist Faces_(band)"	39857716.5
+12	"Rod_Stewart @associatedBand Ian_McLagan associatedBand The_Rolling_Stones @associatedActs Faces_(band)"	39857716.5
+13	"Rod_Stewart @associatedMusicalArtist Ian_McLagan associatedBand The_Rolling_Stones @associatedBand Faces_(band)"	39857716.5
+14	"Rod_Stewart @associatedMusicalArtist Ian_McLagan associatedMusicalArtist The_Rolling_Stones @associatedMusicalArtist Faces_(band)"	39857716.5
+15	"Rod_Stewart @associatedActs Ronnie_Wood @bandMember The_Rolling_Stones @associatedActs Faces_(band)"	39855990.25
+16	"Rod_Stewart @associatedMusicalArtist Ronnie_Wood @bandMember The_Rolling_Stones @associatedActs Faces_(band)"	39855990.25
+17	"Rod_Stewart @associatedActs Ronnie_Wood @bandMember The_Rolling_Stones @associatedMusicalArtist Faces_(band)"	39855990.25
+18	"Rod_Stewart @associatedBand Ronnie_Wood @bandMember The_Rolling_Stones @associatedActs Faces_(band)"	39855990.25
+19	"Rod_Stewart @associatedBand Ronnie_Wood @bandMember The_Rolling_Stones @associatedBand Faces_(band)"	39855990.25
+20	"Rod_Stewart @associatedMusicalArtist Ronnie_Wood @bandMember The_Rolling_Stones @associatedMusicalArtist Faces_(band)"	39855990.25
+21	"Rod_Stewart @associatedActs Ronnie_Wood @currentMembers The_Rolling_Stones @associatedActs Faces_(band)"	39855990.25
+22	"Rod_Stewart @associatedBand Ronnie_Wood @currentMembers The_Rolling_Stones @associatedActs Faces_(band)"	39855990.25
+23	"Rod_Stewart @associatedBand Ronnie_Wood @currentMembers The_Rolling_Stones @associatedMusicalArtist Faces_(band)"	39855990.25
+24	"Rod_Stewart @associatedMusicalArtist Ronnie_Wood @currentMembers The_Rolling_Stones @associatedMusicalArtist Faces_(band)"	39855990.25
+25	"Rod_Stewart @associatedMusicalArtist Ronnie_Wood @currentMembers The_Rolling_Stones @associatedBand Faces_(band)"	39855990.25
+26	"Rod_Stewart @associatedBand Ronnie_Wood @currentMembers The_Rolling_Stones @associatedBand Faces_(band)"	39855990.25
+27	"Rod_Stewart @associatedActs Ian_McLagan associatedBand The_Rolling_Stones @associatedActs Billy_Nicholls associatedActs Faces_(band)"	31917957.4
+28	"Rod_Stewart @associatedActs Ian_McLagan associatedMusicalArtist The_Rolling_Stones @associatedBand Billy_Nicholls associatedActs Faces_(band)"	31917957.4
+29	"Rod_Stewart @associatedMusicalArtist Ian_McLagan associatedBand The_Rolling_Stones @associatedActs Billy_Nicholls associatedMusicalArtist Faces_(band)"	31917957.4
+30	"Rod_Stewart @associatedMusicalArtist Ian_McLagan associatedBand The_Rolling_Stones @associatedBand Billy_Nicholls associatedActs Faces_(band)"	31917957.4
+31	"Rod_Stewart @associatedMusicalArtist Ian_McLagan associatedMusicalArtist The_Rolling_Stones @associatedBand Billy_Nicholls associatedMusicalArtist Faces_(band)"	31917957.4
+32	"Rod_Stewart @associatedActs Ronnie_Wood @bandMember The_Rolling_Stones @associatedActs Billy_Nicholls associatedMusicalArtist Faces_(band)"	31916576.4
+33	"Rod_Stewart @associatedActs Ronnie_Wood @bandMember The_Rolling_Stones @associatedBand Billy_Nicholls associatedBand Faces_(band)"	31916576.4
+34	"Rod_Stewart @associatedActs Ronnie_Wood @bandMember The_Rolling_Stones @associatedMusicalArtist Billy_Nicholls associatedBand Faces_(band)"	31916576.4
+35	"Rod_Stewart @associatedBand Ronnie_Wood @bandMember The_Rolling_Stones @associatedActs Billy_Nicholls associatedMusicalArtist Faces_(band)"	31916576.4
+36	"Rod_Stewart @associatedActs Ronnie_Wood @bandMember The_Rolling_Stones @associatedBand Billy_Nicholls associatedMusicalArtist Faces_(band)"	31916576.4
+37	"Rod_Stewart @associatedBand Ronnie_Wood @bandMember The_Rolling_Stones @associatedBand Billy_Nicholls associatedBand Faces_(band)"	31916576.4
+38	"Rod_Stewart @associatedActs Ronnie_Wood @currentMembers The_Rolling_Stones @associatedActs Billy_Nicholls associatedActs Faces_(band)"	31916576.4
+39	"Rod_Stewart @associatedActs Ronnie_Wood @currentMembers The_Rolling_Stones @associatedActs Billy_Nicholls associatedBand Faces_(band)"	31916576.4
+40	"Rod_Stewart @associatedActs Ronnie_Wood @currentMembers The_Rolling_Stones @associatedBand Billy_Nicholls associatedActs Faces_(band)"	31916576.4
+41	"Rod_Stewart @associatedActs Ronnie_Wood @currentMembers The_Rolling_Stones @associatedActs Billy_Nicholls associatedMusicalArtist Faces_(band)"	31916576.4
+42	"Rod_Stewart @associatedActs Ronnie_Wood @currentMembers The_Rolling_Stones @associatedMusicalArtist Billy_Nicholls associatedMusicalArtist Faces_(band)"	31916576.4
+43	"Rod_Stewart @associatedActs Ronnie_Wood @currentMembers The_Rolling_Stones @associatedMusicalArtist Billy_Nicholls associatedBand Faces_(band)"	31916576.4
+44	"Rod_Stewart @associatedActs Ronnie_Wood @currentMembers The_Rolling_Stones @associatedBand Billy_Nicholls associatedBand Faces_(band)"	31916576.4
+45	"Rod_Stewart @associatedActs Ronnie_Wood @currentMembers The_Rolling_Stones @associatedBand Billy_Nicholls associatedMusicalArtist Faces_(band)"	31916576.4
+46	"Rod_Stewart @associatedActs Ian_McLagan associatedBand The_Rolling_Stones @associatedActs Ronnie_Wood @currentMembers Faces_(band)"	31886180
+47	"Rod_Stewart @associatedActs Ian_McLagan associatedActs The_Rolling_Stones currentMembers Ronnie_Wood associatedMusicalArtist Faces_(band)"	31886180
+48	"Rod_Stewart @associatedActs Ian_McLagan associatedActs The_Rolling_Stones @associatedMusicalArtist Ronnie_Wood associatedMusicalArtist Faces_(band)"	31886180
+49	"Rod_Stewart @associatedMusicalArtist Ian_McLagan associatedBand The_Rolling_Stones @associatedActs Ronnie_Wood associatedMusicalArtist Faces_(band)"	31886180
+50	"Rod_Stewart @associatedMusicalArtist Ian_McLagan associatedBand The_Rolling_Stones @associatedBand Ronnie_Wood associatedActs Faces_(band)"	31886180

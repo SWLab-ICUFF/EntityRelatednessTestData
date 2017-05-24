@@ -1,0 +1,51 @@
+ID	NAME_PATH	SCORE
+1	"Rihanna @associatedActs Chris_Brown associatedActs Nicki_Minaj"	91492340.333333
+2	"Rihanna @associatedActs Chris_Brown associatedMusicalArtist Nicki_Minaj"	91492340.333333
+3	"Rihanna @associatedActs Chris_Brown associatedBand Nicki_Minaj"	91492340.333333
+4	"Rihanna @associatedMusicalArtist Chris_Brown associatedActs Nicki_Minaj"	91492340.333333
+5	"Rihanna @associatedBand Chris_Brown associatedActs Nicki_Minaj"	91492340.333333
+6	"Rihanna @associatedMusicalArtist Chris_Brown associatedBand Nicki_Minaj"	91492340.333333
+7	"Rihanna @associatedMusicalArtist Chris_Brown associatedMusicalArtist Nicki_Minaj"	91492340.333333
+8	"Rihanna @associatedBand Chris_Brown associatedBand Nicki_Minaj"	91492340.333333
+9	"Rihanna @associatedBand Chris_Brown associatedMusicalArtist Nicki_Minaj"	91492340.333333
+10	"Rihanna @associatedMusicalArtist Chris_Brown @associatedActs David_Guetta associatedBand Nicki_Minaj"	88519192.25
+11	"Rihanna @associatedBand Chris_Brown @associatedActs David_Guetta associatedMusicalArtist Nicki_Minaj"	88519192.25
+12	"Rihanna @associatedActs Chris_Brown @associatedMusicalArtist David_Guetta associatedBand Nicki_Minaj"	88519192.25
+13	"Rihanna @associatedBand Chris_Brown @associatedBand David_Guetta associatedActs Nicki_Minaj"	88519192.25
+14	"Rihanna @associatedMusicalArtist Chris_Brown @associatedMusicalArtist David_Guetta associatedBand Nicki_Minaj"	88519192.25
+15	"Rihanna @associatedActs Akon associatedActs Eminem @associatedActs Sean_Anthony_(rapper) associatedActs Nicki_Minaj"	85973392.8
+16	"Rihanna @associatedActs Akon associatedBand Eminem @associatedActs Sean_Anthony_(rapper) associatedActs Nicki_Minaj"	85973392.8
+17	"Rihanna @associatedActs Akon associatedActs Eminem @associatedMusicalArtist Sean_Anthony_(rapper) associatedActs Nicki_Minaj"	85973392.8
+18	"Rihanna @associatedActs Akon associatedBand Eminem @associatedActs Sean_Anthony_(rapper) associatedMusicalArtist Nicki_Minaj"	85973392.8
+19	"Rihanna @associatedActs Akon associatedActs Eminem @associatedBand Sean_Anthony_(rapper) associatedBand Nicki_Minaj"	85973392.8
+20	"Rihanna @associatedMusicalArtist Akon associatedActs Eminem @associatedActs Sean_Anthony_(rapper) associatedMusicalArtist Nicki_Minaj"	85973392.8
+21	"Rihanna @associatedActs Akon associatedActs Eminem @associatedMusicalArtist Sean_Anthony_(rapper) associatedMusicalArtist Nicki_Minaj"	85973392.8
+22	"Rihanna @associatedActs Akon associatedBand Eminem @associatedMusicalArtist Sean_Anthony_(rapper) associatedActs Nicki_Minaj"	85973392.8
+23	"Rihanna @associatedActs Akon associatedMusicalArtist Eminem @associatedBand Sean_Anthony_(rapper) associatedActs Nicki_Minaj"	85973392.8
+24	"Rihanna @associatedActs Akon associatedMusicalArtist Eminem @associatedMusicalArtist Sean_Anthony_(rapper) associatedBand Nicki_Minaj"	85973392.8
+25	"Rihanna @associatedActs Akon associatedBand Eminem @associatedBand Sean_Anthony_(rapper) associatedMusicalArtist Nicki_Minaj"	85973392.8
+26	"Rihanna @associatedActs Akon associatedBand Eminem @associatedBand Sean_Anthony_(rapper) associatedBand Nicki_Minaj"	85973392.8
+27	"Rihanna @associatedActs Akon associatedBand Eminem @associatedMusicalArtist Sean_Anthony_(rapper) associatedBand Nicki_Minaj"	85973392.8
+28	"Rihanna @associatedMusicalArtist Akon associatedActs Eminem @associatedMusicalArtist Sean_Anthony_(rapper) associatedBand Nicki_Minaj"	85973392.8
+29	"Rihanna @associatedMusicalArtist Akon associatedMusicalArtist Eminem @associatedMusicalArtist Sean_Anthony_(rapper) associatedActs Nicki_Minaj"	85973392.8
+30	"Rihanna @associatedBand Akon associatedMusicalArtist Eminem @associatedMusicalArtist Sean_Anthony_(rapper) associatedActs Nicki_Minaj"	85973392.8
+31	"Rihanna @associatedBand Akon associatedMusicalArtist Eminem @associatedBand Sean_Anthony_(rapper) associatedMusicalArtist Nicki_Minaj"	85973392.8
+32	"Rihanna @associatedMusicalArtist Akon associatedMusicalArtist Eminem @associatedBand Sean_Anthony_(rapper) associatedMusicalArtist Nicki_Minaj"	85973392.8
+33	"Rihanna @associatedMusicalArtist Akon associatedMusicalArtist Eminem @associatedMusicalArtist Sean_Anthony_(rapper) associatedBand Nicki_Minaj"	85973392.8
+34	"Rihanna @associatedBand Akon associatedMusicalArtist Eminem @associatedMusicalArtist Sean_Anthony_(rapper) associatedMusicalArtist Nicki_Minaj"	85973392.8
+35	"Rihanna @musicalArtist Bitch_Better_Have_My_Money producer Kanye_West @writer Monster_(Kanye_West_song) musicalBand Nicki_Minaj"	85138946.8
+36	"Rihanna @musicalArtist Bitch_Better_Have_My_Money producer Kanye_West @musicalBand Monster_(Kanye_West_song) writer Nicki_Minaj"	85138946.8
+37	"Rihanna @artist Bitch_Better_Have_My_Money writer Kanye_West @producer Monster_(Kanye_West_song) musicalBand Nicki_Minaj"	85138946.8
+38	"Rihanna @artist Bitch_Better_Have_My_Money producer Kanye_West @writer Monster_(Kanye_West_song) musicalBand Nicki_Minaj"	85138946.8
+39	"Rihanna @artist Bitch_Better_Have_My_Money writer Kanye_West @musicalArtist Monster_(Kanye_West_song) writer Nicki_Minaj"	85138946.8
+40	"Rihanna @artist Bitch_Better_Have_My_Money writer Kanye_West @writer Monster_(Kanye_West_song) musicalBand Nicki_Minaj"	85138946.8
+41	"Rihanna @musicalBand Bitch_Better_Have_My_Money producer Kanye_West @producer Monster_(Kanye_West_song) writer Nicki_Minaj"	85138946.8
+42	"Rihanna @writer Bitch_Better_Have_My_Money writer Kanye_West @producer Monster_(Kanye_West_song) musicalArtist Nicki_Minaj"	85138946.8
+43	"Rihanna @musicalBand Bitch_Better_Have_My_Money producer Kanye_West @writer Monster_(Kanye_West_song) writer Nicki_Minaj"	85138946.8
+44	"Rihanna @associatedMusicalArtist Akon associatedActs David_Guetta associatedActs Nicki_Minaj"	83650972.5
+45	"Rihanna @associatedActs Will.i.am associatedActs Nicki_Minaj"	81187099.333333
+46	"Rihanna @associatedBand Will.i.am associatedActs Nicki_Minaj"	81187099.333333
+47	"Rihanna @associatedActs Will.i.am associatedMusicalArtist Nicki_Minaj"	81187099.333333
+48	"Rihanna @associatedMusicalArtist Will.i.am associatedBand Nicki_Minaj"	81187099.333333
+49	"Rihanna @associatedBand Will.i.am associatedBand Nicki_Minaj"	81187099.333333
+50	"Rihanna @associatedMusicalArtist Will.i.am associatedMusicalArtist Nicki_Minaj"	81187099.333333

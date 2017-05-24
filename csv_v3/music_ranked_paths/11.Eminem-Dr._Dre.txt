@@ -1,0 +1,51 @@
+ID	NAME_PATH	SCORE
+1	"Eminem @associatedActs Dr._Dre"	105063489
+2	"Eminem @associatedMusicalArtist Dr._Dre"	105063489
+3	"Eminem @associatedBand Dr._Dre"	105063489
+4	"Eminem @producer The_Black_Album_(Jay_Z_album) producer Kanye_West @producer The_Documentary producer Dr._Dre"	83017417.2
+5	"Eminem @producer D12_World producer Kanye_West @producer The_Documentary producer Dr._Dre"	81710668.6
+6	"Eminem @producer The_Documentary producer Kanye_West @producer D12_World producer Dr._Dre"	81710668.6
+7	"Eminem @producer The_Documentary producer Kanye_West @producer Hip_Hop_Is_Dead producer Dr._Dre"	81626660.6
+8	"Eminem @musicalBand Forever_(Drake_song) musicalBand Kanye_West @producer The_Documentary producer Dr._Dre"	81450573.4
+9	"Eminem @musicalBand Forever_(Drake_song) musicalArtist Kanye_West @producer The_Documentary producer Dr._Dre"	81450573.4
+10	"Eminem @musicalArtist Forever_(Drake_song) musicalBand Kanye_West @producer The_Documentary producer Dr._Dre"	81450573.4
+11	"Eminem @musicalArtist Forever_(Drake_song) musicalArtist Kanye_West @producer The_Documentary producer Dr._Dre"	81450573.4
+12	"Eminem @writer Forever_(Drake_song) musicalArtist Kanye_West @producer The_Documentary producer Dr._Dre"	81450573.4
+13	"Eminem @musicalBand Forever_(Drake_song) writer Kanye_West @producer The_Documentary producer Dr._Dre"	81450573.4
+14	"Eminem @writer Forever_(Drake_song) musicalBand Kanye_West @producer The_Documentary producer Dr._Dre"	81450573.4
+15	"Eminem @musicalArtist Forever_(Drake_song) writer Kanye_West @producer The_Documentary producer Dr._Dre"	81450573.4
+16	"Eminem @writer Forever_(Drake_song) writer Kanye_West @producer The_Documentary producer Dr._Dre"	81450573.4
+17	"Eminem @producer D12_World producer Kanye_West @producer Hip_Hop_Is_Dead producer Dr._Dre"	81285213.6
+18	"Eminem @producer Kiss_of_Death_(Jadakiss_album) producer Kanye_West @producer The_Documentary producer Dr._Dre"	81251106.2
+19	"Eminem @producer Greatest_Hits_(Jay-Z_album) producer Kanye_West @producer The_Documentary producer Dr._Dre"	81187196.4
+20	"Eminem @producer The_Documentary producer Kanye_West @producer The_Way_I_Am_(Knoc-turn'al_album) producer Dr._Dre"	81147113.6
+21	"Eminem @producer The_Blueprint producer Kanye_West @producer The_Documentary producer Dr._Dre"	81143223.2
+22	"Eminem @associatedActs Skipp_Whitman associatedActs Kanye_West @producer The_Documentary producer Dr._Dre"	81142303.2
+23	"Eminem @associatedMusicalArtist Skipp_Whitman associatedActs Kanye_West @producer The_Documentary producer Dr._Dre"	81142303.2
+24	"Eminem @associatedActs Skipp_Whitman associatedBand Kanye_West @producer The_Documentary producer Dr._Dre"	81142303.2
+25	"Eminem @associatedActs Skipp_Whitman associatedMusicalArtist Kanye_West @producer The_Documentary producer Dr._Dre"	81142303.2
+26	"Eminem @associatedBand Skipp_Whitman associatedActs Kanye_West @producer The_Documentary producer Dr._Dre"	81142303.2
+27	"Eminem @associatedBand Skipp_Whitman associatedMusicalArtist Kanye_West @producer The_Documentary producer Dr._Dre"	81142303.2
+28	"Eminem @associatedMusicalArtist Skipp_Whitman associatedBand Kanye_West @producer The_Documentary producer Dr._Dre"	81142303.2
+29	"Eminem @associatedMusicalArtist Skipp_Whitman associatedMusicalArtist Kanye_West @producer The_Documentary producer Dr._Dre"	81142303.2
+30	"Eminem @associatedBand Skipp_Whitman associatedBand Kanye_West @producer The_Documentary producer Dr._Dre"	81142303.2
+31	"Eminem @producer The_Documentary producer Kanye_West @producer L.A._Confidential_presents:_Knoc-turn'al producer Dr._Dre"	81141841.4
+32	"Eminem @producer The_Streetsweeper,_Vol._2 producer Kanye_West @producer The_Documentary producer Dr._Dre"	81141754.6
+33	"Eminem @producer The_Documentary producer Kanye_West @producer Kingdom_Come_(Jay_Z_album) producer Dr._Dre"	81141736.8
+34	"Eminem @associatedActs Dylan_Wissing associatedMusicalArtist Kanye_West @producer The_Documentary producer Dr._Dre"	81141721.6
+35	"Eminem @associatedMusicalArtist Che_Pope associatedBand Kanye_West @producer The_Documentary producer Dr._Dre"	81141721.6
+36	"Eminem @associatedBand Dylan_Wissing associatedMusicalArtist Kanye_West @producer The_Documentary producer Dr._Dre"	81141721.6
+37	"Eminem @associatedActs The_Game_(rapper) associatedActs Dr._Dre"	79235410
+38	"Eminem @associatedBand The_Game_(rapper) @associatedActs Dr._Dre"	79235410
+39	"Eminem @associatedMusicalArtist The_Game_(rapper) associatedActs Dr._Dre"	79235410
+40	"Eminem @associatedActs The_Game_(rapper) @associatedBand Dr._Dre"	79235410
+41	"Eminem @associatedActs The_Game_(rapper) @associatedMusicalArtist Dr._Dre"	79235410
+42	"Eminem @associatedMusicalArtist The_Game_(rapper) @associatedMusicalArtist Dr._Dre"	79235410
+43	"Eminem @associatedBand The_Game_(rapper) associatedMusicalArtist Dr._Dre"	79235410
+44	"Eminem @associatedMusicalArtist The_Game_(rapper) associatedMusicalArtist Dr._Dre"	79235410
+45	"Eminem @associatedMusicalArtist The_Game_(rapper) @associatedBand Dr._Dre"	79235410
+46	"Eminem @associatedBand The_Game_(rapper) @associatedMusicalArtist Dr._Dre"	79235410
+47	"Eminem @associatedActs Akon associatedBand Dr._Dre"	77992769.666667
+48	"Eminem @associatedBand Akon associatedActs Dr._Dre"	77992769.666667
+49	"Eminem @associatedBand Akon associatedMusicalArtist Dr._Dre"	77992769.666667
+50	"Eminem @associatedMusicalArtist Akon associatedMusicalArtist Dr._Dre"	77992769.666667

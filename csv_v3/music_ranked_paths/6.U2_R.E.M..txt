@@ -1,0 +1,51 @@
+ID	NAME_PATH	SCORE
+1	"U2 @associatedActs Automatic_Baby associatedActs R.E.M."	72559965.333333
+2	"U2 @associatedActs Automatic_Baby associatedBand R.E.M."	72559965.333333
+3	"U2 @associatedActs Automatic_Baby @associatedBand R.E.M."	72559965.333333
+4	"U2 @associatedMusicalArtist Automatic_Baby @associatedActs R.E.M."	72559965.333333
+5	"U2 @associatedBand Automatic_Baby associatedActs R.E.M."	72559965.333333
+6	"U2 @associatedMusicalArtist Automatic_Baby @associatedMusicalArtist R.E.M."	72559965.333333
+7	"U2 @associatedMusicalArtist Automatic_Baby associatedMusicalArtist R.E.M."	72559965.333333
+8	"U2 @associatedBand Automatic_Baby @associatedBand R.E.M."	72559965.333333
+9	"U2 @associatedBand Automatic_Baby @associatedMusicalArtist R.E.M."	72559965.333333
+10	"U2 @associatedMusicalArtist Automatic_Baby associatedBand R.E.M."	72559965.333333
+11	"U2 @associatedBand Automatic_Baby associatedBand R.E.M."	72559965.333333
+12	"U2 @associatedActs Spike_Stent associatedActs Madonna_(entertainer) @associatedBand Damian_LeGassick associatedBand R.E.M."	71240802.2
+13	"U2 @associatedActs Spike_Stent associatedActs Madonna_(entertainer) @associatedMusicalArtist Damian_LeGassick associatedBand R.E.M."	71240802.2
+14	"U2 @associatedBand Spike_Stent associatedActs Madonna_(entertainer) @associatedActs Damian_LeGassick associatedMusicalArtist R.E.M."	71240802.2
+15	"U2 @associatedActs Nellee_Hooper associatedActs Madonna_(entertainer) @associatedActs Damian_LeGassick associatedActs R.E.M."	71196948
+16	"U2 @associatedActs Nellee_Hooper associatedActs Madonna_(entertainer) @associatedActs Damian_LeGassick associatedMusicalArtist R.E.M."	71196948
+17	"U2 @associatedActs Nellee_Hooper associatedActs Madonna_(entertainer) @associatedBand Damian_LeGassick associatedActs R.E.M."	71196948
+18	"U2 @associatedMusicalArtist Nellee_Hooper associatedActs Madonna_(entertainer) @associatedMusicalArtist Damian_LeGassick associatedActs R.E.M."	71196948
+19	"U2 @associatedActs Nellee_Hooper associatedActs Madonna_(entertainer) @associatedBand Damian_LeGassick associatedMusicalArtist R.E.M."	71196948
+20	"U2 @associatedBand Nellee_Hooper associatedActs Madonna_(entertainer) @associatedMusicalArtist Damian_LeGassick associatedActs R.E.M."	71196948
+21	"U2 @associatedActs Nellee_Hooper associatedActs Madonna_(entertainer) @associatedBand Damian_LeGassick associatedBand R.E.M."	71196948
+22	"U2 @associatedMusicalArtist Nellee_Hooper associatedActs Madonna_(entertainer) @associatedActs Damian_LeGassick associatedBand R.E.M."	71196948
+23	"U2 @associatedBand Nellee_Hooper associatedActs Madonna_(entertainer) @associatedBand Damian_LeGassick associatedActs R.E.M."	71196948
+24	"U2 @associatedMusicalArtist Nellee_Hooper associatedActs Madonna_(entertainer) @associatedMusicalArtist Damian_LeGassick associatedMusicalArtist R.E.M."	71196948
+25	"U2 @associatedMusicalArtist Nellee_Hooper associatedActs Madonna_(entertainer) @associatedBand Damian_LeGassick associatedMusicalArtist R.E.M."	71196948
+26	"U2 @associatedBand Nellee_Hooper associatedActs Madonna_(entertainer) @associatedBand Damian_LeGassick associatedBand R.E.M."	71196948
+27	"U2 @associatedBand Nellee_Hooper associatedActs Madonna_(entertainer) @associatedMusicalArtist Damian_LeGassick associatedBand R.E.M."	71196948
+28	"U2 @associatedMusicalArtist Nellee_Hooper associatedActs Madonna_(entertainer) @associatedMusicalArtist Damian_LeGassick associatedBand R.E.M."	71196948
+29	"U2 @associatedActs Mike_McKnight associatedActs Madonna_(entertainer) @associatedMusicalArtist Damian_LeGassick associatedActs R.E.M."	71172087.8
+30	"U2 @associatedActs Mike_McKnight associatedActs Madonna_(entertainer) @associatedBand Damian_LeGassick associatedActs R.E.M."	71172087.8
+31	"U2 @associatedMusicalArtist Mike_McKnight associatedActs Madonna_(entertainer) @associatedActs Damian_LeGassick associatedMusicalArtist R.E.M."	71172087.8
+32	"U2 @associatedMusicalArtist Mike_McKnight associatedMusicalArtist Madonna_(entertainer) @associatedActs Damian_LeGassick associatedActs R.E.M."	71172087.8
+33	"U2 @associatedMusicalArtist Mike_McKnight associatedBand Madonna_(entertainer) @associatedActs Damian_LeGassick associatedActs R.E.M."	71172087.8
+34	"U2 @associatedActs Mike_McKnight associatedMusicalArtist Madonna_(entertainer) @associatedBand Damian_LeGassick associatedActs R.E.M."	71172087.8
+35	"U2 @associatedActs Mike_McKnight associatedActs Madonna_(entertainer) @associatedBand Damian_LeGassick associatedMusicalArtist R.E.M."	71172087.8
+36	"U2 @associatedBand Mike_McKnight associatedBand Madonna_(entertainer) @associatedActs Damian_LeGassick associatedActs R.E.M."	71172087.8
+37	"U2 @associatedActs Mike_McKnight associatedActs Madonna_(entertainer) @associatedMusicalArtist Damian_LeGassick associatedBand R.E.M."	71172087.8
+38	"U2 @associatedActs Mike_McKnight associatedMusicalArtist Madonna_(entertainer) @associatedMusicalArtist Damian_LeGassick associatedActs R.E.M."	71172087.8
+39	"U2 @associatedActs Mike_McKnight associatedActs Madonna_(entertainer) @associatedMusicalArtist Damian_LeGassick associatedMusicalArtist R.E.M."	71172087.8
+40	"U2 @associatedMusicalArtist Mike_McKnight associatedBand Madonna_(entertainer) @associatedActs Damian_LeGassick associatedBand R.E.M."	71172087.8
+41	"U2 @associatedMusicalArtist Mike_McKnight associatedMusicalArtist Madonna_(entertainer) @associatedActs Damian_LeGassick associatedBand R.E.M."	71172087.8
+42	"U2 @associatedActs Mike_McKnight associatedMusicalArtist Madonna_(entertainer) @associatedMusicalArtist Damian_LeGassick associatedBand R.E.M."	71172087.8
+43	"U2 @associatedMusicalArtist Mike_McKnight associatedActs Madonna_(entertainer) @associatedBand Damian_LeGassick associatedMusicalArtist R.E.M."	71172087.8
+44	"U2 @associatedMusicalArtist Arthur_Fogel associatedMusicalArtist Madonna_(entertainer) @associatedActs Damian_LeGassick associatedBand R.E.M."	71172087.8
+45	"U2 @associatedMusicalArtist Arthur_Fogel associatedBand Madonna_(entertainer) @associatedBand Damian_LeGassick associatedActs R.E.M."	71172087.8
+46	"U2 @associatedMusicalArtist Arthur_Fogel associatedMusicalArtist Madonna_(entertainer) @associatedBand Damian_LeGassick associatedMusicalArtist R.E.M."	71172087.8
+47	"U2 @associatedBand Arthur_Fogel associatedMusicalArtist Madonna_(entertainer) @associatedBand Damian_LeGassick associatedMusicalArtist R.E.M."	71172087.8
+48	"U2 @associatedMusicalArtist Mike_McKnight associatedBand Madonna_(entertainer) @associatedMusicalArtist Damian_LeGassick associatedMusicalArtist R.E.M."	71172087.8
+49	"U2 @associatedBand Mike_McKnight associatedMusicalArtist Madonna_(entertainer) @associatedBand Damian_LeGassick associatedMusicalArtist R.E.M."	71172087.8
+50	"U2 @associatedMusicalArtist Mike_McKnight associatedBand Madonna_(entertainer) @associatedBand Damian_LeGassick associatedMusicalArtist R.E.M."	71172087.8

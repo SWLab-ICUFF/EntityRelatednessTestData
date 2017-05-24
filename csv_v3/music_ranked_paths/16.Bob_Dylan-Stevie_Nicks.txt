@@ -1,0 +1,51 @@
+ID	NAME_PATH	SCORE
+1	"Bob_Dylan @associatedBand Tom_Petty associatedBand Stevie_Nicks"	53821851
+2	"Bob_Dylan @associatedMusicalArtist Tom_Petty associatedMusicalArtist Stevie_Nicks"	53821851
+3	"Bob_Dylan @associatedBand Tom_Petty associatedMusicalArtist Stevie_Nicks"	53821851
+4	"Bob_Dylan @associatedMusicalArtist Tom_Petty associatedBand Stevie_Nicks"	53821851
+5	"Bob_Dylan @associatedActs Warren_Zevon associatedActs Stevie_Nicks"	51771435.666667
+6	"Bob_Dylan @associatedMusicalArtist Warren_Zevon associatedActs Stevie_Nicks"	51771435.666667
+7	"Bob_Dylan @associatedActs Warren_Zevon associatedBand Stevie_Nicks"	51771435.666667
+8	"Bob_Dylan @associatedBand Warren_Zevon associatedActs Stevie_Nicks"	51771435.666667
+9	"Bob_Dylan @associatedActs Warren_Zevon associatedMusicalArtist Stevie_Nicks"	51771435.666667
+10	"Bob_Dylan @associatedMusicalArtist Warren_Zevon associatedMusicalArtist Stevie_Nicks"	51771435.666667
+11	"Bob_Dylan @associatedBand Warren_Zevon associatedMusicalArtist Stevie_Nicks"	51771435.666667
+12	"Bob_Dylan @associatedBand Warren_Zevon associatedBand Stevie_Nicks"	51771435.666667
+13	"Bob_Dylan @associatedMusicalArtist Warren_Zevon associatedBand Stevie_Nicks"	51771435.666667
+14	"Bob_Dylan @associatedActs Ian_Wallace_(drummer) associatedActs Stevie_Nicks"	49764125.666667
+15	"Bob_Dylan @associatedBand Ian_Wallace_(drummer) associatedActs Stevie_Nicks"	49764125.666667
+16	"Bob_Dylan @associatedMusicalArtist Ian_Wallace_(drummer) associatedActs Stevie_Nicks"	49764125.666667
+17	"Bob_Dylan @associatedActs Ian_Wallace_(drummer) associatedMusicalArtist Stevie_Nicks"	49764125.666667
+18	"Bob_Dylan @associatedActs Ian_Wallace_(drummer) associatedBand Stevie_Nicks"	49764125.666667
+19	"Bob_Dylan @associatedBand Ian_Wallace_(drummer) associatedBand Stevie_Nicks"	49764125.666667
+20	"Bob_Dylan @associatedMusicalArtist Ian_Wallace_(drummer) associatedMusicalArtist Stevie_Nicks"	49764125.666667
+21	"Bob_Dylan @associatedMusicalArtist Ian_Wallace_(drummer) associatedBand Stevie_Nicks"	49764125.666667
+22	"Bob_Dylan @associatedBand Ian_Wallace_(drummer) associatedMusicalArtist Stevie_Nicks"	49764125.666667
+23	"Bob_Dylan @associatedActs Grateful_Dead @associatedMusicalArtist Tom_Petty associatedMusicalArtist Stevie_Nicks"	47097518
+24	"Bob_Dylan @associatedBand Grateful_Dead @associatedBand Tom_Petty associatedBand Stevie_Nicks"	47097518
+25	"Bob_Dylan @associatedMusicalArtist Grateful_Dead @associatedBand Tom_Petty associatedBand Stevie_Nicks"	47097518
+26	"Bob_Dylan @associatedBand Grateful_Dead @associatedMusicalArtist Tom_Petty associatedBand Stevie_Nicks"	47097518
+27	"Bob_Dylan @associatedMusicalArtist Grateful_Dead @associatedBand Tom_Petty associatedMusicalArtist Stevie_Nicks"	47097518
+28	"Bob_Dylan @associatedMusicalArtist Tom_Petty @bandMember Tom_Petty_and_the_Heartbreakers associatedActs Stevie_Nicks"	45008525.25
+29	"Bob_Dylan @associatedBand Tom_Petty @bandMember Tom_Petty_and_the_Heartbreakers associatedBand Stevie_Nicks"	45008525.25
+30	"Bob_Dylan @associatedBand Tom_Petty @bandMember Tom_Petty_and_the_Heartbreakers associatedMusicalArtist Stevie_Nicks"	45008525.25
+31	"Bob_Dylan @associatedMusicalArtist Tom_Petty @bandMember Tom_Petty_and_the_Heartbreakers associatedMusicalArtist Stevie_Nicks"	45008525.25
+32	"Bob_Dylan @associatedMusicalArtist Tom_Petty @bandMember Tom_Petty_and_the_Heartbreakers associatedBand Stevie_Nicks"	45008525.25
+33	"Bob_Dylan @associatedMusicalArtist Tom_Petty @currentMembers Tom_Petty_and_the_Heartbreakers associatedBand Stevie_Nicks"	45008525.25
+34	"Bob_Dylan @associatedMusicalArtist Tom_Petty associatedBand Tom_Petty_and_the_Heartbreakers associatedActs Stevie_Nicks"	45008525.25
+35	"Bob_Dylan @associatedBand Tom_Petty associatedMusicalArtist Tom_Petty_and_the_Heartbreakers associatedActs Stevie_Nicks"	45008525.25
+36	"Bob_Dylan @associatedActs Warren_Zevon associatedMusicalArtist Tom_Petty associatedBand Stevie_Nicks"	41872978.5
+37	"Bob_Dylan @associatedMusicalArtist Warren_Zevon associatedActs Tom_Petty associatedBand Stevie_Nicks"	41872978.5
+38	"Bob_Dylan @associatedBand Tom_Petty @associatedActs Warren_Zevon associatedBand Stevie_Nicks"	41872978.5
+39	"Bob_Dylan @associatedBand Tom_Petty @associatedMusicalArtist Warren_Zevon associatedActs Stevie_Nicks"	41872978.5
+40	"Bob_Dylan @associatedMusicalArtist Warren_Zevon associatedActs Tom_Petty associatedMusicalArtist Stevie_Nicks"	41872978.5
+41	"Bob_Dylan @associatedMusicalArtist Tom_Petty @associatedBand Warren_Zevon associatedMusicalArtist Stevie_Nicks"	41872978.5
+42	"Bob_Dylan @associatedBand Warren_Zevon associatedMusicalArtist Tom_Petty associatedBand Stevie_Nicks"	41872978.5
+43	"Bob_Dylan @associatedMusicalArtist Tom_Petty @associatedMusicalArtist Warren_Zevon associatedBand Stevie_Nicks"	41872978.5
+44	"Bob_Dylan @associatedBand Warren_Zevon associatedMusicalArtist Tom_Petty associatedMusicalArtist Stevie_Nicks"	41872978.5
+45	"Bob_Dylan @associatedBand Tom_Petty @associatedMusicalArtist Warren_Zevon associatedBand Stevie_Nicks"	41872978.5
+46	"Bob_Dylan @formerBandMember Traveling_Wilburys formerBandMember Tom_Petty associatedMusicalArtist Stevie_Nicks"	41424557.75
+47	"Bob_Dylan @formerBandMember Traveling_Wilburys pastMembers Tom_Petty associatedMusicalArtist Stevie_Nicks"	41424557.75
+48	"Bob_Dylan @formerBandMember Traveling_Wilburys @associatedBand Tom_Petty associatedBand Stevie_Nicks"	41424557.75
+49	"Bob_Dylan @formerBandMember Traveling_Wilburys @associatedBand Tom_Petty associatedMusicalArtist Stevie_Nicks"	41424557.75
+50	"Bob_Dylan @pastMembers Traveling_Wilburys @associatedMusicalArtist Tom_Petty associatedBand Stevie_Nicks"	41424557.75

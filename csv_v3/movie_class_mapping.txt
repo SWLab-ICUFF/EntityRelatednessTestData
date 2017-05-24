@@ -1,0 +1,10 @@
+ Movie Ontology 	DBpedia Ontology 	IMDb 
+mvo:Director 	dbo:MovieDirector 	Artist 
+mvo:Actor 	dpo:Actor	Artist 
+mvo:Actor 	dbo:Artist 	Artist 
+mvo:Producer 	dbo:Producer 	Artist 
+mvo:Writer 	dbo:Writer 	Artist 
+mvo:Writer 	dbo:MusicComposer 	Artist 
+mvo:Musical_Artist 	dbo:MusicalArtist 	Artist 
+mvo:Movie 	dbo:Film 	Movie 
+

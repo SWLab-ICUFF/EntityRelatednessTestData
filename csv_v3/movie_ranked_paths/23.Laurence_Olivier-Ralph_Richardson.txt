@@ -1,0 +1,51 @@
+ID	NAME_PATH	SCORE
+1	"Laurence_Olivier @starring Uncle_Vanya starring Michael_Redgrave @narrated The_Great_War voices Ralph_Richardson"	6.481512
+2	"Laurence_Olivier @starring Uncle_Vanya starring Michael_Redgrave @narrated The_Great_War voice Ralph_Richardson"	6.481512
+3	"Laurence_Olivier @starring Uncle_Vanya starring Michael_Redgrave @narrator The_Great_War voices Ralph_Richardson"	6.481512
+4	"Laurence_Olivier @starring Uncle_Vanya starring Michael_Redgrave @narrator The_Great_War voice Ralph_Richardson"	6.481512
+5	"Laurence_Olivier @starring Oh!_What_a_Lovely_War starring Michael_Redgrave @narrated The_Great_War voices Ralph_Richardson"	6.421512
+6	"Laurence_Olivier @starring Oh!_What_a_Lovely_War starring Michael_Redgrave @narrated The_Great_War voice Ralph_Richardson"	6.421512
+7	"Laurence_Olivier @starring Oh!_What_a_Lovely_War starring Michael_Redgrave @narrator The_Great_War voices Ralph_Richardson"	6.421512
+8	"Laurence_Olivier @starring Oh!_What_a_Lovely_War starring Michael_Redgrave @narrator The_Great_War voice Ralph_Richardson"	6.421512
+9	"Laurence_Olivier @starring Battle_of_Britain starring Michael_Redgrave @narrated The_Great_War voices Ralph_Richardson"	6.381512
+10	"Laurence_Olivier @starring Battle_of_Britain starring Michael_Redgrave @narrated The_Great_War voice Ralph_Richardson"	6.381512
+11	"Laurence_Olivier @starring Battle_of_Britain starring Michael_Redgrave @narrator The_Great_War voices Ralph_Richardson"	6.381512
+12	"Laurence_Olivier @starring Battle_of_Britain starring Michael_Redgrave @narrator The_Great_War voice Ralph_Richardson"	6.381512
+13	"Laurence_Olivier @starring Wuthering_Heights director William_Wyler @director The_Heiress starring Ralph_Richardson"	6.338508
+14	"Laurence_Olivier @starring Wuthering_Heights director William_Wyler @producer The_Heiress starring Ralph_Richardson"	6.338508
+15	"Laurence_Olivier @starring Carrie director William_Wyler @producer The_Heiress starring Ralph_Richardson"	6.318508
+16	"Laurence_Olivier @starring Carrie producer William_Wyler @director The_Heiress starring Ralph_Richardson"	6.318508
+17	"Laurence_Olivier @director Richard_III starring John_Gielgud @starring Wagner starring Ralph_Richardson"	6.3088
+18	"Laurence_Olivier @producer Richard_III starring John_Gielgud @starring Wagner starring Ralph_Richardson"	6.3088
+19	"Laurence_Olivier @writer Richard_III starring John_Gielgud @starring Wagner starring Ralph_Richardson"	6.3088
+20	"Laurence_Olivier @starring Richard_III starring John_Gielgud @starring Wagner starring Ralph_Richardson"	6.3088
+21	"Laurence_Olivier @starring Wagner starring John_Gielgud @starring Richard_III starring Ralph_Richardson"	6.3088
+22	"Laurence_Olivier @starring The_Shoes_of_the_Fisherman starring John_Gielgud @starring Wagner starring Ralph_Richardson"	6.2888
+23	"Laurence_Olivier @starring Oh!_What_a_Lovely_War starring Vanessa_Redgrave @starring Wagner starring Ralph_Richardson"	6.279374
+24	"Laurence_Olivier @starring Wagner starring Vanessa_Redgrave @starring Oh!_What_a_Lovely_War starring Ralph_Richardson"	6.279374
+25	"Laurence_Olivier @starring Marathon_Man starring Marthe_Keller @starring Wagner starring Ralph_Richardson"	6.254864
+26	"Laurence_Olivier @starring Othello starring Maggie_Smith @starring Oh!_What_a_Lovely_War starring Ralph_Richardson"	6.2393
+27	"Laurence_Olivier @starring Oh!_What_a_Lovely_War starring John_Gielgud @starring Wagner starring Ralph_Richardson"	6.2288
+28	"Laurence_Olivier @starring Wagner starring John_Gielgud @starring Oh!_What_a_Lovely_War starring Ralph_Richardson"	6.2288
+29	"Laurence_Olivier @starring The_Seven-Per-Cent_Solution starring Vanessa_Redgrave @starring Wagner starring Ralph_Richardson"	6.199374
+30	"Laurence_Olivier @starring Othello cinematography Geoffrey_Unsworth @cinematography The_300_Spartans starring Ralph_Richardson"	6.165106
+31	"Laurence_Olivier @starring As_You_Like_It musicComposer William_Walton @musicComposer Richard_III starring Ralph_Richardson"	5.98239
+32	"Laurence_Olivier @starring As_You_Like_It musicComposer William_Walton @music Richard_III starring Ralph_Richardson"	5.98239
+33	"Laurence_Olivier @starring As_You_Like_It music William_Walton @musicComposer Richard_III starring Ralph_Richardson"	5.98239
+34	"Laurence_Olivier @starring As_You_Like_It music William_Walton @music Richard_III starring Ralph_Richardson"	5.98239
+35	"Laurence_Olivier @starring Wagner starring Ralph_Richardson"	5.83293
+36	"Laurence_Olivier @director Richard_III starring Ralph_Richardson"	5.6995966666667
+37	"Laurence_Olivier @producer Richard_III starring Ralph_Richardson"	5.6995966666667
+38	"Laurence_Olivier @writer Richard_III starring Ralph_Richardson"	5.6995966666667
+39	"Laurence_Olivier @starring Richard_III starring Ralph_Richardson"	5.6995966666667
+40	"Laurence_Olivier @starring Oh!_What_a_Lovely_War starring Ralph_Richardson"	5.5662633333333
+41	"Laurence_Olivier @starring Battle_of_Britain starring Ralph_Richardson"	5.4995966666667
+42	"Laurence_Olivier @starring Peter_the_Great starring Vanessa_Redgrave @starring Wagner starring Ralph_Richardson"	5.463374
+43	"Laurence_Olivier @starring Peter_the_Great person Vittorio_Storaro @person Wagner starring Ralph_Richardson"	5.397712
+44	"Laurence_Olivier @starring Peter_the_Great cinematography Vittorio_Storaro @person Wagner starring Ralph_Richardson"	5.397712
+45	"Laurence_Olivier @starring Peter_the_Great person Vittorio_Storaro @cinematography Wagner starring Ralph_Richardson"	5.397712
+46	"Laurence_Olivier @starring Peter_the_Great cinematography Vittorio_Storaro @cinematography Wagner starring Ralph_Richardson"	5.397712
+47	"Laurence_Olivier @starring Peter_the_Great starring Vanessa_Redgrave @starring Oh!_What_a_Lovely_War starring Ralph_Richardson"	5.303374
+48	"Laurence_Olivier @starring Peter_the_Great starring Trevor_Howard @starring Outcast_of_the_Islands starring Ralph_Richardson"	5.29624
+49	"Laurence_Olivier @starring Peter_the_Great starring Trevor_Howard @starring Battle_of_Britain starring Ralph_Richardson"	5.25624
+50	"Laurence_Olivier @starring David_Copperfield starring Ralph_Richardson"	5.1662633333333

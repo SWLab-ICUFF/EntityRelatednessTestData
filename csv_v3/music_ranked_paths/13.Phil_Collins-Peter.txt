@@ -1,0 +1,51 @@
+ID	NAME_PATH	SCORE
+1	"Phil_Collins @bandMember Genesis_(band) formerBandMember Peter_Gabriel"	27140717.333333
+2	"Phil_Collins @bandMember Genesis_(band) pastMembers Peter_Gabriel"	27140717.333333
+3	"Phil_Collins @currentMembers Genesis_(band) formerBandMember Peter_Gabriel"	27140717.333333
+4	"Phil_Collins @bandMember Genesis_(band) @associatedActs Peter_Gabriel"	27140717.333333
+5	"Phil_Collins @bandMember Genesis_(band) @associatedBand Peter_Gabriel"	27140717.333333
+6	"Phil_Collins @bandMember Genesis_(band) @associatedMusicalArtist Peter_Gabriel"	27140717.333333
+7	"Phil_Collins @currentMembers Genesis_(band) pastMembers Peter_Gabriel"	27140717.333333
+8	"Phil_Collins @currentMembers Genesis_(band) @associatedActs Peter_Gabriel"	27140717.333333
+9	"Phil_Collins @currentMembers Genesis_(band) @associatedBand Peter_Gabriel"	27140717.333333
+10	"Phil_Collins @currentMembers Genesis_(band) @associatedMusicalArtist Peter_Gabriel"	27140717.333333
+11	"Phil_Collins @bandMember Genesis_(band) @associatedActs Brian_Eno @associatedMusicalArtist Laurie_Anderson associatedBand Peter_Gabriel"	22820979.4
+12	"Phil_Collins @currentMembers Genesis_(band) @associatedActs Brian_Eno @associatedActs Laurie_Anderson associatedActs Peter_Gabriel"	22820979.4
+13	"Phil_Collins @currentMembers Genesis_(band) @associatedMusicalArtist Brian_Eno @associatedActs Laurie_Anderson associatedMusicalArtist Peter_Gabriel"	22820979.4
+14	"Phil_Collins @currentMembers Genesis_(band) @associatedMusicalArtist Brian_Eno @associatedMusicalArtist Laurie_Anderson associatedMusicalArtist Peter_Gabriel"	22820979.4
+15	"Phil_Collins @bandMember Genesis_(band) @associatedMusicalArtist Brian_Eno associatedActs Robert_Fripp associatedMusicalArtist Peter_Gabriel"	22475798.8
+16	"Phil_Collins @bandMember Genesis_(band) @associatedActs Brian_Eno associatedMusicalArtist Robert_Fripp associatedMusicalArtist Peter_Gabriel"	22475798.8
+17	"Phil_Collins @bandMember Genesis_(band) @associatedMusicalArtist Brian_Eno @associatedBand Robert_Fripp associatedBand Peter_Gabriel"	22475798.8
+18	"Phil_Collins @bandMember Genesis_(band) @associatedBand Brian_Eno associatedMusicalArtist Robert_Fripp associatedMusicalArtist Peter_Gabriel"	22475798.8
+19	"Phil_Collins @bandMember Genesis_(band) @associatedMusicalArtist Brian_Eno @associatedBand Robert_Fripp associatedMusicalArtist Peter_Gabriel"	22475798.8
+20	"Phil_Collins @bandMember Genesis_(band) @associatedMusicalArtist Brian_Eno @associatedMusicalArtist Robert_Fripp associatedMusicalArtist Peter_Gabriel"	22475798.8
+21	"Phil_Collins @bandMember Genesis_(band) @associatedBand Brian_Eno @associatedBand Robert_Fripp associatedMusicalArtist Peter_Gabriel"	22475798.8
+22	"Phil_Collins @currentMembers Genesis_(band) @associatedActs Brian_Eno associatedActs Robert_Fripp associatedBand Peter_Gabriel"	22475798.8
+23	"Phil_Collins @currentMembers Genesis_(band) @associatedActs Brian_Eno associatedActs Robert_Fripp associatedMusicalArtist Peter_Gabriel"	22475798.8
+24	"Phil_Collins @currentMembers Genesis_(band) @associatedActs Brian_Eno @associatedMusicalArtist Robert_Fripp associatedMusicalArtist Peter_Gabriel"	22475798.8
+25	"Phil_Collins @currentMembers Genesis_(band) @associatedActs Brian_Eno @associatedBand Robert_Fripp associatedMusicalArtist Peter_Gabriel"	22475798.8
+26	"Phil_Collins @bandMember Genesis_(band) @associatedActs Brian_Eno @associatedMusicalArtist Jane_Siberry associatedActs Peter_Gabriel"	22404395.6
+27	"Phil_Collins @bandMember Genesis_(band) @associatedBand Brian_Eno @associatedActs Jane_Siberry associatedBand Peter_Gabriel"	22404395.6
+28	"Phil_Collins @bandMember Genesis_(band) @associatedMusicalArtist Brian_Eno @associatedActs Jane_Siberry associatedMusicalArtist Peter_Gabriel"	22404395.6
+29	"Phil_Collins @bandMember Genesis_(band) @associatedMusicalArtist Brian_Eno @associatedBand Jane_Siberry associatedActs Peter_Gabriel"	22404395.6
+30	"Phil_Collins @bandMember Genesis_(band) @associatedMusicalArtist Brian_Eno @associatedMusicalArtist Jane_Siberry associatedActs Peter_Gabriel"	22404395.6
+31	"Phil_Collins @bandMember Genesis_(band) @associatedBand Brian_Eno @associatedBand Jane_Siberry associatedActs Peter_Gabriel"	22404395.6
+32	"Phil_Collins @bandMember Genesis_(band) @associatedMusicalArtist Brian_Eno @associatedMusicalArtist Jane_Siberry associatedBand Peter_Gabriel"	22404395.6
+33	"Phil_Collins @bandMember Genesis_(band) @associatedBand Brian_Eno @associatedMusicalArtist Jane_Siberry associatedMusicalArtist Peter_Gabriel"	22404395.6
+34	"Phil_Collins @bandMember Genesis_(band) @associatedBand Brian_Eno @associatedBand Jane_Siberry associatedMusicalArtist Peter_Gabriel"	22404395.6
+35	"Phil_Collins @bandMember Genesis_(band) @associatedMusicalArtist Brian_Eno @associatedBand Jane_Siberry associatedBand Peter_Gabriel"	22404395.6
+36	"Phil_Collins @bandMember Genesis_(band) @associatedMusicalArtist Brian_Eno @associatedMusicalArtist Jane_Siberry associatedMusicalArtist Peter_Gabriel"	22404395.6
+37	"Phil_Collins @bandMember Genesis_(band) @associatedMusicalArtist Brian_Eno @associatedBand Jane_Siberry associatedMusicalArtist Peter_Gabriel"	22404395.6
+38	"Phil_Collins @currentMembers Genesis_(band) @associatedActs Brian_Eno @associatedActs Jane_Siberry associatedActs Peter_Gabriel"	22404395.6
+39	"Phil_Collins @currentMembers Genesis_(band) @associatedActs Brian_Eno @associatedBand Jane_Siberry associatedActs Peter_Gabriel"	22404395.6
+40	"Phil_Collins @currentMembers Genesis_(band) @associatedActs Brian_Eno @associatedActs Jane_Siberry associatedBand Peter_Gabriel"	22404395.6
+41	"Phil_Collins @currentMembers Genesis_(band) @associatedActs Brian_Eno @associatedBand Jane_Siberry associatedBand Peter_Gabriel"	22404395.6
+42	"Phil_Collins @currentMembers Genesis_(band) @associatedActs Brian_Eno @associatedMusicalArtist Jane_Siberry associatedMusicalArtist Peter_Gabriel"	22404395.6
+43	"Phil_Collins @currentMembers Genesis_(band) @associatedBand Brian_Eno @associatedActs Jane_Siberry associatedMusicalArtist Peter_Gabriel"	22404395.6
+44	"Phil_Collins @currentMembers Genesis_(band) @associatedMusicalArtist Brian_Eno @associatedMusicalArtist Jane_Siberry associatedActs Peter_Gabriel"	22404395.6
+45	"Phil_Collins @currentMembers Genesis_(band) @associatedMusicalArtist Brian_Eno @associatedMusicalArtist Jane_Siberry associatedBand Peter_Gabriel"	22404395.6
+46	"Phil_Collins @currentMembers Genesis_(band) @associatedMusicalArtist Brian_Eno @associatedBand Jane_Siberry associatedBand Peter_Gabriel"	22404395.6
+47	"Phil_Collins @currentMembers Genesis_(band) @associatedMusicalArtist Brian_Eno @associatedBand Jane_Siberry associatedMusicalArtist Peter_Gabriel"	22404395.6
+48	"Phil_Collins @writer That's_All_(Genesis_song) musicalArtist Genesis_(band) formerBandMember Peter_Gabriel"	20553606.75
+49	"Phil_Collins @writer That's_All_(Genesis_song) musicalBand Genesis_(band) @associatedActs Peter_Gabriel"	20553606.75
+50	"Phil_Collins @writer That's_All_(Genesis_song) artist Genesis_(band) @associatedActs Peter_Gabriel"	20553606.75

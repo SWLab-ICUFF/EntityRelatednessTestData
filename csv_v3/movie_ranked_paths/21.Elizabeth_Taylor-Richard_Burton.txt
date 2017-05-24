@@ -1,0 +1,51 @@
+ID	NAME_PATH	SCORE
+1	"Elizabeth_Taylor @producer The_Taming_of_the_Shrew cinematography Oswald_Morris @cinematography The_Spy_Who_Came_in_from_the_Cold starring Richard_Burton"	6.854704
+2	"Elizabeth_Taylor @starring The_Taming_of_the_Shrew cinematography Oswald_Morris @cinematography The_Spy_Who_Came_in_from_the_Cold starring Richard_Burton"	6.854704
+3	"Elizabeth_Taylor @producer The_Taming_of_the_Shrew cinematography Oswald_Morris @cinematography Look_Back_in_Anger starring Richard_Burton"	6.814704
+4	"Elizabeth_Taylor @starring The_Taming_of_the_Shrew cinematography Oswald_Morris @cinematography Look_Back_in_Anger starring Richard_Burton"	6.814704
+5	"Elizabeth_Taylor @starring Reflections_in_a_Golden_Eye producer Ray_Stark @producer The_Night_of_the_Iguana starring Richard_Burton"	6.736308
+6	"Elizabeth_Taylor @producer The_Taming_of_the_Shrew screenplay Paul_Dehn @screenplay The_Spy_Who_Came_in_from_the_Cold starring Richard_Burton"	6.704322
+7	"Elizabeth_Taylor @starring The_Taming_of_the_Shrew screenplay Paul_Dehn @screenplay The_Spy_Who_Came_in_from_the_Cold starring Richard_Burton"	6.704322
+8	"Elizabeth_Taylor @producer The_Taming_of_the_Shrew writer Paul_Dehn @screenplay The_Spy_Who_Came_in_from_the_Cold starring Richard_Burton"	6.704322
+9	"Elizabeth_Taylor @producer The_Taming_of_the_Shrew screenplay Paul_Dehn @writer The_Spy_Who_Came_in_from_the_Cold starring Richard_Burton"	6.704322
+10	"Elizabeth_Taylor @starring The_Taming_of_the_Shrew screenplay Paul_Dehn @writer The_Spy_Who_Came_in_from_the_Cold starring Richard_Burton"	6.704322
+11	"Elizabeth_Taylor @starring The_Taming_of_the_Shrew writer Paul_Dehn @screenplay The_Spy_Who_Came_in_from_the_Cold starring Richard_Burton"	6.704322
+12	"Elizabeth_Taylor @producer The_Taming_of_the_Shrew writer Paul_Dehn @writer The_Spy_Who_Came_in_from_the_Cold starring Richard_Burton"	6.704322
+13	"Elizabeth_Taylor @starring The_Taming_of_the_Shrew writer Paul_Dehn @writer The_Spy_Who_Came_in_from_the_Cold starring Richard_Burton"	6.704322
+14	"Elizabeth_Taylor @starring Reflections_in_a_Golden_Eye director John_Huston @director The_Night_of_the_Iguana starring Richard_Burton"	6.689078
+15	"Elizabeth_Taylor @starring Reflections_in_a_Golden_Eye producer John_Huston @director The_Night_of_the_Iguana starring Richard_Burton"	6.689078
+16	"Elizabeth_Taylor @starring Reflections_in_a_Golden_Eye director John_Huston @producer The_Night_of_the_Iguana starring Richard_Burton"	6.689078
+17	"Elizabeth_Taylor @starring Reflections_in_a_Golden_Eye director John_Huston @writer The_Night_of_the_Iguana starring Richard_Burton"	6.689078
+18	"Elizabeth_Taylor @starring Reflections_in_a_Golden_Eye producer John_Huston @producer The_Night_of_the_Iguana starring Richard_Burton"	6.689078
+19	"Elizabeth_Taylor @starring Reflections_in_a_Golden_Eye producer John_Huston @writer The_Night_of_the_Iguana starring Richard_Burton"	6.689078
+20	"Elizabeth_Taylor @starring Suddenly,_Last_Summer cinematography Jack_Hildyard @cinematography The_Wild_Geese starring Richard_Burton"	6.674028
+21	"Elizabeth_Taylor @starring The_Comedians director Peter_Glenville @director Becket starring Richard_Burton"	6.631748
+22	"Elizabeth_Taylor @starring The_Comedians producer Peter_Glenville @director Becket starring Richard_Burton"	6.631748
+23	"Elizabeth_Taylor @starring Beau_Brummell cinematography Oswald_Morris @cinematography The_Taming_of_the_Shrew starring Richard_Burton"	6.614704
+24	"Elizabeth_Taylor @starring The_Comedians musicComposer Laurence_Rosenthal @musicComposer Becket starring Richard_Burton"	6.609424
+25	"Elizabeth_Taylor @starring The_Comedians musicComposer Laurence_Rosenthal @music Becket starring Richard_Burton"	6.609424
+26	"Elizabeth_Taylor @starring The_Comedians music Laurence_Rosenthal @musicComposer Becket starring Richard_Burton"	6.609424
+27	"Elizabeth_Taylor @starring The_Comedians music Laurence_Rosenthal @music Becket starring Richard_Burton"	6.609424
+28	"Elizabeth_Taylor @starring Cleopatra editing Dorothy_Spencer @editing Prince_of_Players starring Richard_Burton"	6.56766
+29	"Elizabeth_Taylor @starring A_Little_Night_Music cinematography Arthur_Ibbetson @cinematography Where_Eagles_Dare starring Richard_Burton"	6.532036
+30	"Elizabeth_Taylor @starring A_Little_Night_Music cinematography Arthur_Ibbetson @cinematography Anne_of_the_Thousand_Days starring Richard_Burton"	6.512036
+31	"Elizabeth_Taylor @producer The_Taming_of_the_Shrew starring Richard_Burton"	6.4424966666667
+32	"Elizabeth_Taylor @starring The_Taming_of_the_Shrew starring Richard_Burton"	6.4424966666667
+33	"Elizabeth_Taylor @starring Night_Watch director Brian_G._Hutton @director Where_Eagles_Dare starring Richard_Burton"	6.4348
+34	"Elizabeth_Taylor @starring A_Little_Night_Music cinematography Arthur_Ibbetson @cinematography The_Medusa_Touch starring Richard_Burton"	6.412036
+35	"Elizabeth_Taylor @starring Father_of_the_Bride director Vincente_Minnelli @director The_Sandpiper starring Richard_Burton"	6.405498
+36	"Elizabeth_Taylor @starring The_V.I.P.s cinematography Jack_Hildyard @cinematography The_Wild_Geese starring Richard_Burton"	6.394028
+37	"Elizabeth_Taylor @starring A_Little_Night_Music producer Elliott_Kastner @producer Where_Eagles_Dare starring Richard_Burton"	6.388184
+38	"Elizabeth_Taylor @starring Zee_and_Co. producer Jay_Kanter @producer Villain starring Richard_Burton"	6.375498
+39	"Elizabeth_Taylor @starring Boom! producer Lester_Persky @producer Equus starring Richard_Burton"	6.347498
+40	"Elizabeth_Taylor @starring Boom! musicComposer John_Barry @musicComposer Zulu narrator Richard_Burton"	6.31902
+41	"Elizabeth_Taylor @starring Boom! musicComposer John_Barry @music Zulu narrator Richard_Burton"	6.31902
+42	"Elizabeth_Taylor @starring Boom! music John_Barry @musicComposer Zulu narrator Richard_Burton"	6.31902
+43	"Elizabeth_Taylor @starring Boom! music John_Barry @music Zulu narrator Richard_Burton"	6.31902
+44	"Elizabeth_Taylor @starring Cat_on_a_Hot_Tin_Roof basedOn Tennessee_Williams @writer Boom! starring Richard_Burton"	6.31864
+45	"Elizabeth_Taylor @starring A_Little_Night_Music producer Elliott_Kastner @producer Equus starring Richard_Burton"	6.288184
+46	"Elizabeth_Taylor @starring A_Little_Night_Music producer Elliott_Kastner @producer Villain starring Richard_Burton"	6.248184
+47	"Elizabeth_Taylor @producer The_Taming_of_the_Shrew starring Michael_Hordern @starring Alexander_the_Great starring Richard_Burton"	6.216672
+48	"Elizabeth_Taylor @starring The_Taming_of_the_Shrew starring Michael_Hordern @starring Alexander_the_Great starring Richard_Burton"	6.216672
+49	"Elizabeth_Taylor @starring A_Little_Night_Music producer Elliott_Kastner @producer Absolution starring Richard_Burton"	6.148184
+50	"Elizabeth_Taylor @starring Boom! starring Richard_Burton"	5.9091633333333

@@ -1,0 +1,51 @@
+ID	NAME_PATH	SCORE
+1	"Cary_Grant @starring Holiday screenplay Donald_Ogden_Stewart @screenplay The_Philadelphia_Story starring Katharine_Hepburn"	7.14876
+2	"Cary_Grant @starring The_Philadelphia_Story screenplay Donald_Ogden_Stewart @screenplay Holiday starring Katharine_Hepburn"	7.14876
+3	"Cary_Grant @starring The_Philadelphia_Story screenplay Donald_Ogden_Stewart @writer Holiday starring Katharine_Hepburn"	7.14876
+4	"Cary_Grant @starring Holiday screenplay Donald_Ogden_Stewart @writer The_Philadelphia_Story starring Katharine_Hepburn"	7.14876
+5	"Cary_Grant @starring Holiday writer Donald_Ogden_Stewart @screenplay The_Philadelphia_Story starring Katharine_Hepburn"	7.14876
+6	"Cary_Grant @starring The_Philadelphia_Story writer Donald_Ogden_Stewart @screenplay Holiday starring Katharine_Hepburn"	7.14876
+7	"Cary_Grant @starring Holiday writer Donald_Ogden_Stewart @writer The_Philadelphia_Story starring Katharine_Hepburn"	7.14876
+8	"Cary_Grant @starring The_Philadelphia_Story writer Donald_Ogden_Stewart @writer Holiday starring Katharine_Hepburn"	7.14876
+9	"Cary_Grant @starring Holiday director George_Cukor @director Love_Among_the_Ruins starring Katharine_Hepburn"	7.079366
+10	"Cary_Grant @starring The_Awful_Truth screenplay Sidney_Buchman @screenplay Holiday starring Katharine_Hepburn"	7.069574
+11	"Cary_Grant @starring The_Awful_Truth writer Sidney_Buchman @screenplay Holiday starring Katharine_Hepburn"	7.069574
+12	"Cary_Grant @starring The_Awful_Truth screenplay Sidney_Buchman @writer Holiday starring Katharine_Hepburn"	7.069574
+13	"Cary_Grant @starring The_Awful_Truth writer Sidney_Buchman @writer Holiday starring Katharine_Hepburn"	7.069574
+14	"Cary_Grant @starring An_Affair_to_Remember screenplay Donald_Ogden_Stewart @screenplay Holiday starring Katharine_Hepburn"	7.06876
+15	"Cary_Grant @starring An_Affair_to_Remember screenplay Donald_Ogden_Stewart @writer Holiday starring Katharine_Hepburn"	7.06876
+16	"Cary_Grant @starring An_Affair_to_Remember writer Donald_Ogden_Stewart @screenplay Holiday starring Katharine_Hepburn"	7.06876
+17	"Cary_Grant @starring An_Affair_to_Remember writer Donald_Ogden_Stewart @writer Holiday starring Katharine_Hepburn"	7.06876
+18	"Cary_Grant @starring The_Philadelphia_Story director George_Cukor @director Holiday starring Katharine_Hepburn"	7.059366
+19	"Cary_Grant @starring Holiday director George_Cukor @director The_Philadelphia_Story starring Katharine_Hepburn"	7.059366
+20	"Cary_Grant @starring Holiday screenplay Donald_Ogden_Stewart @basedOn Love_Affair starring Katharine_Hepburn"	7.02876
+21	"Cary_Grant @starring Holiday writer Donald_Ogden_Stewart @basedOn Love_Affair starring Katharine_Hepburn"	7.02876
+22	"Cary_Grant @starring Holiday director George_Cukor @director Adam's_Rib starring Katharine_Hepburn"	6.979366
+23	"Cary_Grant @starring Suspicion musicComposer Franz_Waxman @musicComposer The_Philadelphia_Story starring Katharine_Hepburn"	6.961334
+24	"Cary_Grant @starring Suspicion musicComposer Franz_Waxman @music The_Philadelphia_Story starring Katharine_Hepburn"	6.961334
+25	"Cary_Grant @starring Suspicion music Franz_Waxman @musicComposer The_Philadelphia_Story starring Katharine_Hepburn"	6.961334
+26	"Cary_Grant @starring Suspicion music Franz_Waxman @music The_Philadelphia_Story starring Katharine_Hepburn"	6.961334
+27	"Cary_Grant @starring Monkey_Business director Howard_Hawks @director Bringing_Up_Baby starring Katharine_Hepburn"	6.88971
+28	"Cary_Grant @starring Monkey_Business director Howard_Hawks @producer Bringing_Up_Baby starring Katharine_Hepburn"	6.88971
+29	"Cary_Grant @starring Mr._Lucky musicComposer Roy_Webb @musicComposer Bringing_Up_Baby starring Katharine_Hepburn"	6.87931
+30	"Cary_Grant @starring Mr._Lucky musicComposer Roy_Webb @music Bringing_Up_Baby starring Katharine_Hepburn"	6.87931
+31	"Cary_Grant @starring Mr._Lucky music Roy_Webb @musicComposer Bringing_Up_Baby starring Katharine_Hepburn"	6.87931
+32	"Cary_Grant @starring Mr._Lucky music Roy_Webb @music Bringing_Up_Baby starring Katharine_Hepburn"	6.87931
+33	"Cary_Grant @starring Bringing_Up_Baby starring Katharine_Hepburn"	6.87429
+34	"Cary_Grant @starring The_Philadelphia_Story starring Katharine_Hepburn"	6.87429
+35	"Cary_Grant @starring Suspicion editing William_Hamilton @editing Stage_Door starring Katharine_Hepburn"	6.867182
+36	"Cary_Grant @starring Holiday starring Katharine_Hepburn"	6.8409566666667
+37	"Cary_Grant @starring Suspicion musicComposer Franz_Waxman @musicComposer Woman_of_the_Year starring Katharine_Hepburn"	6.821334
+38	"Cary_Grant @starring Suspicion musicComposer Franz_Waxman @music Woman_of_the_Year starring Katharine_Hepburn"	6.821334
+39	"Cary_Grant @starring Suspicion music Franz_Waxman @musicComposer Woman_of_the_Year starring Katharine_Hepburn"	6.821334
+40	"Cary_Grant @starring Suspicion music Franz_Waxman @music Woman_of_the_Year starring Katharine_Hepburn"	6.821334
+41	"Cary_Grant @starring Crisis musicComposer Miklós_Rózsa @musicComposer Adam's_Rib starring Katharine_Hepburn"	6.792342
+42	"Cary_Grant @starring Crisis musicComposer Miklós_Rózsa @music Adam's_Rib starring Katharine_Hepburn"	6.792342
+43	"Cary_Grant @starring Crisis music Miklós_Rózsa @musicComposer Adam's_Rib starring Katharine_Hepburn"	6.792342
+44	"Cary_Grant @starring Crisis music Miklós_Rózsa @music Adam's_Rib starring Katharine_Hepburn"	6.792342
+45	"Cary_Grant @starring Once_Upon_a_Time cinematography Franz_Planer @cinematography Holiday starring Katharine_Hepburn"	6.578788
+46	"Cary_Grant @starring Suspicion editing William_Hamilton @editing The_Little_Minister starring Katharine_Hepburn"	6.567182
+47	"Cary_Grant @starring Room_for_One_More musicComposer Max_Steiner @musicComposer The_Little_Minister starring Katharine_Hepburn"	6.52337
+48	"Cary_Grant @starring Room_for_One_More musicComposer Max_Steiner @music The_Little_Minister starring Katharine_Hepburn"	6.52337
+49	"Cary_Grant @starring Room_for_One_More music Max_Steiner @musicComposer The_Little_Minister starring Katharine_Hepburn"	6.52337
+50	"Cary_Grant @starring Room_for_One_More music Max_Steiner @music The_Little_Minister starring Katharine_Hepburn"	6.52337

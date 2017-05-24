@@ -1,0 +1,10 @@
+CODE	SCORE
+Albhy_Galuten	94
+Bruce_Hornsby	1412850
+Don_Henley	4806624
+Eagles_(band)	30198319
+Eric_Clapton	47230292
+Frank_Simes	59
+Glyn_Johns	1579
+Pino_Palladino	477
+The_Who	67837861
