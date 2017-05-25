@@ -1,0 +1,3935 @@
+@prefix :      <http://swlab.ic.uff.br/resource/> .
+@prefix erel:  <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#> .
+@prefix align: <http://knowledgeweb.semanticweb.org/heterogeneity/alignment#> .
+
+erel:The_Millionaire  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Millionaire_(1931_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0022151/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#The_Beatles_Anthology_(documentary)>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Beatles_Anthology_(documentary)" ;
+        align:entity2   "https://www.last.fm/music/The+Beatles/The+Beatles+Anthology+(documentary)" ;
+        align:relation  "=" .
+
+[ a          align:Alignment ;
+  align:map  erel:Dark_Passage , erel:The_Awakening , erel:Deception , erel:Robert_Swink , erel:The_Grapes_of_Wrath , erel:The_Light_That_Failed , erel:Edmund_H._North , erel:Traveling_Wilburys , erel:Dylan_Wissing , erel:Humphrey_Bogart , erel:Raffles , erel:Dave_Navarro , erel:Outcast_of_the_Islands , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Christmas_Time_(Is_Here_Again)> , erel:Hal_Mohr , erel:Geoffrey_Unsworth , erel:Myrna_Loy , erel:Cleopatra , erel:Riffraff , erel:Twenty_Minutes_of_Love , erel:Libeled_Lady , erel:George_Fitzmaurice , erel:One_Way_Passage , erel:Malcolm_Arnold , erel:Laurence_Rosenthal , erel:Elton_John , erel:Roman_Holiday , erel:Joe_Pasternak , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#The_Bride_Came_C.O.D.> , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Guns_N'_Roses> , erel:Desire , erel:Girl_Crazy , erel:Once_Upon_a_Time , erel:Father_of_the_Bride , erel:Ray_Cooper , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Ian_Stewart_(musician)> , erel:Rick_Danko , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Wish_You_Were_Here_(Pink_Floyd_song)> , erel:Heinz_Roemheld , erel:Frank_D._Williams , erel:David_Gilmour , erel:Stage_Struck , erel:Fire_Over_England , erel:Shadow_of_the_Thin_Man , erel:Crisis , erel:Uncle_Vanya , erel:Fort_Apache , erel:You_Only_Live_Once , erel:Marathon_Man , erel:Lionel_Newman , erel:Sherlock_Holmes , erel:The_Sound_and_the_Fury , erel:All_of_Me , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Octopus's_Garden> , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#This_Wheel's_on_Fire> , erel:The_Age_of_Innocence , erel:Lady_Killer , erel:The_Thin_Man , erel:The_Awful_Truth , erel:The_Three_Faces_of_Eve , erel:Elizabeth_Taylor , erel:Humoresque , erel:Jack_Hildyard , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Come_and_Get_It_(Badfinger_song)> , erel:Possessed , erel:Dimitri_Tiomkin , erel:Lester_Persky , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Now_and_Then_(John_Lennon_song)> , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#The_Lamb_Lies_Down_on_Broadway_(song)> , erel:Vertigo , erel:Yankee_Doodle_Dandy , erel:Laurie_Anderson , erel:Juarez , erel:Rick_Rubin , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Madonna_(entertainer)> , erel:Where_Eagles_Dare , erel:Summer_Stock , erel:U2 , erel:Come_Fill_the_Cup , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Turn_It_On_Again:_The_Hits> , erel:Jerry_Goldsmith , erel:The_Unknown , erel:William_Wyler , erel:The_African_Queen , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#The_Beatles_Anthology_(documentary)> , erel:Suspicion , erel:Jerry_Wald , erel:John_Garfield , erel:Dial_M_for_Murder , erel:Harold_Rosson , erel:The_Great_War , erel:Blonde_Crazy , erel:Harvey , erel:Ralph_Richardson , erel:Kirk_Douglas , erel:Alexander_Korda , erel:Charles_Lang , erel:Marthe_Keller , erel:Ian_Dalrymple , erel:Trevor_Howard , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Don't_Pass_Me_By> , erel:Billy_Nicholls , erel:Omar_Hakim , erel:Richard_Russo , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Birthday_(Beatles_song)> , erel:Chained , erel:Bringing_Up_Baby , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Supper's_Ready> , erel:Boy_Meets_Girl , erel:Ray_Milland , erel:Young_Mr._Lincoln , erel:Rudi_Fehr , erel:George_Cukor , erel:Albhy_Galuten , erel:Rear_Window , erel:Strangers_When_We_Meet , erel:James_Cagney , erel:The_Wizard_of_Oz , erel:The_Basement_Tapes , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Seven_Stones_(song)> , erel:John_Huston , erel:Pride_and_Prejudice , erel:The_Spy_Who_Came_in_from_the_Cold , erel:Alfred_Hitchcock , erel:Dorothy_Spencer , erel:Grace_Kelly , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Minutes_to_Midnight_(album)> , erel:Rick_Vito , erel:A_Little_Night_Music , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Slash_(musician)> , erel:Eric_Clapton , erel:William_Axt , erel:Strike_Up_the_Band , erel:Reflections_in_a_Golden_Eye , erel:Victor_Fleming , erel:The_Dick_Powell_Show , erel:The_Bad_and_the_Beautiful , erel:Peter_Mokran , erel:The_Best_of_Everything , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Help!_(song)> , erel:William_Walton , erel:Oswald_Morris , erel:Mr._Skeffington , erel:The_Quarrymen , erel:John_Ford , erel:The_Dirty_Mac , erel:Thomas_Richards , erel:George_Barnes , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Ian_Wallace_(drummer)> , erel:The_Hustler , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Living_Things_(Linkin_Park_album)> , erel:Stage_Door , erel:As_You_Like_It , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Kingdom_Come_(Jay_Z_album)> , erel:Brian_Eno , erel:Richard_Widmark , erel:Night_Watch , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#A_Midsummer_Night's_Dream> , erel:Dave_Carlock , erel:The_Letter , erel:No_Down_Payment , erel:Exodus , erel:Big_City_Blues , erel:The_Wild_Geese , erel:Will.i.am , erel:Bette_Davis , erel:Jules_Furthman , erel:Dough_and_Dynamite , erel:Absolution , erel:Sabrina , erel:Automatic_Baby , erel:Dr._Dre , erel:Rihanna , erel:Gunfight_at_the_O.K._Corral , erel:Samuel_Bischoff , erel:The_Virgin_Queen , erel:How_to_Steal_a_Million , erel:Georgie_Stoll , erel:The_Vikings , erel:Simon_Franglen , erel:Henry_Fonda , erel:DJ_Felli_Fel , erel:Jean_Harlow , erel:Dodsworth , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Round_and_Around_(Pink_Floyd_song)> , erel:China_Seas , erel:Phil_Collins , erel:Dede_Allen , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Dig_It_(Beatles_song)> , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#What_I've_Done> , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#The_Children's_Hour> , erel:How_the_West_Was_Won , erel:All_About_Eve , erel:Camp_Freddy , erel:Louis_R._Loeffler , erel:The_Strip , erel:Peter_Glenville , erel:Robert_Lord , erel:Peter_the_Great , erel:Jorge_Calderón , erel:From_the_Terrace , erel:Gregg_Toland , erel:North_to_Alaska , erel:Firth_of_Fifth , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Greatest_Hits_(Jay-Z_album)> , erel:Paul_McCartney , erel:Can-Utility_and_the_Coastliners , erel:My_Darling_Clementine , erel:The_Seven-Per-Cent_Solution , erel:Linkin_Park , erel:Watch_on_the_Rhine , erel:Meet_Me_in_St._Louis , erel:Anne_of_the_Thousand_Days , erel:Chester_Thompson , erel:Michael_Redgrave , erel:Talib_Kweli , erel:Paul_Dehn , erel:George_Bassman , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#That's_All_(Genesis_song)> , erel:The_Blueprint , erel:The_Cowboys , erel:Metallica , erel:The_Little_Minister , erel:The_Comedians , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Thank_You_(Busta_Rhymes_song)> , erel:Steve_Hackett , erel:Encore , erel:Sol_Polito , erel:The_Rolling_Stones , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Taxi!> , erel:Jane_Murfin , erel:A_Yank_at_Oxford , erel:The_Effect_of_Gamma_Rays_on_Man-in-the-Moon_Marigolds , erel:Ziegfeld_Girl , erel:Angels_with_Dirty_Faces , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Breakfast_at_Tiffany's> , erel:Frances_Marion , erel:The_Stripper , erel:John_Entwistle , erel:Manhattan_Melodrama , erel:Captain_Blood , erel:Nine_Inch_Nails , erel:Martin_Ritt , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Bob_Dylan's_Greatest_Hits_Vol._II> , erel:George_Tomasini , erel:Rob_Fraboni , erel:Devotion , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Jane's_Addiction> , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Learning_to_Fly_(Pink_Floyd_song)> , erel:Dodge_City , erel:Revolution_9 , erel:Pandro_S._Berman , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Mercy_(GOOD_Music_song)> , erel:Ernest_Haller , erel:Harold_F._Kress , erel:John_Barry , erel:North_by_Northwest , erel:I_Wanna_Be_Your_Man , erel:The_Sandpiper , erel:Lee_J._Cobb , erel:Madigan , erel:The_Prisoner_of_Zenda , erel:Body_and_Soul , erel:George_Peppard , erel:Love_Among_the_Ruins , erel:The_Taming_of_the_Shrew , erel:12-Bar_Original , erel:The_Great_Lie , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Dylan_(2007_album)> , erel:The_Outcasts_of_Poker_Flat , erel:Life_Begins_for_Andy_Hardy , erel:Bold_Venture , erel:Fleetwood_Mac , erel:Tom_Petty , erel:Made_for_Each_Other , erel:The_Dawn_Patrol , erel:Erich_Wolfgang_Korngold , erel:Brian_G._Hutton , erel:Key_Largo , erel:StreetRunner , erel:The_Millionaire , erel:An_Affair_to_Remember , erel:Robbie_Williams , erel:Double_Wedding , erel:James_Naughton , erel:Joan_Blondell , erel:Caught_in_a_Cabaret , erel:Breaking_the_Habit , erel:Hal_B._Wallis , erel:John_Lee_Mahin , erel:Miklós_Rózsa , erel:Othello , erel:Wagner , erel:Mr._Blandings_Builds_His_Dream_House , erel:The_Walls_of_Jericho , erel:Bullets_or_Ballots , erel:Wuthering_Heights , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Don't_Let_the_Sun_Go_Down_on_Me> , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Get_'Em_Out_by_Friday> , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#King:_A_Filmed_Record..._Montgomery_to_Memphis> , erel:David_Guetta , erel:Song_of_the_Thin_Man , erel:Red-Headed_Woman , erel:Joanne_Woodward , erel:Beau_Brummell , erel:Mack_Swain , erel:Easter_Parade , erel:John_Barrymore , erel:Battle_of_Britain , erel:Love_Affair , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#What_Goes_On_(Beatles_song)> , erel:Matt_Colton , erel:Walter_Brennan , erel:Errol_Flynn , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Sean_Anthony_(rapper)> , erel:Leon_Shamroy , erel:Mourning_Becomes_Electra , erel:Men_in_White , erel:D12_World , erel:Jay_Z , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Forever_(Drake_song)> , erel:The_Fugitive , erel:Frank_Simes , erel:Pink_Floyd , erel:Charade , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Kiss_of_Death_(Jadakiss_album)> , erel:William_Powell , erel:Dave_Kushner , erel:12_Angry_Men , erel:The_Medusa_Touch , erel:The_Gift_of_Love , erel:Grand_Hotel , erel:To_Have_and_Have_Not , erel:The_Birds , erel:Edmund_Goulding , erel:Hud , erel:Detective_Story , erel:The_Village_Squire , erel:Rebecca , erel:Richard_Cole , erel:Lloyd_Bacon , erel:Equus , erel:The_Swarm , erel:Becket , erel:Design_for_Living , erel:Our_Town , erel:The_Private_Lives_of_Elizabeth_and_Essex , erel:Pet_Shop_Boys , erel:Hombre , erel:Howard_Hawks , erel:Strange_Cargo , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Richard_Wright_(musician)> , erel:The_Beatles , erel:Robert_Burks , erel:Warren_Zevon , erel:George_Michael , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Boom!> , erel:Dick_Powell , erel:Vivien_Leigh , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Genesis_(band)> , erel:Comfortably_Numb , erel:Sybil , erel:Nik_Kershaw , erel:Ace_in_the_Hole , erel:Free_as_a_Bird , erel:Robert_Fripp , erel:The_Mortal_Storm , erel:Anthology_2 , erel:Rendezvous , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Adam's_Rib> , erel:The_Smiling_Lieutenant , erel:The_Wrong_Man , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#The_Devil's_Disciple> , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Tillie's_Punctured_Romance> , erel:Hugo_Riesenfeld , erel:Caesar_and_Cleopatra , erel:The_Mating_Season , erel:Miriam_Hopkins , erel:Villain , erel:David_Copperfield , erel:Last_Train_from_Gun_Hill , erel:Richard_III , erel:Reckless , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Desire_(Bob_Dylan_album)> , erel:Thelma_Ritter , erel:After_the_Thin_Man , erel:Test_Pilot , erel:Angel , erel:The_Deep_Blue_Sea , erel:John_Kosh , erel:Michael_Hordern , erel:William_H._Daniels , erel:Irving_Ravetch , erel:National_Velvet , erel:John_Wayne , erel:In_the_Good_Old_Summertime , erel:Topaze , erel:The_Gold_Rush , erel:The_Shop_Around_the_Corner , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#The_Long,_Hot_Summer> , erel:The_Battle_of_Midway , erel:The_Knockout , erel:This_Happy_Breed , erel:The_Beatles_at_Shea_Stadium , erel:Lil_Wayne , erel:Joan_Crawford , erel:Ulysses , erel:Tennessee_Williams , erel:Joseph_L._Mankiewicz , erel:Paul_Newman , erel:To_Catch_a_Thief , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#One_of_These_Days_(instrumental)> , erel:Michael_Jackson , erel:Alfred_Newman , erel:Mabel_at_the_Wheel , erel:Albert_Akst , erel:The_Merry_Widow , erel:Margaret_Booth , erel:Clarence_Brown , erel:The_Documentary , erel:Stewart_Stern , erel:The_Division_Bell , erel:Words_for_Battle , erel:Ronnie_Wood , erel:The_Wedding_Night , erel:Mutiny_on_the_Bounty , erel:Anthony_Havelock-Allan , erel:Irving_Thalberg , erel:The_Glass_Menagerie , erel:Richard_Hageman , erel:Renegades , erel:Step_Inside_Love , erel:Young_Man_with_a_Horn , erel:Tom_Petty_and_the_Heartbreakers , erel:Night_Flight , erel:Eli_Wallach , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Four's_a_Crowd> , erel:Chester_Conklin , erel:Lauren_Bacall , erel:Whitney_Houston , erel:Footlight_Parade , erel:Michael_Hogan , erel:Megadeth , erel:Rain , erel:Busby_Berkeley , erel:A_Kiss_Before_Dying , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Breathe_(Pink_Floyd_song)> , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Good_Morning_(Kanye_West_song)> , erel:George_J._Folsey , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Freedom!_'90> , erel:The_Arrangement , erel:Akon , erel:The_Heiress , erel:Behold_a_Pale_Horse , erel:They_Died_with_Their_Boots_On , erel:She_Wore_a_Yellow_Ribbon , erel:Blood_on_the_Tracks , erel:The_Thin_Man_Goes_Home , erel:Damian_LeGassick , erel:Vanessa_Redgrave , erel:Stevie_Nicks , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Birthday_Song_(2_Chainz_song)> , erel:Mike_McKnight , erel:Wife_vs._Secretary , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Pat_O'Brien> , erel:Alexander_the_Great , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#1_(Beatles_album)> , erel:The_Adventures_of_Robin_Hood , erel:Directed_by_John_Ford , erel:Arthur_Ibbetson , erel:The_Masquerader , erel:Twilight , erel:Modern_Times , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Willie_Wilson_(drummer)> , erel:Gregory_Peck , erel:Beau_Geste , erel:Claire_Trevor , erel:Samuel_Goldwyn , erel:Kanye_West , erel:John_Gielgud , erel:James_Stewart , erel:Trouble_in_Paradise , erel:War_and_Peace , erel:The_Clock , erel:Kubec_Glasmon , erel:I_Shall_Be_Released , erel:Herbert_Marshall , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Faces_(band)> , erel:Dudley_Nichols , erel:Judgment_at_Nuremberg , erel:Boys_Town , erel:Glyn_Johns , erel:Ian_McLagan , erel:Led_Zeppelin , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Oh!_What_a_Lovely_War> , erel:W._Somerset_Maugham , erel:Ernst_Lubitsch , erel:Romeo_and_Juliet , erel:The_Band , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Time_(Pink_Floyd_song)> , erel:Way_Back_Home , erel:Lionel_Barrymore , erel:Daft_Punk , erel:Laurence_Olivier , erel:Franz_Waxman , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#The_Way_I_Am_(Knoc-turn'al_album)> , erel:The_Blue_and_the_Gray , erel:Richard_Burton , erel:The_Dark_Angel , erel:The_Public_Enemy , erel:Charlie_Chaplin , erel:Chris_Brown , erel:Ernest_Vajda , erel:Jane_Siberry , erel:When_I_Paint_My_Masterpiece , erel:The_Westerner , erel:Strangers_on_a_Train , erel:Judy_Garland , erel:Jimmy_the_Gent , erel:Gone_with_the_Wind , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Anthrax_(American_band)> , erel:Ray_Stark , erel:Cluny_Brown , erel:Spencer_Tracy , erel:Donald_Ogden_Stewart , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Paul_Jackson,_Jr.> , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Monster_(Kanye_West_song)> , erel:Room_for_One_More , erel:Fred_Zinnemann , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Zee_and_Co.> , erel:The_Divorce_of_Lady_X , erel:A_Thousand_Suns , erel:Macy_Gray , erel:The_Who , erel:Ben_Hecht , erel:Stagecoach , erel:Cat_on_a_Hot_Tin_Roof , erel:Victor_Milner , erel:Paris_Blues , erel:The_Prince_and_the_Pauper , erel:Duff_McKagan , erel:Pay_Day , erel:Franz_Planer , erel:Keith_Uddin , erel:Hip_Hop_Is_Dead , erel:The_Women , erel:Central_Park , erel:Love_Crazy , erel:High_Sierra , erel:Stella_Dallas , erel:The_Idle_Class , erel:Another_Thin_Man , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Gentlemen's_Agreement> , erel:49th_Parallel , erel:When_Ladies_Meet , erel:Homecoming , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#The_Musical_Box_(Genesis_song)> , erel:Babes_on_Broadway , erel:Christina_Aguilera , erel:William_Hamilton , erel:Bruce_Hornsby , erel:Zulu , erel:Storm_in_a_Teacup , erel:Bitch_Better_Have_My_Money , erel:Presenting_Lily_Mars , erel:Katharine_Hepburn , erel:Dames , erel:The_Shoes_of_the_Fisherman , erel:Nellee_Hooper , erel:The_Man_Who_Shot_Liberty_Valance , erel:Thinking_of_Linking , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#R.E.M.> , erel:Rod_Stewart , erel:Z-Trip , erel:Each_Dawn_I_Die , erel:Robert_Fitzpatrick , erel:Arthur_Freed , erel:Vincente_Minnelli , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#The_Streetsweeper,_Vol._2> , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#All_Together_Now_(film)> , erel:Old_Acquaintance , erel:Joseph_LaShelle , erel:Three_on_a_Match , erel:George_Harrison , erel:The_Philadelphia_Story , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Rachel,_Rachel> , erel:Monkey_Business , erel:John_Bettis , erel:Roy_Webb , erel:Vittorio_Storaro , erel:The_Treasure_of_the_Sierra_Madre , erel:Carrie , erel:Flamingo_Road , erel:Look_Back_in_Anger , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Heather_(song)> , erel:Off_the_Record , erel:Ibiza_Bar , erel:Watcher_of_the_Skies , erel:Waterloo_Bridge , erel:Bob_Dylan , erel:Leslie_Howard , erel:Henry_Blanke , erel:Velvet_Revolver , erel:Audrey_Hepburn , erel:Dinner_at_Eight , erel:Grateful_Dead , erel:Forgotten_Faces , erel:The_Carpet_Crawlers , erel:The_Sea_Hawk , erel:Olivia_de_Havilland , erel:Clark_Gable , erel:James_Wong_Howe , erel:Spike_Stent , erel:The_Caine_Mutiny , erel:Orson_Welles , erel:Dionne_Warwick , erel:Henry_V , erel:Eminem , erel:Empire_Falls , erel:Stuart_Heisler , erel:Winner_Take_All , erel:Friends_and_Lovers , erel:The_Big_Country , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#The_Nun's_Story> , erel:Levon_Helm , erel:Che_Pope , erel:Robbie_Robertson , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Flying_(Beatles_instrumental)> , erel:Diane_Warren , erel:Woman_of_the_Year , erel:The_Wall , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#In_Harm's_Way> , erel:Stuart_Epps , erel:Bombshell , erel:Herbert_Stothart , erel:Justin_Meldal-Johnsen , erel:Nana , erel:Samson_Raphaelson , erel:Jackson_Browne , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Not_Fade_Away_(song)> , erel:Don_Henley , erel:The_Butcher_Boy , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Suddenly,_Last_Summer> , erel:San_Francisco , erel:Walter_Huston , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#The_Game_(rapper)> , erel:Edge_of_Darkness , erel:Blake_Edwards , erel:Hondo , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#What_Do_You_Want_from_Me_(Pink_Floyd_song)> , erel:John_Lennon , erel:Ian_McLellan_Hunter , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Her_Majesty_(song)> , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Louder_than_Words_(Pink_Floyd_song)> , erel:Psycho , erel:Hugo_Friedhofer , erel:Merritt_B._Gerstad , erel:George_Martin , erel:Mickey_Rooney , erel:Dead_End , erel:Slayer , erel:Sidney_Howard , erel:The_Roaring_Twenties , erel:That_Hamilton_Woman , erel:Twist_and_Shout , erel:I_Love_You_Again , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#L.A._Confidential_presents:_Knoc-turn'al> , erel:Phil_Palmer , erel:Max_Steiner , erel:Prince_of_Players , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Cayenne_(instrumental)> , erel:Wait_Until_Dark , erel:Siedah_Garrett , erel:Ringo_Starr , erel:The_Night_of_the_Iguana , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Goodbye_Cruel_World_(Pink_Floyd_song)> , erel:Ralph_Dawson , erel:Ronald_Colman , erel:Maggie_Smith , erel:Nicki_Minaj , erel:Rooster_Cogburn , erel:The_300_Spartans , erel:Cary_Grant , erel:21_Days , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Eagles_(band)> , erel:Charles_Boyer , erel:Condemned , erel:The_Human_Comedy , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Come_and_Get_It_(Badfinger_song)__Come_and_Get_It__1> , erel:Of_Human_Bondage , erel:Red_Dust , erel:Ray_Heindorf , erel:Al_St._John , erel:Pino_Palladino , erel:Anna_Karenina , erel:Peter_Gabriel , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Runaway_Train_(Elton_John_and_Eric_Clapton_song)> , erel:Elmer_Bernstein , erel:Warlock , erel:Ronnie_Schneider , erel:Dead_Ringer , erel:The_V.I.P.s , erel:How_to_Marry_a_Millionaire , erel:A_Letter_to_Three_Wives , erel:Robert_Surtees , erel:Elliott_Kastner , erel:Skipp_Whitman , erel:The_Prize , erel:Mildred_Pierce , erel:Holiday , erel:2_Chainz , erel:John_G._Adolfi , erel:Convention_City , erel:Lawrence_Weingarten , erel:The_Desert_Song , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#The_Black_Album_(Jay_Z_album)> , erel:Cry_Wolf , erel:Mannequin , erel:Sidney_Buchman , erel:The_Winning_of_Barbara_Worth , <http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Keith_Harris_(record_producer)> , erel:David_O._Selznick , erel:In_a_Lonely_Place , erel:The_Rescue , erel:Mr._Lucky , erel:E._W._Hornung , erel:Jay_Kanter , erel:Khartoum
+] .
+
+erel:Henry_Fonda  a     align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Henry_Fonda" ;
+        align:entity2   "http://www.imdb.com/name/nm0000020/" ;
+        align:relation  "=" .
+
+erel:Villain  a         align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Villain_(1971_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0067952/" ;
+        align:relation  "=" .
+
+erel:Equus  a           align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Equus_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0075995/" ;
+        align:relation  "=" .
+
+erel:The_Night_of_the_Iguana
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Night_of_the_Iguana_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0058404/" ;
+        align:relation  "=" .
+
+erel:Judgment_at_Nuremberg
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Judgment_at_Nuremberg" ;
+        align:entity2   "http://www.imdb.com/title/tt0055031/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Learning_to_Fly_(Pink_Floyd_song)>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Learning_to_Fly_(Pink_Floyd_song)" ;
+        align:entity2   "https://www.last.fm/music/Pink+Floyd/_/Learning+to+Fly" ;
+        align:relation  "=" .
+
+erel:Elmer_Bernstein  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Elmer_Bernstein" ;
+        align:entity2   "http://www.imdb.com/name/nm0000930/" ;
+        align:relation  "=" .
+
+erel:Lil_Wayne  a       align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Lil_Wayne" ;
+        align:entity2   "https://www.last.fm/music/+noredirect/Lil+Wayne" ;
+        align:relation  "=" .
+
+erel:Slayer  a          align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Slayer" ;
+        align:entity2   "https://www.last.fm/music/Slayer" ;
+        align:relation  "=" .
+
+erel:Test_Pilot  a      align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Test_Pilot_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0030848/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#L.A._Confidential_presents:_Knoc-turn'al>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/L.A._Confidential_presents:_Knoc-turn%27al" ;
+        align:entity2   "https://www.last.fm/music/KNOC-TURN%27AL/L.A.+Confidential+Presents" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#The_Way_I_Am_(Knoc-turn'al_album)>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Way_I_Am_(Knoc-turn%27al_album)" ;
+        align:entity2   "https://www.last.fm/music/KNOC-TURN%27AL/The+Way+I+Am" ;
+        align:relation  "=" .
+
+erel:Mourning_Becomes_Electra
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Mourning_Becomes_Electra_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0039636/" ;
+        align:relation  "=" .
+
+erel:Mabel_at_the_Wheel
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Mabel_at_the_Wheel" ;
+        align:entity2   "http://www.imdb.com/title/tt0004277/" ;
+        align:relation  "=" .
+
+erel:The_Stripper  a    align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Stripper_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0057537/" ;
+        align:relation  "=" .
+
+erel:Boy_Meets_Girl  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Boy_Meets_Girl_(1938_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0029940/" ;
+        align:relation  "=" .
+
+erel:The_V.I.P.s  a     align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_V.I.P.s_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0057634/" ;
+        align:relation  "=" .
+
+erel:After_the_Thin_Man
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/After_the_Thin_Man" ;
+        align:entity2   "http://www.imdb.com/title/tt0027260/" ;
+        align:relation  "=" .
+
+erel:The_Division_Bell
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Division_Bell" ;
+        align:entity2   "https://www.last.fm/music/Pink+Floyd/The+Division+Bell" ;
+        align:relation  "=" .
+
+erel:Wuthering_Heights
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Wuthering_Heights_(1939_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0032145/" ;
+        align:relation  "=" .
+
+erel:Rudi_Fehr  a       align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Rudi_Fehr" ;
+        align:entity2   "http://www.imdb.com/name/nm0270458/" ;
+        align:relation  "=" .
+
+erel:How_the_West_Was_Won
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/How_the_West_Was_Won_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0056085/" ;
+        align:relation  "=" .
+
+erel:Mack_Swain  a      align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Mack_Swain" ;
+        align:entity2   "http://www.imdb.com/name/nm0841501/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Guns_N'_Roses>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Guns_N%27_Roses" ;
+        align:entity2   "https://www.last.fm/music/Guns+N%27+Roses" ;
+        align:relation  "=" .
+
+erel:Strange_Cargo  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Strange_Cargo_(1940_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0033105/" ;
+        align:relation  "=" .
+
+erel:Led_Zeppelin  a    align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Led_Zeppelin" ;
+        align:entity2   "https://www.last.fm/music/Led+Zeppelin" ;
+        align:relation  "=" .
+
+erel:Bombshell  a       align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Bombshell_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0023825/" ;
+        align:relation  "=" .
+
+erel:The_Heiress  a     align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Heiress" ;
+        align:entity2   "http://www.imdb.com/title/tt0041452/" ;
+        align:relation  "=" .
+
+erel:Cluny_Brown  a     align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Cluny_Brown" ;
+        align:entity2   "http://www.imdb.com/title/tt0038419/" ;
+        align:relation  "=" .
+
+erel:The_Wedding_Night
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Wedding_Night" ;
+        align:entity2   "http://www.imdb.com/title/tt0027189/" ;
+        align:relation  "=" .
+
+erel:Diane_Warren  a    align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Diane_Warren" ;
+        align:entity2   "https://www.last.fm/music/Diane+Warren" ;
+        align:relation  "=" .
+
+erel:Wagner  a          align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Wagner_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0085107/" ;
+        align:relation  "=" .
+
+erel:Bullets_or_Ballots
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Bullets_or_Ballots" ;
+        align:entity2   "http://www.imdb.com/title/tt0027407/" ;
+        align:relation  "=" .
+
+erel:Herbert_Marshall
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Herbert_Marshall" ;
+        align:entity2   "http://www.imdb.com/name/nm0003339/" ;
+        align:relation  "=" .
+
+erel:Reflections_in_a_Golden_Eye
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Reflections_in_a_Golden_Eye_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0062185/" ;
+        align:relation  "=" .
+
+erel:Summer_Stock  a    align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Summer_Stock" ;
+        align:entity2   "http://www.imdb.com/title/tt0043012/" ;
+        align:relation  "=" .
+
+erel:Gunfight_at_the_O.K._Corral
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Gunfight_at_the_O.K._Corral_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0050468/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Ian_Wallace_(drummer)>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Ian_Wallace_(drummer)" ;
+        align:entity2   "https://www.last.fm/music/Ian+Wallace" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Round_and_Around_(Pink_Floyd_song)>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Round_and_Around_(Pink_Floyd_song)" ;
+        align:entity2   "https://www.last.fm/music/Pink+Floyd/_/Round+and+Around" ;
+        align:relation  "=" .
+
+erel:Hal_B._Wallis  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Hal_B._Wallis" ;
+        align:entity2   "http://www.imdb.com/name/nm0909259/" ;
+        align:relation  "=" .
+
+erel:Storm_in_a_Teacup
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Storm_in_a_Teacup_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0029611/" ;
+        align:relation  "=" .
+
+erel:Skipp_Whitman  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Skipp_Whitman" ;
+        align:entity2   "https://www.last.fm/music/Skipp+Whitman" ;
+        align:relation  "=" .
+
+erel:George_Martin  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/George_Martin" ;
+        align:entity2   "https://www.last.fm/music/George+Martin" ;
+        align:relation  "=" .
+
+erel:Robert_Lord  a     align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Robert_Lord" ;
+        align:entity2   "http://www.imdb.com/name/nm0520501/" ;
+        align:relation  "=" .
+
+erel:William_H._Daniels
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/William_H._Daniels" , "http://dbpedia.org/resource/William_Daniels_(cinematographer)" ;
+        align:entity2   "http://www.imdb.com/name/nm0200125/" ;
+        align:relation  "=" .
+
+erel:The_Quarrymen  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Quarrymen" ;
+        align:entity2   "https://www.last.fm/music/The+Quarrymen" ;
+        align:relation  "=" .
+
+erel:The_Awakening  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Awakening_(1928_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0018666/" ;
+        align:relation  "=" .
+
+erel:The_Battle_of_Midway
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Battle_of_Midway_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0034498/" ;
+        align:relation  "=" .
+
+erel:Martin_Ritt  a     align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Martin_Ritt" ;
+        align:entity2   "http://www.imdb.com/name/nm0728688/" ;
+        align:relation  "=" .
+
+erel:Dylan_Wissing  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Dylan_Wissing" ;
+        align:entity2   "https://www.last.fm/music/Dylan+Wissing" ;
+        align:relation  "=" .
+
+erel:Robert_Swink  a    align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Robert_Swink" ;
+        align:entity2   "http://www.imdb.com/name/nm0842732/" ;
+        align:relation  "=" .
+
+erel:Reckless  a        align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Reckless_(1935_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0026914/" ;
+        align:relation  "=" .
+
+erel:John_Lennon  a     align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/John_Lennon" ;
+        align:entity2   "https://www.last.fm/music/John+Lennon" ;
+        align:relation  "=" .
+
+erel:A_Little_Night_Music
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/A_Little_Night_Music_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0076319/" ;
+        align:relation  "=" .
+
+erel:Night_Watch  a     align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Night_Watch_(1973_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0070444/" ;
+        align:relation  "=" .
+
+erel:Nicki_Minaj  a     align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Nicki_Minaj" ;
+        align:entity2   "https://www.last.fm/music/Nicki+Minaj" ;
+        align:relation  "=" .
+
+erel:In_the_Good_Old_Summertime
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/In_the_Good_Old_Summertime" ;
+        align:entity2   "http://www.imdb.com/title/tt0041507/" ;
+        align:relation  "=" .
+
+erel:Vertigo  a         align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Vertigo_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0052357/" ;
+        align:relation  "=" .
+
+erel:Jules_Furthman  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Jules_Furthman" ;
+        align:entity2   "http://www.imdb.com/name/nm0299154/" ;
+        align:relation  "=" .
+
+erel:Joan_Crawford  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Joan_Crawford" ;
+        align:entity2   "http://www.imdb.com/name/nm0001076/" ;
+        align:relation  "=" .
+
+erel:Joseph_L._Mankiewicz
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Joseph_L._Mankiewicz" ;
+        align:entity2   "http://www.imdb.com/name/nm0000581/" ;
+        align:relation  "=" .
+
+erel:Desire  a          align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Desire_(1936_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0027515/" ;
+        align:relation  "=" .
+
+erel:Spencer_Tracy  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Spencer_Tracy" ;
+        align:entity2   "http://www.imdb.com/name/nm0000075/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Sean_Anthony_(rapper)>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Sean_Anthony_(rapper)" ;
+        align:entity2   "https://www.last.fm/music/Sean+Anthony" ;
+        align:relation  "=" .
+
+erel:Irving_Ravetch  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Irving_Ravetch" ;
+        align:entity2   "http://www.imdb.com/name/nm0712419/" ;
+        align:relation  "=" .
+
+erel:Charlie_Chaplin  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Charlie_Chaplin" ;
+        align:entity2   "http://www.imdb.com/name/nm0000122/" ;
+        align:relation  "=" .
+
+erel:The_Blueprint  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Blueprint" ;
+        align:entity2   "https://www.last.fm/music/Eminem/The+Blueprint" ;
+        align:relation  "=" .
+
+erel:Donald_Ogden_Stewart
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Donald_Ogden_Stewart" ;
+        align:entity2   "http://www.imdb.com/name/nm0829330/" ;
+        align:relation  "=" .
+
+erel:The_Women  a       align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Women_(1939_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0032143/" ;
+        align:relation  "=" .
+
+erel:Juarez  a          align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Juarez_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0031516/" ;
+        align:relation  "=" .
+
+erel:Alexander_the_Great
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Alexander_the_Great_(1956_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0048937/" ;
+        align:relation  "=" .
+
+erel:The_African_Queen
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_African_Queen_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0043265/" ;
+        align:relation  "=" .
+
+erel:Can-Utility_and_the_Coastliners
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Can-Utility_and_the_Coastliners" ;
+        align:entity2   "https://www.last.fm/music/Genesis/_/Can-Utility+and+the+Coastliners" ;
+        align:relation  "=" .
+
+erel:Lady_Killer  a     align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Lady_Killer_(1933_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0024239/" ;
+        align:relation  "=" .
+
+erel:Jean_Harlow  a     align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Jean_Harlow" ;
+        align:entity2   "http://www.imdb.com/name/nm0001318/" ;
+        align:relation  "=" .
+
+erel:Angel  a           align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Angel_(1937_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0028575/" ;
+        align:relation  "=" .
+
+erel:David_O._Selznick
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/David_O._Selznick" ;
+        align:entity2   "http://www.imdb.com/name/nm0006388/" ;
+        align:relation  "=" .
+
+erel:Jane_Siberry  a    align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Jane_Siberry" ;
+        align:entity2   "https://www.last.fm/music/Jane+Siberry" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#The_Black_Album_(Jay_Z_album)>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Black_Album_(Jay-Z_album)" ;
+        align:entity2   "https://www.last.fm/music/Jay+Z/The+Black+Album" ;
+        align:relation  "=" .
+
+erel:Nine_Inch_Nails  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Nine_Inch_Nails" ;
+        align:entity2   "https://www.last.fm/music/Nine+Inch+Nails" ;
+        align:relation  "=" .
+
+erel:Pay_Day  a         align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Pay_Day_(1922_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0013486/" ;
+        align:relation  "=" .
+
+erel:Ian_McLagan  a     align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Ian_McLagan" ;
+        align:entity2   "https://www.last.fm/music/Ian+McLagan" ;
+        align:relation  "=" .
+
+erel:Mr._Lucky  a       align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Mr._Lucky_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0036174/" ;
+        align:relation  "=" .
+
+erel:Strike_Up_the_Band
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Strike_Up_the_Band_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0033110/" ;
+        align:relation  "=" .
+
+erel:Hombre  a          align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Hombre_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0061770/" ;
+        align:relation  "=" .
+
+erel:Robert_Surtees  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Robert_Surtees_(cinematographer)" ;
+        align:entity2   "http://www.imdb.com/name/nm0005892/" ;
+        align:relation  "=" .
+
+erel:Stage_Door  a      align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Stage_Door" ;
+        align:entity2   "http://www.imdb.com/title/tt0029604/" ;
+        align:relation  "=" .
+
+erel:I_Shall_Be_Released
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/I_Shall_Be_Released" ;
+        align:entity2   "https://www.last.fm/music/Bob+Dylan/_/I+Shall+Be+Released" ;
+        align:relation  "=" .
+
+erel:Jackson_Browne  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Jackson_Browne" ;
+        align:entity2   "https://www.last.fm/music/Jackson+Browne" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Dig_It_(Beatles_song)>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Dig_It_(Beatles_song)" ;
+        align:entity2   "https://www.last.fm/music/The+Beatles/_/Dig+It" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Boom!>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Boom_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0062751/" ;
+        align:relation  "=" .
+
+erel:Friends_and_Lovers
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Friends_and_Lovers_(1931_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0021889/" ;
+        align:relation  "=" .
+
+erel:Paul_Dehn  a       align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Paul_Dehn" ;
+        align:entity2   "http://www.imdb.com/name/nm0214989/" ;
+        align:relation  "=" .
+
+erel:Fred_Zinnemann  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Fred_Zinnemann" ;
+        align:entity2   "http://www.imdb.com/name/nm0003593/" ;
+        align:relation  "=" .
+
+erel:Twist_and_Shout  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Twist_and_Shout" ;
+        align:entity2   "https://www.last.fm/music/The+Beatles/_/Twist+and+Shout" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#The_Children's_Hour>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Children's_Hour_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0054743/" ;
+        align:relation  "=" .
+
+erel:Edmund_Goulding  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Edmund_Goulding" ;
+        align:entity2   "http://www.imdb.com/name/nm0332539/" ;
+        align:relation  "=" .
+
+erel:Alfred_Newman  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Alfred_Newman_(composer)" ;
+        align:entity2   "http://www.imdb.com/name/nm0000055/" ;
+        align:relation  "=" .
+
+erel:Eli_Wallach  a     align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Eli_Wallach" ;
+        align:entity2   "http://www.imdb.com/name/nm0908919/" ;
+        align:relation  "=" .
+
+erel:Crisis  a          align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Crisis_(1950_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0042352/" ;
+        align:relation  "=" .
+
+erel:Father_of_the_Bride
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Father_of_the_Bride_(1950_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0042451/" ;
+        align:relation  "=" .
+
+erel:Gone_with_the_Wind
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Gone_with_the_Wind_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0031381/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Good_Morning_(Kanye_West_song)>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Good_Morning_(Kanye_West_song)" ;
+        align:entity2   "https://www.last.fm/music/Kanye+West/_/Good+Morning" ;
+        align:relation  "=" .
+
+erel:Richard_Hageman  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Richard_Hageman" ;
+        align:entity2   "http://www.imdb.com/name/nm0006119/" ;
+        align:relation  "=" .
+
+erel:The_Comedians  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Comedian_(1967_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0061502" ;
+        align:relation  "=" .
+
+erel:Dodsworth  a       align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Dodsworth_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0027532/" ;
+        align:relation  "=" .
+
+erel:Laurence_Rosenthal
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Laurence_Rosenthal" ;
+        align:entity2   "http://www.imdb.com/name/nm0002304/" ;
+        align:relation  "=" .
+
+erel:Young_Mr._Lincoln
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Young_Mr._Lincoln" ;
+        align:entity2   "http://www.imdb.com/title/tt0032155/" ;
+        align:relation  "=" .
+
+erel:The_Little_Minister
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Little_Minister_(1934_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0025409/" ;
+        align:relation  "=" .
+
+erel:Alexander_Korda  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Alexander_Korda" ;
+        align:entity2   "http://www.imdb.com/name/nm0466099/" ;
+        align:relation  "=" .
+
+erel:Richard_Cole  a    align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Richard_Cole" ;
+        align:entity2   "https://www.last.fm/music/Richard+Cole" ;
+        align:relation  "=" .
+
+erel:John_Garfield  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/John_Garfield" ;
+        align:entity2   "http://www.imdb.com/name/nm0002092/" ;
+        align:relation  "=" .
+
+erel:Ronald_Colman  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Ronald_Colman" ;
+        align:entity2   "http://www.imdb.com/name/nm0172903/" ;
+        align:relation  "=" .
+
+erel:Once_Upon_a_Time
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Once_Upon_a_Time_(1944_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0037150/" ;
+        align:relation  "=" .
+
+erel:DJ_Felli_Fel  a    align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/DJ_Felli_Fel" ;
+        align:entity2   "https://www.last.fm/music/DJ+Felli+Fel" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Eagles_(band)>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Eagles_(band)" ;
+        align:entity2   "https://www.last.fm/music/Eagles" ;
+        align:relation  "=" .
+
+erel:Carrie  a          align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Carrie_(1952_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0044486/" ;
+        align:relation  "=" .
+
+erel:Behold_a_Pale_Horse
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Behold_a_Pale_Horse" ;
+        align:entity2   "http://www.imdb.com/title/tt0057879/" ;
+        align:relation  "=" .
+
+erel:The_Roaring_Twenties
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Roaring_Twenties" ;
+        align:entity2   "http://www.imdb.com/title/tt0031867/" ;
+        align:relation  "=" .
+
+erel:The_Thin_Man  a    align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Thin_Man_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0025878/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#What_I've_Done>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/What_I%27ve_Done" ;
+        align:entity2   "https://www.last.fm/music/Linkin+Park/_/What+I%27ve+Done" ;
+        align:relation  "=" .
+
+erel:Dick_Powell  a     align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Dick_Powell" ;
+        align:entity2   "http://www.imdb.com/name/nm0694090/" ;
+        align:relation  "=" .
+
+erel:Michael_Hordern  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Michael_Hordern" ;
+        align:entity2   "http://www.imdb.com/name/nm0394588/" ;
+        align:relation  "=" .
+
+erel:The_Rescue  a      align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Rescue_(1929_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0020323/" ;
+        align:relation  "=" .
+
+erel:Body_and_Soul  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Body_and_Soul_(1931_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0021680/" ;
+        align:relation  "=" .
+
+erel:The_Westerner  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Westerner" ;
+        align:entity2   "http://www.imdb.com/title/tt0033253/" ;
+        align:relation  "=" .
+
+erel:Errol_Flynn  a     align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Errol_Flynn" ;
+        align:entity2   "http://www.imdb.com/name/nm0001224/" ;
+        align:relation  "=" .
+
+erel:Bruce_Hornsby  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Bruce_Hornsby" ;
+        align:entity2   "https://www.last.fm/music/Bruce+Hornsby" ;
+        align:relation  "=" .
+
+erel:Dark_Passage  a    align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Dark_Passage_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0039302/" ;
+        align:relation  "=" .
+
+erel:Cry_Wolf  a        align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Cry_Wolf_(1947_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0039288/" ;
+        align:relation  "=" .
+
+erel:Bette_Davis  a     align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Bette_Davis" ;
+        align:entity2   "http://www.imdb.com/name/nm0000012/" ;
+        align:relation  "=" .
+
+erel:Chained  a         align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Chained_(1934_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0024963/" ;
+        align:relation  "=" .
+
+erel:The_Three_Faces_of_Eve
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Three_Faces_of_Eve" ;
+        align:entity2   "http://www.imdb.com/title/tt0051077/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#A_Midsummer_Night's_Dream>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/A_Midsummer_Night's_Dream_(1935_film)" , "http://dbpedia.org/resource/A_Midsummer_Night%27s_Dream_(1935_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0026714/" ;
+        align:relation  "=" .
+
+erel:Albhy_Galuten  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Albhy_Galuten" ;
+        align:entity2   "https://www.last.fm/music/Albhy+Galuten" ;
+        align:relation  "=" .
+
+erel:Blake_Edwards  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Blake_Edwards" ;
+        align:entity2   "http://www.imdb.com/name/nm0001175/" ;
+        align:relation  "=" .
+
+erel:Samson_Raphaelson
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Samson_Raphaelson" ;
+        align:entity2   "http://www.imdb.com/name/nm0710723/" ;
+        align:relation  "=" .
+
+erel:The_Prince_and_the_Pauper
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Prince_and_the_Pauper_(1937_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0029440/" ;
+        align:relation  "=" .
+
+erel:Michael_Jackson  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Michael_Jackson" ;
+        align:entity2   "https://www.last.fm/music/Michael+Jackson" ;
+        align:relation  "=" .
+
+erel:Song_of_the_Thin_Man
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Song_of_the_Thin_Man" ;
+        align:entity2   "http://www.imdb.com/title/tt0039853/" ;
+        align:relation  "=" .
+
+erel:Twilight  a        align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Twilight_(1998_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt011959/" ;
+        align:relation  "=" .
+
+erel:The_Treasure_of_the_Sierra_Madre
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Treasure_of_the_Sierra_Madre_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0040897/" ;
+        align:relation  "=" .
+
+erel:Stevie_Nicks  a    align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Stevie_Nicks" ;
+        align:entity2   "https://www.last.fm/music/Stevie+Nicks" ;
+        align:relation  "=" .
+
+erel:Henry_Blanke  a    align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Henry_Blanke" ;
+        align:entity2   "http://www.imdb.com/name/nm0087533/" ;
+        align:relation  "=" .
+
+erel:Blood_on_the_Tracks
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Blood_on_the_Tracks" ;
+        align:entity2   "https://www.last.fm/music/Bob+Dylan/Blood+on+the+Tracks" ;
+        align:relation  "=" .
+
+erel:Talib_Kweli  a     align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Talib_Kweli" ;
+        align:entity2   "https://www.last.fm/music/Talib+Kweli" ;
+        align:relation  "=" .
+
+erel:Miriam_Hopkins  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Miriam_Hopkins" ;
+        align:entity2   "http://www.imdb.com/name/nm0394244/" ;
+        align:relation  "=" .
+
+erel:Angels_with_Dirty_Faces
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Angels_with_Dirty_Faces" ;
+        align:entity2   "http://www.imdb.com/title/tt0029870/" ;
+        align:relation  "=" .
+
+erel:Waterloo_Bridge  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Waterloo_Bridge_(1940_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0033238/" ;
+        align:relation  "=" .
+
+erel:George_Peppard  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/George_Peppard" ;
+        align:entity2   "http://www.imdb.com/name/nm0000577/" ;
+        align:relation  "=" .
+
+erel:Made_for_Each_Other
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Made_for_Each_Other_(1939_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0031602/" ;
+        align:relation  "=" .
+
+erel:Harold_F._Kress  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Harold_F._Kress" ;
+        align:entity2   "http://www.imdb.com/name/nm0470932/" ;
+        align:relation  "=" .
+
+erel:Ray_Heindorf  a    align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Ray_Heindorf" ;
+        align:entity2   "http://www.imdb.com/name/nm0006127/" ;
+        align:relation  "=" .
+
+erel:The_Prisoner_of_Zenda
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Prisoner_of_Zenda_(1937_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0029442/" ;
+        align:relation  "=" .
+
+erel:Edge_of_Darkness
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Edge_of_Darkness_(1943_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0034694/" ;
+        align:relation  "=" .
+
+erel:Nik_Kershaw  a     align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Nik_Kershaw" ;
+        align:entity2   "https://www.last.fm/music/Nik+Kershaw" ;
+        align:relation  "=" .
+
+erel:Ernest_Vajda  a    align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Ernest_Vajda" ;
+        align:entity2   "http://www.imdb.com/name/nm0883328/" ;
+        align:relation  "=" .
+
+erel:I_Love_You_Again
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/I_Love_You_Again" ;
+        align:entity2   "http://www.imdb.com/title/tt0032617/" ;
+        align:relation  "=" .
+
+erel:Hal_Mohr  a        align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Hal_Mohr" ;
+        align:entity2   "http://www.imdb.com/name/nm0005803/" ;
+        align:relation  "=" .
+
+erel:A_Thousand_Suns  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/A_Thousand_Suns" ;
+        align:entity2   "https://www.last.fm/music/Linkin+Park/A+Thousand+Suns" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Thank_You_(Busta_Rhymes_song)>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Thank_You_(Busta_Rhymes_song)" ;
+        align:entity2   "https://www.last.fm/music/Busta+Rhymes/_/Thank+You" ;
+        align:relation  "=" .
+
+erel:George_Cukor  a    align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/George_Cukor" ;
+        align:entity2   "http://www.imdb.com/name/nm0002030/" ;
+        align:relation  "=" .
+
+erel:Paris_Blues  a     align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Paris_Blues" ;
+        align:entity2   "http://www.imdb.com/title/tt0055278/" ;
+        align:relation  "=" .
+
+erel:All_of_Me  a       align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/All_of_Me_(1934_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0024822/" ;
+        align:relation  "=" .
+
+erel:Room_for_One_More
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Room_for_One_More" ;
+        align:entity2   "http://www.imdb.com/title/tt0045102/" ;
+        align:relation  "=" .
+
+erel:John_Huston  a     align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/John_Huston" ;
+        align:entity2   "http://www.imdb.com/name/nm0001379/" ;
+        align:relation  "=" .
+
+erel:Max_Steiner  a     align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Max_Steiner" ;
+        align:entity2   "http://www.imdb.com/name/nm0000070/" ;
+        align:relation  "=" .
+
+erel:Clark_Gable  a     align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Clark_Gable" ;
+        align:entity2   "http://www.imdb.com/name/nm0000022/" ;
+        align:relation  "=" .
+
+erel:Edmund_H._North  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Edmund_H._North" ;
+        align:entity2   "http://www.imdb.com/name/nm0636002/" ;
+        align:relation  "=" .
+
+erel:Anthology_2  a     align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Anthology_2" ;
+        align:entity2   "https://www.last.fm/music/The+Beatles/Anthology+2" ;
+        align:relation  "=" .
+
+erel:Footlight_Parade
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Footlight_Parade" ;
+        align:entity2   "http://www.imdb.com/title/tt0024028/" ;
+        align:relation  "=" .
+
+erel:Our_Town  a        align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Our_Town_(2003_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0353849/" ;
+        align:relation  "=" .
+
+erel:The_Unknown  a     align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Unknown_(1927_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0018528/" ;
+        align:relation  "=" .
+
+erel:Wife_vs._Secretary
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Wife_vs._Secretary" ;
+        align:entity2   "http://www.imdb.com/title/tt0028505/" ;
+        align:relation  "=" .
+
+erel:Cleopatra  a       align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Cleopatra_(1963_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0056937/" ;
+        align:relation  "=" .
+
+erel:Central_Park  a    align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Central_Park_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0022751/" ;
+        align:relation  "=" .
+
+erel:Mr._Blandings_Builds_His_Dream_House
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Mr._Blandings_Builds_His_Dream_House" ;
+        align:entity2   "http://www.imdb.com/title/tt0040613/" ;
+        align:relation  "=" .
+
+erel:The_Age_of_Innocence
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Age_of_Innocence_(1993_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0106226/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Breathe_(Pink_Floyd_song)>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Breathe_(Pink_Floyd_song)" ;
+        align:entity2   "https://www.last.fm/music/Pink+Floyd/_/Breathe" ;
+        align:relation  "=" .
+
+erel:Another_Thin_Man
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Another_Thin_Man" ;
+        align:entity2   "http://www.imdb.com/title/tt0031047/" ;
+        align:relation  "=" .
+
+erel:Watcher_of_the_Skies
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Watcher_of_the_Skies" ;
+        align:entity2   "https://www.last.fm/music/Genesis/_/Watcher+of+the+Skies" ;
+        align:relation  "=" .
+
+erel:The_Dark_Angel  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Dark_Angel_(1925_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0015735/" ;
+        align:relation  "=" .
+
+erel:Possessed  a       align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Possessed_(1931_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0022276/" ;
+        align:relation  "=" .
+
+erel:Topaze  a          align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Topaze_(1933_American_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0024684/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Faces_(band)>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Faces_(band)" ;
+        align:entity2   "https://www.last.fm/music/Faces" ;
+        align:relation  "=" .
+
+erel:Richard_III  a     align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Richard_III_(1955_film)" , "http://dbpedia.org/resource/Richard_III__(1955_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0049674/" ;
+        align:relation  "=" .
+
+erel:The_Clock  a       align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Clock_(1945_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0037604/" ;
+        align:relation  "=" .
+
+erel:Michael_Hogan  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Michael_Hogan_(screenwriter)" ;
+        align:entity2   "http://www.imdb.com/name/nm0389580/" ;
+        align:relation  "=" .
+
+erel:Miklós_Rózsa  a    align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Mikl%C3%B3s_R%C3%B3zsa" ;
+        align:entity2   "http://www.imdb.com/name/nm0000067/" ;
+        align:relation  "=" .
+
+erel:Encore  a          align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Encore" ;
+        align:entity2   "https://www.last.fm/music/Eminem/Encore" ;
+        align:relation  "=" .
+
+erel:The_Light_That_Failed
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Light_That_Failed_(1939_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0031572/" ;
+        align:relation  "=" .
+
+erel:She_Wore_a_Yellow_Ribbon
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/She_Wore_a_Yellow_Ribbon" ;
+        align:entity2   "http://www.imdb.com/title/tt0041866/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#The_Streetsweeper,_Vol._2>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Streetsweeper,_Vol._2" ;
+        align:entity2   "https://www.last.fm/music/DJ+Kay+Slay/The+Streetsweeper,+Vol.+2" ;
+        align:relation  "=" .
+
+erel:This_Happy_Breed
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/This_Happy_Breed_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0037367/" ;
+        align:relation  "=" .
+
+erel:Olivia_de_Havilland
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Olivia_de_Havilland" ;
+        align:entity2   "http://www.imdb.com/name/nm0000014/" ;
+        align:relation  "=" .
+
+erel:The_Private_Lives_of_Elizabeth_and_Essex
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Private_Lives_of_Elizabeth_and_Essex" ;
+        align:entity2   "http://www.imdb.com/title/tt0031826/" ;
+        align:relation  "=" .
+
+erel:Franz_Planer  a    align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Franz_Planer" ;
+        align:entity2   "http://www.imdb.com/name/nm0005832/" ;
+        align:relation  "=" .
+
+erel:Howard_Hawks  a    align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Howard_Hawks" ;
+        align:entity2   "http://www.imdb.com/name/nm0001328/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#The_Musical_Box_(Genesis_song)>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Musical_Box_(Genesis_song)" ;
+        align:entity2   "https://www.last.fm/music/Genesis/_/The+Musical+Box" ;
+        align:relation  "=" .
+
+erel:Mr._Skeffington  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Mr._Skeffington" ;
+        align:entity2   "http://www.imdb.com/title/tt0037094/" ;
+        align:relation  "=" .
+
+erel:Jerry_Wald  a      align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Jerry_Wald" ;
+        align:entity2   "http://www.imdb.com/name/nm0907003/" ;
+        align:relation  "=" .
+
+erel:Condemned  a       align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Condemnation" ;
+        align:entity2   "http://www.imdb.com/title/tt0019785/" ;
+        align:relation  "=" .
+
+erel:Jay_Z  a           align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Jay_Z" ;
+        align:entity2   "https://www.last.fm/music/+noredirect/JAY+Z" ;
+        align:relation  "=" .
+
+erel:The_Carpet_Crawlers
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Carpet_Crawlers" ;
+        align:entity2   "https://www.last.fm/music/Genesis/_/The+Carpet+Crawlers" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Anthrax_(American_band)>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Anthrax_(American_band)" ;
+        align:entity2   "https://www.last.fm/music/Anthrax" ;
+        align:relation  "=" .
+
+erel:Rihanna  a         align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Rihanna" ;
+        align:entity2   "https://www.last.fm/music/Rihanna" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Genesis_(band)>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Genesis_(band)" ;
+        align:entity2   "https://www.last.fm/music/Genesis" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Zee_and_Co.>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Zee_and_Co." ;
+        align:entity2   "http://www.imdb.com/title/tt0069516/" ;
+        align:relation  "=" .
+
+erel:Robert_Fitzpatrick
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Robert_Fitzpatrick" ;
+        align:entity2   "https://www.last.fm/music/Robert+Fitzpatrick" ;
+        align:relation  "=" .
+
+erel:Michael_Redgrave
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Michael_Redgrave" ;
+        align:entity2   "http://www.imdb.com/name/nm0714878/" ;
+        align:relation  "=" .
+
+erel:Trevor_Howard  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Trevor_Howard" ;
+        align:entity2   "http://www.imdb.com/name/nm0002145/" ;
+        align:relation  "=" .
+
+erel:Empire_Falls  a    align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Empire_Falls_(miniseries)" ;
+        align:entity2   "http://www.imdb.com/title/tt0376591/" ;
+        align:relation  "=" .
+
+erel:Ralph_Dawson  a    align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Ralph_Dawson" ;
+        align:entity2   "http://www.imdb.com/name/nm0206238/" ;
+        align:relation  "=" .
+
+erel:Ray_Cooper  a      align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Ray_Cooper" ;
+        align:entity2   "https://www.last.fm/music/Ray+Cooper" ;
+        align:relation  "=" .
+
+erel:Pride_and_Prejudice
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Pride_and_Prejudice_(1940_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0032943/" ;
+        align:relation  "=" .
+
+erel:Rear_Window  a     align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Rear_Window" ;
+        align:entity2   "http://www.imdb.com/title/tt0047396/" ;
+        align:relation  "=" .
+
+erel:The_Gold_Rush  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Gold_Rush" ;
+        align:entity2   "http://www.imdb.com/title/tt0015864/" ;
+        align:relation  "=" .
+
+erel:Frances_Marion  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Frances_Marion" ;
+        align:entity2   "http://www.imdb.com/name/nm0547966/" ;
+        align:relation  "=" .
+
+erel:Hugo_Friedhofer  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Hugo_Friedhofer" ;
+        align:entity2   "http://www.imdb.com/name/nm0006087/" ;
+        align:relation  "=" .
+
+erel:Dorothy_Spencer  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Dorothy_Spencer" ;
+        align:entity2   "http://www.imdb.com/name/nm0817929/" ;
+        align:relation  "=" .
+
+erel:The_Basement_Tapes
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Basement_Tapes" ;
+        align:entity2   "https://www.last.fm/music/Bob+Dylan/The+Basement+Tapes" ;
+        align:relation  "=" .
+
+erel:Stella_Dallas  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Stella_Dallas_(1925_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0016395/" ;
+        align:relation  "=" .
+
+erel:Louis_R._Loeffler
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Louis_R._Loeffler" ;
+        align:entity2   "http://www.imdb.com/name/nm0517264/" ;
+        align:relation  "=" .
+
+erel:Presenting_Lily_Mars
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Presenting_Lily_Mars" ;
+        align:entity2   "http://www.imdb.com/title/tt0036275/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#What_Do_You_Want_from_Me_(Pink_Floyd_song)>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/What_Do_You_Want_from_Me_(Pink_Floyd_song)" ;
+        align:entity2   "https://www.last.fm/music/Pink+Floyd/_/What+Do+You+Want+from+Me" ;
+        align:relation  "=" .
+
+erel:The_Wild_Geese  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Wild_Geese" ;
+        align:entity2   "http://www.imdb.com/title/tt0078492/" ;
+        align:relation  "=" .
+
+erel:Pandro_S._Berman
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Pandro_S._Berman" ;
+        align:entity2   "http://www.imdb.com/name/nm0075825/" ;
+        align:relation  "=" .
+
+erel:The_Swarm  a       align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Swarm_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0078350/" ;
+        align:relation  "=" .
+
+erel:Design_for_Living
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Design_for_Living_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0023940/" ;
+        align:relation  "=" .
+
+erel:Girl_Crazy  a      align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Girl_Crazy_(1943_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0035942/" ;
+        align:relation  "=" .
+
+erel:Double_Wedding  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Double_Wedding" ;
+        align:entity2   "http://www.imdb.com/title/tt0028804/" ;
+        align:relation  "=" .
+
+erel:Peter_the_Great  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Peter_the_Great" ;
+        align:entity2   "http://www.imdb.com/title/tt0090502/" ;
+        align:relation  "=" .
+
+erel:Manhattan_Melodrama
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Manhattan_Melodrama" ;
+        align:entity2   "http://www.imdb.com/title/tt0025464/" ;
+        align:relation  "=" .
+
+erel:Modern_Times  a    align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Modern_Times_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0027977/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Heather_(song)>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Heather_(song)" ;
+        align:entity2   "https://www.last.fm/music/Paul+McCartney/_/Heather" ;
+        align:relation  "=" .
+
+erel:Big_City_Blues  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Big_City_Blues_(1932_film)" ;
+        align:entity2   "" ;
+        align:relation  "=" .
+
+erel:The_Sea_Hawk  a    align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Sea_Hawk_(1940_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0033028/" ;
+        align:relation  "=" .
+
+erel:Siedah_Garrett  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Siedah_Garrett" ;
+        align:entity2   "https://www.last.fm/music/Siedah+Garrett" ;
+        align:relation  "=" .
+
+erel:The_Big_Country  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Big_Country" ;
+        align:entity2   "http://www.imdb.com/title/tt0051411/" ;
+        align:relation  "=" .
+
+erel:National_Velvet  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/National_Velvet_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0037120/" ;
+        align:relation  "=" .
+
+erel:Charles_Boyer  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Charles_Boyer" ;
+        align:entity2   "http://www.imdb.com/name/nm0000964/" ;
+        align:relation  "=" .
+
+erel:Margaret_Booth  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Margaret_Booth" ;
+        align:entity2   "http://www.imdb.com/name/nm0004290/" ;
+        align:relation  "=" .
+
+erel:Kanye_West  a      align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Kanye_West" ;
+        align:entity2   "https://www.last.fm/music/Kanye+West" ;
+        align:relation  "=" .
+
+erel:Jorge_Calderón  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Jorge_Calder%C3%B3n" ;
+        align:entity2   "https://www.last.fm/music/Jorge+Calder%C3%B3n" ;
+        align:relation  "=" .
+
+erel:Leslie_Howard  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Leslie_Howard_(actor)" ;
+        align:entity2   "http://www.imdb.com/name/nm0001366/" ;
+        align:relation  "=" .
+
+erel:Three_on_a_Match
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Three_on_a_Match" ;
+        align:entity2   "http://www.imdb.com/title/tt0023590/" ;
+        align:relation  "=" .
+
+erel:Come_Fill_the_Cup
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Come_Fill_the_Cup" ;
+        align:entity2   "http://www.imdb.com/title/tt0043424/" ;
+        align:relation  "=" .
+
+erel:Elton_John  a      align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Elton_John" ;
+        align:entity2   "https://www.last.fm/music/Elton+John" ;
+        align:relation  "=" .
+
+erel:North_to_Alaska  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/North_to_Alaska" ;
+        align:entity2   "http://www.imdb.com/title/tt0054127/" ;
+        align:relation  "=" .
+
+erel:Chris_Brown  a     align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Chris_Brown" ;
+        align:entity2   "https://www.last.fm/music/Chris+Brown" ;
+        align:relation  "=" .
+
+erel:Hugo_Riesenfeld  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Hugo_Riesenfeld" ;
+        align:entity2   "http://www.imdb.com/name/nm0006252/" ;
+        align:relation  "=" .
+
+erel:The_Great_Lie  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Great_Lie" ;
+        align:entity2   "http://www.imdb.com/title/tt0033677/" ;
+        align:relation  "=" .
+
+erel:Levon_Helm  a      align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Levon_Helm" ;
+        align:entity2   "https://www.last.fm/music/Levon+Helm" ;
+        align:relation  "=" .
+
+erel:Phil_Collins  a    align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Phil_Collins" ;
+        align:entity2   "https://www.last.fm/music/Phil+Collins" ;
+        align:relation  "=" .
+
+erel:The_Spy_Who_Came_in_from_the_Cold
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Spy_Who_Came_in_from_the_Cold_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0059749/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Christmas_Time_(Is_Here_Again)>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Christmas_Time_(Is_Here_Again)" ;
+        align:entity2   "https://www.last.fm/music/The+Beatles/_/Christmas+Time" ;
+        align:relation  "=" .
+
+erel:Caught_in_a_Cabaret
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Caught_in_a_Cabaret" ;
+        align:entity2   "http://www.imdb.com/title/tt0003758/" ;
+        align:relation  "=" .
+
+erel:Dead_Ringer  a     align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Dead_Ringer_(1964_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0057997/" ;
+        align:relation  "=" .
+
+erel:Maggie_Smith  a    align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Maggie_Smith" ;
+        align:entity2   "http://www.imdb.com/name/nm0001749/" ;
+        align:relation  "=" .
+
+erel:The_Cowboys  a     align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Cowboys" ;
+        align:entity2   "http://www.imdb.com/title/tt0068421/" ;
+        align:relation  "=" .
+
+erel:George_Harrison  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/George_Harrison" ;
+        align:entity2   "https://www.last.fm/music/George+Harrison" ;
+        align:relation  "=" .
+
+erel:Raffles  a         align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Raffles_(1930_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0021281/" ;
+        align:relation  "=" .
+
+erel:Nellee_Hooper  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Nellee_Hooper" ;
+        align:entity2   "https://www.last.fm/music/Nellee+Hooper" ;
+        align:relation  "=" .
+
+erel:The_Who  a         align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Who" ;
+        align:entity2   "https://www.last.fm/music/The+Who" ;
+        align:relation  "=" .
+
+erel:The_Awful_Truth  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Awful_Truth" ;
+        align:entity2   "http://www.imdb.com/title/tt0028597/" ;
+        align:relation  "=" .
+
+erel:The_Shoes_of_the_Fisherman
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Shoes_of_the_Fisherman" ;
+        align:entity2   "http://www.imdb.com/title/tt0063599/" ;
+        align:relation  "=" .
+
+erel:The_Mating_Season
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Mating_Season_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0043792/" ;
+        align:relation  "=" .
+
+erel:James_Cagney  a    align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/James_Cagney" ;
+        align:entity2   "http://www.imdb.com/name/nm0000010/" ;
+        align:relation  "=" .
+
+erel:Grateful_Dead  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Grateful_Dead" ;
+        align:entity2   "https://www.last.fm/music/Grateful+Dead" ;
+        align:relation  "=" .
+
+erel:The_Taming_of_the_Shrew
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Taming_of_the_Shrew_(1967_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0061407/" ;
+        align:relation  "=" .
+
+erel:Spike_Stent  a     align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Spike_Stent" ;
+        align:entity2   "https://www.last.fm/music/Spike" ;
+        align:relation  "=" .
+
+erel:Zulu  a            align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Zulu_(1964_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0058777/" ;
+        align:relation  "=" .
+
+erel:William_Axt  a     align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/William_Axt" ;
+        align:entity2   "http://www.imdb.com/name/nm0002197/" ;
+        align:relation  "=" .
+
+erel:The_Seven-Per-Cent_Solution
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Seven-Per-Cent_Solution_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0075194/" ;
+        align:relation  "=" .
+
+erel:Oswald_Morris  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Oswald_Morris" ;
+        align:entity2   "http://www.imdb.com/name/nm0005807/" ;
+        align:relation  "=" .
+
+erel:E._W._Hornung  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/E._W._Hornung" ;
+        align:entity2   "http://www.imdb.com/name/nm0395216/" ;
+        align:relation  "=" .
+
+erel:Grand_Hotel  a     align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Grand_Hotel_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0022958/" ;
+        align:relation  "=" .
+
+erel:Comfortably_Numb
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Comfortably_Numb" ;
+        align:entity2   "https://www.last.fm/music/Pink+Floyd/_/Comfortably+Numb" ;
+        align:relation  "=" .
+
+erel:The_Outcasts_of_Poker_Flat
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Outcasts_of_Poker_Flat_(1952_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0045003/" ;
+        align:relation  "=" .
+
+erel:Roman_Holiday  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Roman_Holiday" ;
+        align:entity2   "http://www.imdb.com/title/tt0046250/" ;
+        align:relation  "=" .
+
+erel:Stuart_Epps  a     align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Stuart_Epps" ;
+        align:entity2   "https://www.last.fm/music/Stuart+Epps" ;
+        align:relation  "=" .
+
+erel:Irving_Thalberg  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Irving_Thalberg" ;
+        align:entity2   "http://www.imdb.com/name/nm0856921/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Breakfast_at_Tiffany's>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Breakfast_at_Tiffany's_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0054698/" ;
+        align:relation  "=" .
+
+erel:David_Guetta  a    align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/David_Guetta" ;
+        align:entity2   "https://www.last.fm/music/David+Guetta" ;
+        align:relation  "=" .
+
+erel:Fleetwood_Mac  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Fleetwood_Mac" ;
+        align:entity2   "https://www.last.fm/music/Fleetwood+Mac" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Slash_(musician)>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Slash_(musician)" ;
+        align:entity2   "https://www.last.fm/music/Slash" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#King:_A_Filmed_Record..._Montgomery_to_Memphis>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/King:_A_Filmed_Record..._Montgomery_to_Memphis" ;
+        align:entity2   "http://www.imdb.com/title/tt0065944/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Time_(Pink_Floyd_song)>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Time_(Pink_Floyd_song)" ;
+        align:entity2   "https://www.last.fm/music/Pink+Floyd/_/Time" ;
+        align:relation  "=" .
+
+erel:Al_St._John  a     align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Al_St._John" ;
+        align:entity2   "http://www.imdb.com/name/nm0820607/" ;
+        align:relation  "=" .
+
+erel:Chester_Thompson
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Chester_Thompson" ;
+        align:entity2   "https://www.last.fm/music/Chester+Thompson" ;
+        align:relation  "=" .
+
+erel:Wait_Until_Dark  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Wait_Until_Dark_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0062467/" ;
+        align:relation  "=" .
+
+erel:San_Francisco  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/San_Francisco_(1936_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0028216/" ;
+        align:relation  "=" .
+
+erel:Humoresque  a      align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Humoresque_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0038622/" ;
+        align:relation  "=" .
+
+erel:The_Dick_Powell_Show
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Dick_Powell_Show" ;
+        align:entity2   "http://www.imdb.com/title/tt0054532/" ;
+        align:relation  "=" .
+
+erel:Winner_Take_All  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Winner_takes_all_(1932_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0023701/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Gentlemen's_Agreement>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Gentlemen%27s_agreement_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0026402/" ;
+        align:relation  "=" .
+
+erel:Elizabeth_Taylor
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Elizabeth_Taylor" ;
+        align:entity2   "http://www.imdb.com/name/nm0000072/" ;
+        align:relation  "=" .
+
+erel:Albert_Akst  a     align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Albert_Akst" ;
+        align:entity2   "http://www.imdb.com/name/nm0015573/" ;
+        align:relation  "=" .
+
+erel:D12_World  a       align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/D12_World" ;
+        align:entity2   "https://www.last.fm/music/D12/D12+World" ;
+        align:relation  "=" .
+
+erel:Breaking_the_Habit
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Breaking_the_Habit" ;
+        align:entity2   "https://www.last.fm/music/Linkin+Park/_/Breaking+the+Habit" ;
+        align:relation  "=" .
+
+erel:Thelma_Ritter  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Thelma_Ritter" ;
+        align:entity2   "http://www.imdb.com/name/nm0728812/" ;
+        align:relation  "=" .
+
+erel:Henry_V  a         align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Henry_V_(1944_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0036910/" ;
+        align:relation  "=" .
+
+erel:Shadow_of_the_Thin_Man
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Shadow_of_the_Thin_Man" ;
+        align:entity2   "http://www.imdb.com/title/tt0034172/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Bob_Dylan's_Greatest_Hits_Vol._II>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Bob_Dylan%27s_Greatest_Hits_Vol._II" ;
+        align:entity2   "https://www.last.fm/music/Bob+Dylan/Bob+Dylan%27s+Greatest+Hits+Vol.+II" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Mercy_(GOOD_Music_song)>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Mercy_(GOOD_Music_song)" ;
+        align:entity2   "https://www.last.fm/music/Kanye+West/_/Mercy" ;
+        align:relation  "=" .
+
+erel:Cary_Grant  a      align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Cary_Grant" ;
+        align:entity2   "http://www.imdb.com/name/nm0000026/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#The_Devil's_Disciple>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Devil's_Disciple_(1959_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0052735/" ;
+        align:relation  "=" .
+
+erel:StreetRunner  a    align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/REVISAR" ;
+        align:entity2   "https://www.last.fm/music/StreetRunner" ;
+        align:relation  "=" .
+
+erel:Blonde_Crazy  a    align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Blonde_Crazy" ;
+        align:entity2   "http://www.imdb.com/title/tt0021673/" ;
+        align:relation  "=" .
+
+erel:Convention_City  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Convention_City" ;
+        align:entity2   "http://www.imdb.com/title/tt0023906/" ;
+        align:relation  "=" .
+
+erel:The_Man_Who_Shot_Liberty_Valance
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Man_Who_Shot_Liberty_Valance" ;
+        align:entity2   "http://www.imdb.com/title/tt0056217/" ;
+        align:relation  "=" .
+
+erel:Outcast_of_the_Islands
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Outcast_of_the_Islands" ;
+        align:entity2   "http://www.imdb.com/title/tt0045002/" ;
+        align:relation  "=" .
+
+erel:Renegades  a       align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Renegades_(1930_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0021295/" ;
+        align:relation  "=" .
+
+erel:Easter_Parade  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Easter_parade_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0040308/" ;
+        align:relation  "=" .
+
+erel:Pino_Palladino  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Pino_Palladino" ;
+        align:entity2   "https://www.last.fm/music/Pino+Palladino" ;
+        align:relation  "=" .
+
+erel:James_Naughton  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/James_Naughton" ;
+        align:entity2   "http://www.imdb.com/name/nm0622553/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Taxi!>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Taxi!" ;
+        align:entity2   "http://www.imdb.com/title/tt0023556/" ;
+        align:relation  "=" .
+
+erel:Stage_Struck  a    align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Stage_Struck_(1936_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0028305/" ;
+        align:relation  "=" .
+
+erel:The_Grapes_of_Wrath
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Grapes_of_Wrath_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0032551/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Don't_Let_the_Sun_Go_Down_on_Me>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Don%27t_Let_the_Sun_Go_Down_on_Me" ;
+        align:entity2   "https://www.last.fm/music/Elton+John/_/Don%27t+Let+the+Sun+Go+Down+on+Me" ;
+        align:relation  "=" .
+
+erel:Young_Man_with_a_Horn
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Young_Man_with_a_Horn_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0043153/" ;
+        align:relation  "=" .
+
+erel:The_Sound_and_the_Fury
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Sound_and_the_Fury_(1959_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0053298/" ;
+        align:relation  "=" .
+
+erel:The_Sandpiper  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Sandpiper" ;
+        align:entity2   "http://www.imdb.com/title/tt0059674/" ;
+        align:relation  "=" .
+
+erel:When_I_Paint_My_Masterpiece
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/When_I_Paint_My_Masterpiece" ;
+        align:entity2   "https://www.last.fm/music/The+Band/_/When+I+Paint+My+Masterpiece" ;
+        align:relation  "=" .
+
+erel:Kubec_Glasmon  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Kubec_Glasmon" ;
+        align:entity2   "http://www.imdb.com/name/nm0321891/" ;
+        align:relation  "=" .
+
+erel:The_Beatles  a     align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Beatles" ;
+        align:entity2   "https://www.last.fm/music/The+Beatles" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#The_Long,_Hot_Summer>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Long,_Hot_Summer" ;
+        align:entity2   "http://www.imdb.com/title/tt0051878/" ;
+        align:relation  "=" .
+
+erel:Caesar_and_Cleopatra
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Caesar_and_Cleopatra_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0038390/" ;
+        align:relation  "=" .
+
+erel:The_Deep_Blue_Sea
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Deep_Blue_Sea_(1955_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0047978/" ;
+        align:relation  "=" .
+
+erel:Z-Trip  a          align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Z-Trip" ;
+        align:entity2   "https://www.last.fm/music/DJ+Z-Trip" ;
+        align:relation  "=" .
+
+erel:2_Chainz  a        align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/2_Chainz" ;
+        align:entity2   "https://www.last.fm/music/2+Chainz" ;
+        align:relation  "=" .
+
+erel:From_the_Terrace
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/From_the_Terrace" ;
+        align:entity2   "http://www.imdb.com/title/tt0053841/" ;
+        align:relation  "=" .
+
+erel:A_Yank_at_Oxford
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/A_Yank_at_Oxford" ;
+        align:entity2   "http://www.imdb.com/title/tt0030989/" ;
+        align:relation  "=" .
+
+erel:The_Mortal_Storm
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Mortal_Storm" ;
+        align:entity2   "http://www.imdb.com/title/tt0032811/" ;
+        align:relation  "=" .
+
+erel:Macy_Gray  a       align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Macy_Gray" ;
+        align:entity2   "https://www.last.fm/music/Macy+Gray" ;
+        align:relation  "=" .
+
+erel:The_Thin_Man_Goes_Home
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Thin_Man_Goes_Home" ;
+        align:entity2   "http://www.imdb.com/title/tt0037365/" ;
+        align:relation  "=" .
+
+erel:The_Fugitive  a    align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Fugitive_(1947_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0039402/" ;
+        align:relation  "=" .
+
+erel:George_Fitzmaurice
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/George_Fitzmaurice" ;
+        align:entity2   "http://www.imdb.com/name/nm0280463" ;
+        align:relation  "=" .
+
+erel:Samuel_Goldwyn  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Samuel_Goldwyn" ;
+        align:entity2   "http://www.imdb.com/name/nm0326418/" ;
+        align:relation  "=" .
+
+erel:Che_Pope  a        align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Che_Pope" ;
+        align:entity2   "https://www.last.fm/music/Che+Pope" ;
+        align:relation  "=" .
+
+erel:Jay_Kanter  a      align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Jay_Kanter" ;
+        align:entity2   "http://www.imdb.com/name/nm0437905/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#The_Game_(rapper)>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Game_(rapper)" ;
+        align:entity2   "https://www.last.fm/music/The+Game" ;
+        align:relation  "=" .
+
+erel:Strangers_When_We_Meet
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Strangers_When_We_Meet_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0054345/" ;
+        align:relation  "=" .
+
+erel:William_Powell  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/William_Powell" ;
+        align:entity2   "http://www.imdb.com/name/nm0001635/" ;
+        align:relation  "=" .
+
+erel:Robbie_Robertson
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Robbie_Robertson" ;
+        align:entity2   "https://www.last.fm/music/Robbie+Robertson" ;
+        align:relation  "=" .
+
+erel:Strangers_on_a_Train
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Strangers_on_a_Train_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0044079/" ;
+        align:relation  "=" .
+
+erel:Deception  a       align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Deception_(1946_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0038461/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Kingdom_Come_(Jay_Z_album)>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Kingdom_Come_(Jay-Z_album)" ;
+        align:entity2   "https://www.last.fm/music/Jay+Z/Kingdom+Come" ;
+        align:relation  "=" .
+
+erel:Yankee_Doodle_Dandy
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Yankee_Doodle_Dandy" ;
+        align:entity2   "http://www.imdb.com/title/tt0035575/" ;
+        align:relation  "=" .
+
+erel:James_Stewart  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/James_Stewart" ;
+        align:entity2   "http://www.imdb.com/name/nm0000071/" ;
+        align:relation  "=" .
+
+erel:Riffraff  a        align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Riff_Raff_(1936_film)" , "http://dbpedia.org/resource/Riffraff_(1936_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0026932/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Wish_You_Were_Here_(Pink_Floyd_song)>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Wish_You_Were_Here_(Pink_Floyd_song)" ;
+        align:entity2   "https://www.last.fm/music/Pink+Floyd/_/Wish+You+Were+Here" ;
+        align:relation  "=" .
+
+erel:Erich_Wolfgang_Korngold
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Erich_Wolfgang_Korngold" ;
+        align:entity2   "http://www.imdb.com/name/nm0006157/" ;
+        align:relation  "=" .
+
+erel:Mickey_Rooney  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Mickey_Rooney" ;
+        align:entity2   "http://www.imdb.com/name/nm0001682/" ;
+        align:relation  "=" .
+
+erel:John_Lee_Mahin  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/John_Lee_Mahin" ;
+        align:entity2   "http://www.imdb.com/name/nm0536941/" ;
+        align:relation  "=" .
+
+erel:Thomas_Richards  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Thomas_Richards_(film_editor)" ;
+        align:entity2   "http://www.imdb.com/name/nm0724360/" ;
+        align:relation  "=" .
+
+erel:Arthur_Ibbetson  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Arthur_Ibbetson" ;
+        align:entity2   "http://www.imdb.com/name/nm0406471/" ;
+        align:relation  "=" .
+
+erel:Becket  a          align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Becket_(1964_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0057877/" ;
+        align:relation  "=" .
+
+erel:Franz_Waxman  a    align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Franz_Waxman" ;
+        align:entity2   "http://www.imdb.com/name/nm0000077/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Pat_O'Brien>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Pat_O'Brien_(actor)" ;
+        align:entity2   "http://www.imdb.com/name/nm0002285/" ;
+        align:relation  "=" .
+
+erel:Damian_LeGassick
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Damian_LeGassick" ;
+        align:entity2   "https://www.last.fm/music/Damian+Legassick" ;
+        align:relation  "=" .
+
+erel:Way_Back_Home  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Way_Back_Home_(1931_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0022551/" ;
+        align:relation  "=" .
+
+erel:Anna_Karenina  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Anna_Karenina_(1948_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0040098/" ;
+        align:relation  "=" .
+
+erel:Firth_of_Fifth  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Firth_of_Fifth" ;
+        align:entity2   "https://www.last.fm/music/Genesis/_/Firth+of+Fifth" ;
+        align:relation  "=" .
+
+erel:Keith_Uddin  a     align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Keith_Uddin" ;
+        align:entity2   "https://www.last.fm/music/KU" ;
+        align:relation  "=" .
+
+erel:Each_Dawn_I_Die  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Each_Dawn_I_Die" ;
+        align:entity2   "http://www.imdb.com/title/tt0031260/" ;
+        align:relation  "=" .
+
+erel:John_Wayne  a      align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/John_Wayne" ;
+        align:entity2   "http://www.imdb.com/name/nm0000078/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Minutes_to_Midnight_(album)>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Minutes_to_Midnight_(Linkin_Park_album)" ;
+        align:entity2   "https://www.last.fm/music/Linkin+Park/Minutes+to+Midnight" ;
+        align:relation  "=" .
+
+erel:Cat_on_a_Hot_Tin_Roof
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Cat_on_a_Hot_Tin_Roof_(1958_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0051459/" ;
+        align:relation  "=" .
+
+erel:Of_Human_Bondage
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Of_Human_Bondage_(1934_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0025586/" ;
+        align:relation  "=" .
+
+erel:Justin_Meldal-Johnsen
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Justin_Meldal-Johnsen" ;
+        align:entity2   "https://www.last.fm/music/Justin+Meldal-Johnsen" ;
+        align:relation  "=" .
+
+erel:Richard_Widmark  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Richard_Widmark" ;
+        align:entity2   "http://www.imdb.com/name/nm0001847/" ;
+        align:relation  "=" .
+
+erel:Othello  a         align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Othello_(1952_film)" , "http://dbpedia.org/resource/Othello_(1965_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0045251/" , "http://www.imdb.com/title/tt0059555/" ;
+        align:relation  "=" .
+
+erel:John_Bettis  a     align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/John_Bettis" ;
+        align:entity2   "https://www.last.fm/music/John+Bettis" ;
+        align:relation  "=" .
+
+erel:Glyn_Johns  a      align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Glyn_Johns" ;
+        align:entity2   "https://www.last.fm/music/Glyn+Johns" ;
+        align:relation  "=" .
+
+erel:21_Days  a         align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/21_Days" ;
+        align:entity2   "http://www.imdb.com/title/tt0032179/" ;
+        align:relation  "=" .
+
+erel:Billy_Nicholls  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Billy_Nicholls" ;
+        align:entity2   "https://www.last.fm/music/Billy+Nicholls" ;
+        align:relation  "=" .
+
+erel:Charles_Lang  a    align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Charles_Lang" ;
+        align:entity2   "http://www.imdb.com/name/nm0485702/" ;
+        align:relation  "=" .
+
+erel:Whitney_Houston  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Whitney_Houston" ;
+        align:entity2   "https://www.last.fm/music/Whitney+Houston" ;
+        align:relation  "=" .
+
+erel:Rooster_Cogburn  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Rooster_Cogburn_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0073636/" ;
+        align:relation  "=" .
+
+erel:Nana  a            align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Nana_(1934_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0025555/" ;
+        align:relation  "=" .
+
+erel:Dimitri_Tiomkin  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Dimitri_Tiomkin" ;
+        align:entity2   "http://www.imdb.com/name/nm0006323/" ;
+        align:relation  "=" .
+
+erel:Anthony_Havelock-Allan
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Anthony_Havelock-Allan" ;
+        align:entity2   "http://www.imdb.com/name/nm0369743/" ;
+        align:relation  "=" .
+
+erel:Ray_Stark  a       align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Ray_Stark" ;
+        align:entity2   "http://www.imdb.com/name/nm0823256/" ;
+        align:relation  "=" .
+
+erel:The_Documentary  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Documentary" ;
+        align:entity2   "https://www.last.fm/music/The+Game/The+Documentary" ;
+        align:relation  "=" .
+
+erel:Dr._Dre  a         align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Dr._Dre" ;
+        align:entity2   "https://www.last.fm/music/Dr.+Dre" ;
+        align:relation  "=" .
+
+erel:Dodge_City  a      align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Dodge_City_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0031235/" ;
+        align:relation  "=" .
+
+erel:Christina_Aguilera
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Christina_Aguilera" ;
+        align:entity2   "https://www.last.fm/music/Christina+Aguilera" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Not_Fade_Away_(song)>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Not_Fade_Away_(song)" ;
+        align:entity2   "https://www.last.fm/music/The+Rolling+Stones/_/Not+Fade+Away" ;
+        align:relation  "=" .
+
+erel:The_Caine_Mutiny
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Caine_Mutiny_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0046816/" ;
+        align:relation  "=" .
+
+erel:Alfred_Hitchcock
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Alfred_Hitchcock" ;
+        align:entity2   "http://www.imdb.com/name/nm0000033/" ;
+        align:relation  "=" .
+
+erel:Joseph_LaShelle  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Joseph_LaShelle" ;
+        align:entity2   "http://www.imdb.com/name/nm0005766/" ;
+        align:relation  "=" .
+
+erel:Sherlock_Holmes  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Sherlock_Holmes_(1922_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0013597/" ;
+        align:relation  "=" .
+
+erel:Love_Crazy  a      align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Love_Crazy_(1941_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0033852/" , "ttp://www.imdb.com/title/tt0033852/" ;
+        align:relation  "=" .
+
+erel:The_Strip  a       align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Strip_(1951_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0044083/" ;
+        align:relation  "=" .
+
+erel:Dave_Carlock  a    align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Dave_Carlock" ;
+        align:entity2   "https://www.last.fm/music/Dave" ;
+        align:relation  "=" .
+
+erel:Mutiny_on_the_Bounty
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Mutiny_on_the_Bounty_(1935_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0026752/" ;
+        align:relation  "=" .
+
+erel:Ben_Hecht  a       align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Ben_Hecht" ;
+        align:entity2   "http://www.imdb.com/name/nm0372942/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Louder_than_Words_(Pink_Floyd_song)>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Louder_than_Words_(Pink_Floyd_song)" ;
+        align:entity2   "https://www.last.fm/music/Pink+Floyd/_/Louder+Than+Words" ;
+        align:relation  "=" .
+
+erel:Sol_Polito  a      align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Sol_Polito" ;
+        align:entity2   "http://www.imdb.com/name/nm0005835/" ;
+        align:relation  "=" .
+
+erel:William_Wyler  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/William_Wyler" ;
+        align:entity2   "http://www.imdb.com/name/nm0943758/" ;
+        align:relation  "=" .
+
+erel:Babes_on_Broadway
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Babes_on_Broadway" ;
+        align:entity2   "http://www.imdb.com/title/tt0034485/" ;
+        align:relation  "=" .
+
+erel:Dave_Kushner  a    align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Dave_Kushner" ;
+        align:entity2   "https://www.last.fm/music/Dave+Kushner" ;
+        align:relation  "=" .
+
+erel:George_Tomasini  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/George_Tomasini" ;
+        align:entity2   "http://www.imdb.com/name/nm0866462/" ;
+        align:relation  "=" .
+
+erel:Heinz_Roemheld  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Heinz_Roemheld" ;
+        align:entity2   "http://www.imdb.com/name/nm0006257/" ;
+        align:relation  "=" .
+
+erel:Jane_Murfin  a     align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Jane_Murfin" ;
+        align:entity2   "http://www.imdb.com/name/nm0613848/" ;
+        align:relation  "=" .
+
+erel:Katharine_Hepburn
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Katharine_Hepburn" ;
+        align:entity2   "http://www.imdb.com/name/nm0000031/" ;
+        align:relation  "=" .
+
+erel:Sidney_Buchman  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Sidney_Buchman" ;
+        align:entity2   "http://www.imdb.com/name/nm0118227/" ;
+        align:relation  "=" .
+
+erel:The_Human_Comedy
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Human_Comedy_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0036022/" ;
+        align:relation  "=" .
+
+erel:Simon_Franglen  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/page/Simon_Franglen" ;
+        align:entity2   "https://www.last.fm/music/Simon+Franglen" ;
+        align:relation  "=" .
+
+erel:The_Arrangement  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Arrangement_(1969_film)" ;
+        align:entity2   "ttp://www.imdb.com/title/tt0064041/" ;
+        align:relation  "=" .
+
+erel:Trouble_in_Paradise
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Trouble_in_Paradise" ;
+        align:entity2   "http://www.imdb.com/title/tt0023622/" ;
+        align:relation  "=" .
+
+erel:Walter_Brennan  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Walter_Brennan" ;
+        align:entity2   "http://www.imdb.com/name/nm0000974/" ;
+        align:relation  "=" .
+
+erel:The_Prize  a       align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Prize_(1963_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0057426/" ;
+        align:relation  "=" .
+
+erel:Suspicion  a       align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Suspicion_(1941_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0034248/" ;
+        align:relation  "=" .
+
+erel:Ulysses  a         align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Ulysses_(1954_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0047630/" ;
+        align:relation  "=" .
+
+erel:U2  a              align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/U2" ;
+        align:entity2   "https://www.last.fm/music/U2" ;
+        align:relation  "=" .
+
+erel:Joanne_Woodward  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Joanne_Woodward" ;
+        align:entity2   "http://www.imdb.com/name/nm0940946/" ;
+        align:relation  "=" .
+
+erel:Omar_Hakim  a      align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Omar_Hakim" ;
+        align:entity2   "https://www.last.fm/music/Omar+Hakim" ;
+        align:relation  "=" .
+
+erel:Lauren_Bacall  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Lauren_Bacall" ;
+        align:entity2   "http://www.imdb.com/name/nm0000002/" ;
+        align:relation  "=" .
+
+erel:Old_Acquaintance
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Old_Acquaintance" ;
+        align:entity2   "http://www.imdb.com/title/tt0036230/" ;
+        align:relation  "=" .
+
+erel:Absolution  a      align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Absolution_(1978_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0081975/" ;
+        align:relation  "=" .
+
+erel:Ringo_Starr  a     align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Ringo_Starr" ;
+        align:entity2   "https://www.last.fm/music/Ringo+Starr" ;
+        align:relation  "=" .
+
+erel:John_Gielgud  a    align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/John_Gielgud" ;
+        align:entity2   "http://www.imdb.com/name/nm0000024/" ;
+        align:relation  "=" .
+
+erel:Hip_Hop_Is_Dead  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Hip_Hop_Is_Dead" ;
+        align:entity2   "https://www.last.fm/music/Nas/Hip+Hop+Is+Dead" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Get_'Em_Out_by_Friday>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Get_%27Em_Out_by_Friday" ;
+        align:entity2   "https://www.last.fm/music/Genesis/_/Get+%27em+Out+by+Friday" ;
+        align:relation  "=" .
+
+erel:Khartoum  a        align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Khartoum_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0060588/" ;
+        align:relation  "=" .
+
+erel:Jerry_Goldsmith  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Jerry_Goldsmith" ;
+        align:entity2   "http://www.imdb.com/name/nm0000025/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#The_Bride_Came_C.O.D.>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Bride_Came_C.O.D." ;
+        align:entity2   "http://www.imdb.com/title/tt0033432/" ;
+        align:relation  "=" .
+
+erel:Off_the_Record  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Off_the_record" ;
+        align:entity2   "http://www.imdb.com/title/tt0031743/" ;
+        align:relation  "=" .
+
+erel:Dave_Navarro  a    align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Dave_Navarro" ;
+        align:entity2   "https://www.last.fm/music/Dave+Navarro" ;
+        align:relation  "=" .
+
+erel:Leon_Shamroy  a    align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Leon_Shamroy" ;
+        align:entity2   "http://www.imdb.com/name/nm0005872/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Don't_Pass_Me_By>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Don%27t_Pass_Me_By" ;
+        align:entity2   "https://www.last.fm/music/The+Beatles/_/Don%27t+Pass+Me+By" ;
+        align:relation  "=" .
+
+erel:Ronnie_Schneider
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Ronnie_Schneider" ;
+        align:entity2   "https://www.last.fm/music/Ronnie+Schneider" ;
+        align:relation  "=" .
+
+erel:Uncle_Vanya  a     align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Uncle_Vanya_(1963_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0057620/" ;
+        align:relation  "=" .
+
+erel:Walter_Huston  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Walter_Huston" ;
+        align:entity2   "http://www.imdb.com/name/nm0404158/" ;
+        align:relation  "=" .
+
+erel:Brian_Eno  a       align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Brian_Eno" ;
+        align:entity2   "https://www.last.fm/music/Brian+Eno" ;
+        align:relation  "=" .
+
+erel:How_to_Steal_a_Million
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/How_to_Steal_a_Million" ;
+        align:entity2   "http://www.imdb.com/title/tt0060522/" ;
+        align:relation  "=" .
+
+erel:Ziegfeld_Girl  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Ziegfeld_girl_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0034415/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Living_Things_(Linkin_Park_album)>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Living_Things_(Linkin_Park_album)" ;
+        align:entity2   "https://www.last.fm/music/Linkin+Park/Living+Things" ;
+        align:relation  "=" .
+
+erel:Twenty_Minutes_of_Love
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Twenty_Minutes_of_Love" ;
+        align:entity2   "http://www.imdb.com/title/tt0004736/" ;
+        align:relation  "=" .
+
+erel:An_Affair_to_Remember
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/An_Affair_to_Remember" ;
+        align:entity2   "http://www.imdb.com/title/tt0050105/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Tillie's_Punctured_Romance>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Tillie%27s_Punctured_Romance_(1914_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0004707/" ;
+        align:relation  "=" .
+
+erel:12-Bar_Original  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/12-Bar_Original" ;
+        align:entity2   "https://www.last.fm/music/The+Beatles/_/12-Bar+Original" ;
+        align:relation  "=" .
+
+erel:Harvey  a          align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Harvey_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0042546/" ;
+        align:relation  "=" .
+
+erel:The_Great_War  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Great_War_(documentary)" ;
+        align:entity2   "http://www.imdb.com/title/tt0057753/" ;
+        align:relation  "=" .
+
+erel:Free_as_a_Bird  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Free_as_a_Bird" ;
+        align:entity2   "https://www.last.fm/music/The+Beatles/_/Free+as+a+Bird" ;
+        align:relation  "=" .
+
+erel:The_Divorce_of_Lady_X
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Divorce_of_Lady_X" ;
+        align:entity2   "http://www.imdb.com/title/tt0030063/" ;
+        align:relation  "=" .
+
+erel:Lionel_Barrymore
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Lionel_Barrymore" ;
+        align:entity2   "http://www.imdb.com/name/nm0000859/" ;
+        align:relation  "=" .
+
+erel:Ernst_Lubitsch  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Ernst_Lubitsch" ;
+        align:entity2   "http://www.imdb.com/name/nm0523932/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Rachel,_Rachel>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Rachel,_Rachel" ;
+        align:entity2   "http://www.imdb.com/title/tt0063483/" ;
+        align:relation  "=" .
+
+erel:The_Hustler  a     align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Hustler_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0054997/" ;
+        align:relation  "=" .
+
+erel:Sybil  a           align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Sybil_(1976_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0075296/" ;
+        align:relation  "=" .
+
+erel:Ian_McLellan_Hunter
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Ian_McLellan_Hunter" ;
+        align:entity2   "http://www.imdb.com/name/nm0402848/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#This_Wheel's_on_Fire>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/This_Wheel%27s_on_Fire" ;
+        align:entity2   "https://www.last.fm/music/Siouxsie+and+the+Banshees/_/This+Wheel%27s+on+Fire" ;
+        align:relation  "=" .
+
+erel:The_Virgin_Queen
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Virgin_Queen_(1955_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0048791/" ;
+        align:relation  "=" .
+
+erel:Peter_Mokran  a    align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Peter_Mokran" ;
+        align:entity2   "https://www.last.fm/music/Peter+Mokran" ;
+        align:relation  "=" .
+
+erel:Fire_Over_England
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Fire_Over_England" ;
+        align:entity2   "http://www.imdb.com/title/tt0028872/" ;
+        align:relation  "=" .
+
+erel:Gregory_Peck  a    align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Gregory_Peck" ;
+        align:entity2   "http://www.imdb.com/name/nm0000060/" ;
+        align:relation  "=" .
+
+erel:The_Dawn_Patrol  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Dawn_patrol_(1938_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0030044/" ;
+        align:relation  "=" .
+
+erel:Life_Begins_for_Andy_Hardy
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Life_Begins_for_Andy_Hardy" ;
+        align:entity2   "http://www.imdb.com/title/tt0033832/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Freedom!_'90>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Freedom!_%2790" ;
+        align:entity2   "https://www.last.fm/music/George+Michael/_/Freedom%21+%2790" ;
+        align:relation  "=" .
+
+erel:Don_Henley  a      align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Don_Henley" ;
+        align:entity2   "https://www.last.fm/music/Don+Henley" ;
+        align:relation  "=" .
+
+erel:Beau_Brummell  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Beau_Brummell_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0046759/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Madonna_(entertainer)>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Madonna_(entertainer)" ;
+        align:entity2   "https://www.last.fm/music/Madonna" ;
+        align:relation  "=" .
+
+erel:The_Walls_of_Jericho
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Walls_of_Jericho_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0040949/" ;
+        align:relation  "=" .
+
+erel:Anne_of_the_Thousand_Days
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Anne_of_the_Thousand_Days" ;
+        align:entity2   "http://www.imdb.com/title/tt0064030/" ;
+        align:relation  "=" .
+
+erel:Monkey_Business  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Monkey_Business_(1952_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0044916/" ;
+        align:relation  "=" .
+
+erel:Claire_Trevor  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Claire_Trevor" ;
+        align:entity2   "http://www.imdb.com/name/nm0872456/" ;
+        align:relation  "=" .
+
+erel:Grace_Kelly  a     align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Grace_Kelly" ;
+        align:entity2   "http://www.imdb.com/name/nm0000038/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Oh!_What_a_Lovely_War>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Oh!_What_a_Lovely_War" ;
+        align:entity2   "http://www.imdb.com/title/tt0064754/" ;
+        align:relation  "=" .
+
+erel:Ronnie_Wood  a     align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Ronnie_Wood" ;
+        align:entity2   "https://www.last.fm/music/+noredirect/Ronnie+Wood" ;
+        align:relation  "=" .
+
+erel:Victor_Fleming  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Victor_Fleming" ;
+        align:entity2   "http://www.imdb.com/name/nm0281808/" ;
+        align:relation  "=" .
+
+erel:The_Desert_Song  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Desert_Song_(1929_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0019813/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#R.E.M.>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/R.E.M." ;
+        align:entity2   "https://www.last.fm/music/R.E.M." ;
+        align:relation  "=" .
+
+erel:The_Blue_and_the_Gray
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Blue_and_the_Gray_(miniseries)" ;
+        align:entity2   "http://www.imdb.com/title/tt0083387/" ;
+        align:relation  "=" .
+
+erel:My_Darling_Clementine
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/My_Darling_Clementine" ;
+        align:entity2   "http://www.imdb.com/title/tt0038762/" ;
+        align:relation  "=" .
+
+erel:Watch_on_the_Rhine
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Watch_on_the_Rhine" ;
+        align:entity2   "http://www.imdb.com/title/tt0036515/" ;
+        align:relation  "=" .
+
+erel:The_Wizard_of_Oz
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Wizard_of_Oz_(1939_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0032138/" ;
+        align:relation  "=" .
+
+erel:The_Masquerader  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Masquerade_(1914_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0004311/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#In_Harm's_Way>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/In_Harm%27s_Way" ;
+        align:entity2   "http://www.imdb.com/title/tt0059309/" ;
+        align:relation  "=" .
+
+erel:Steve_Hackett  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Steve_Hackett" ;
+        align:entity2   "https://www.last.fm/music/Steve+Hackett" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Turn_It_On_Again:_The_Hits>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Turn_It_On_Again:_The_Hits" ;
+        align:entity2   "https://www.last.fm/music/Genesis/Turn+It+On+Again" ;
+        align:relation  "=" .
+
+erel:In_a_Lonely_Place
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/In_a_Lonely_Place" ;
+        align:entity2   "http://www.imdb.com/title/tt0042593/" ;
+        align:relation  "=" .
+
+erel:Chester_Conklin  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Chester_Conklin" ;
+        align:entity2   "http://www.imdb.com/name/nm0174682/" ;
+        align:relation  "=" .
+
+erel:Velvet_Revolver  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Velvet_Revolver" ;
+        align:entity2   "https://www.last.fm/music/Velvet+Revolver" ;
+        align:relation  "=" .
+
+erel:Will.i.am  a       align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Will.i.am" ;
+        align:entity2   "https://www.last.fm/music/will.i.am" ;
+        align:relation  "=" .
+
+erel:Thinking_of_Linking
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Thinking_of_Linking" ;
+        align:entity2   "https://www.last.fm/music/The+Beatles/_/thinking+of+linking" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Runaway_Train_(Elton_John_and_Eric_Clapton_song)>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Runaway_Train_(Elton_John_and_Eric_Clapton_song)" ;
+        align:entity2   "https://www.last.fm/music/Elton+John/_/Runaway+Train" ;
+        align:relation  "=" .
+
+erel:John_Ford  a       align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/John_Ford" ;
+        align:entity2   "http://www.imdb.com/name/nm0000406/" ;
+        align:relation  "=" .
+
+erel:George_Bassman  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/George_Bassman" ;
+        align:entity2   "http://www.imdb.com/name/nm0005956/" ;
+        align:relation  "=" .
+
+erel:Charade  a         align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Charade_(1963_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0056923/" ;
+        align:relation  "=" .
+
+erel:Sabrina  a         align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Sabrina_(1954_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0047437/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Come_and_Get_It_(Badfinger_song)>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Come_and_Get_It_(Badfinger_song)" ;
+        align:entity2   "https://www.last.fm/music/Badfinger/_/Come+And+Get+It" ;
+        align:relation  "=" .
+
+erel:Automatic_Baby  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Automatic_Baby" ;
+        align:entity2   "https://www.last.fm/music/Automatic+Baby" ;
+        align:relation  "=" .
+
+erel:The_300_Spartans
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_300_Spartans" ;
+        align:entity2   "http://www.imdb.com/title/tt0055719/" ;
+        align:relation  "=" .
+
+erel:David_Gilmour  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/David_Gilmour" ;
+        align:entity2   "https://www.last.fm/music/David+Gilmour" ;
+        align:relation  "=" .
+
+erel:Lester_Persky  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Lester_Persky" ;
+        align:entity2   "http://www.imdb.com/name/nm0675483/" ;
+        align:relation  "=" .
+
+erel:Dough_and_Dynamite
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Dough_and_Dynamite" ;
+        align:entity2   "http://www.imdb.com/title/tt0003863/" ;
+        align:relation  "=" .
+
+erel:Joan_Blondell  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Joan_Blondell" ;
+        align:entity2   "http://www.imdb.com/name/nm0000951/" ;
+        align:relation  "=" .
+
+erel:Warlock  a         align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Warlock_(1959_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0053434/" ;
+        align:relation  "=" .
+
+erel:Stagecoach  a      align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Stagecoach_(1939_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0031971/" ;
+        align:relation  "=" .
+
+erel:Georgie_Stoll  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Georgie_Stoll" ;
+        align:entity2   "http://www.imdb.com/name/nm4735525/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Now_and_Then_(John_Lennon_song)>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Now_and_Then_(John_Lennon_song)" ;
+        align:entity2   "https://www.last.fm/music/The+Beatles/_/Now+and+Then" ;
+        align:relation  "=" .
+
+erel:George_Michael  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/George_Michael" ;
+        align:entity2   "https://www.last.fm/music/George+Michael" ;
+        align:relation  "=" .
+
+erel:The_Gift_of_Love
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Gift_of_Love" ;
+        align:entity2   "http://www.imdb.com/title/tt0051657/" ;
+        align:relation  "=" .
+
+erel:Love_Among_the_Ruins
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Love_Among_the_Ruins_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0073310/" ;
+        align:relation  "=" .
+
+erel:Detective_Story  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Detective_Story_(1951_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0043465/" ;
+        align:relation  "=" .
+
+erel:Richard_Burton  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Richard_Burton" ;
+        align:entity2   "http://www.imdb.com/name/nm0000009/" ;
+        align:relation  "=" .
+
+erel:Paul_Newman  a     align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Paul_Newman" ;
+        align:entity2   "http://www.imdb.com/name/nm0000056/" ;
+        align:relation  "=" .
+
+erel:Flamingo_Road  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Flamingo_Road_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0041373/" ;
+        align:relation  "=" .
+
+erel:Audrey_Hepburn  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Audrey_Hepburn" ;
+        align:entity2   "http://www.imdb.com/name/nm0000030/" ;
+        align:relation  "=" .
+
+erel:Elliott_Kastner  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Elliott_Kastner" ;
+        align:entity2   "http://www.imdb.com/name/nm0440990/" ;
+        align:relation  "=" .
+
+erel:Camp_Freddy  a     align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Camp_Freddy" ;
+        align:entity2   "https://www.last.fm/music/Camp+Freddy" ;
+        align:relation  "=" .
+
+erel:Merritt_B._Gerstad
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Merritt_B._Gerstad" ;
+        align:entity2   "http://www.imdb.com/name/nm0005719/" ;
+        align:relation  "=" .
+
+erel:Frank_Simes  a     align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Frank_Simes" ;
+        align:entity2   "https://www.last.fm/music/Frank+Simes" ;
+        align:relation  "=" .
+
+erel:Marthe_Keller  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Marthe_Keller" ;
+        align:entity2   "http://www.imdb.com/name/nm0445715/" ;
+        align:relation  "=" .
+
+erel:David_Copperfield
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/David_Copperfield_(1969_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0065615/" ;
+        align:relation  "=" .
+
+erel:That_Hamilton_Woman
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/That_Hamilton_Woman" ;
+        align:entity2   "http://www.imdb.com/title/tt0034272/" ;
+        align:relation  "=" .
+
+erel:War_and_Peace  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/War_and_Peace_(1956_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0049934/" ;
+        align:relation  "=" .
+
+erel:A_Letter_to_Three_Wives
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/A_Letter_to_Three_Wives" ;
+        align:entity2   "http://www.imdb.com/title/tt0041587/" ;
+        align:relation  "=" .
+
+erel:Laurie_Anderson  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Laurie_Anderson" ;
+        align:entity2   "https://www.last.fm/music/Laurie+Anderson" ;
+        align:relation  "=" .
+
+erel:Madigan  a         align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Madigan" ;
+        align:entity2   "http://www.imdb.com/title/tt0063256/" ;
+        align:relation  "=" .
+
+erel:They_Died_with_Their_Boots_On
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/They_Died_with_Their_Boots_On" ;
+        align:entity2   "http://www.imdb.com/title/tt0034277/" ;
+        align:relation  "=" .
+
+erel:Brian_G._Hutton  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Brian_G._Hutton" ;
+        align:entity2   "http://www.imdb.com/name/nm0404606/" ;
+        align:relation  "=" .
+
+erel:Romeo_and_Juliet
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Romeo_and_Juliet_(1968_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0063518/" ;
+        align:relation  "=" .
+
+erel:To_Catch_a_Thief
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/To_Catch_a_Thief" ;
+        align:entity2   "http://www.imdb.com/title/tt0048728/" ;
+        align:relation  "=" .
+
+erel:Phil_Palmer  a     align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Phil_Palmer" ;
+        align:entity2   "https://www.last.fm/music/Phil+Palmer" ;
+        align:relation  "=" .
+
+erel:Metallica  a       align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Metallica" ;
+        align:entity2   "https://www.last.fm/music/Metallica" ;
+        align:relation  "=" .
+
+erel:Mildred_Pierce  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Mildred_Pierce_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0037913/" ;
+        align:relation  "=" .
+
+erel:Marathon_Man  a    align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Marathon_Man" ;
+        align:entity2   "http://www.imdb.com/title/tt0074860/" ;
+        align:relation  "=" .
+
+erel:Men_in_White  a    align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Men_in_White_(1934_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0025489/" ;
+        align:relation  "=" .
+
+erel:Bitch_Better_Have_My_Money
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Bitch_Better_Have_My_Money" ;
+        align:entity2   "https://www.last.fm/music/Rihanna/_/Bitch+Better+Have+My+Money" ;
+        align:relation  "=" .
+
+erel:A_Kiss_Before_Dying
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/A_Kiss_Before_Dying_(1956_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0049414/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Greatest_Hits_(Jay-Z_album)>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Greatest_Hits_(Jay-Z_album)" ;
+        align:entity2   "https://www.last.fm/music/Jay-Z/Greatest+Hits" ;
+        align:relation  "=" .
+
+erel:William_Walton  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/William_Walton" ;
+        align:entity2   "http://www.imdb.com/name/nm0006338/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Keith_Harris_(record_producer)>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Keith_Harris_(record_producer)" ;
+        align:entity2   "https://www.last.fm/music/Keith+Harris" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Cayenne_(instrumental)>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Cayenne_(instrumental)" ;
+        align:entity2   "https://www.last.fm/music/The+Beatles/_/Cayenne" ;
+        align:relation  "=" .
+
+erel:Red-Headed_Woman
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Red-Headed_Woman" ;
+        align:entity2   "http://www.imdb.com/title/tt0023385/" ;
+        align:relation  "=" .
+
+erel:Megadeth  a        align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Megadeth" ;
+        align:entity2   "https://www.last.fm/music/Megadeth" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Help!_(song)>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Help!_(song)" ;
+        align:entity2   "https://www.last.fm/music/The+Beatles/_/Help%21" ;
+        align:relation  "=" .
+
+erel:Where_Eagles_Dare
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Where_Eagles_Dare" ;
+        align:entity2   "http://www.imdb.com/title/tt0065207/" ;
+        align:relation  "=" .
+
+erel:John_Barry  a      align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/John_Barry_(composer)" ;
+        align:entity2   "http://www.imdb.com/name/nm0000290/" ;
+        align:relation  "=" .
+
+erel:W._Somerset_Maugham
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/W._Somerset_Maugham" ;
+        align:entity2   "http://www.imdb.com/name/nm0560857/" ;
+        align:relation  "=" .
+
+erel:Vincente_Minnelli
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Vincente_Minnelli" ;
+        align:entity2   "http://www.imdb.com/name/nm0591486/" ;
+        align:relation  "=" .
+
+erel:Bob_Dylan  a       align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Bob_Dylan" ;
+        align:entity2   "https://www.last.fm/music/Bob+Dylan" ;
+        align:relation  "=" .
+
+erel:The_Bad_and_the_Beautiful
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Bad_and_the_Beautiful" ;
+        align:entity2   "http://www.imdb.com/title/tt0044391/" ;
+        align:relation  "=" .
+
+erel:John_Kosh  a       align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/John_Kosh" ;
+        align:entity2   "https://www.last.fm/music/Kosh" ;
+        align:relation  "=" .
+
+erel:China_Seas  a      align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/China_Seas_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0026205/" ;
+        align:relation  "=" .
+
+erel:Vivien_Leigh  a    align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Vivien_Leigh" ;
+        align:entity2   "http://www.imdb.com/name/nm0000046/" ;
+        align:relation  "=" .
+
+erel:No_Down_Payment  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/No_Down_Payment" ;
+        align:entity2   "http://www.imdb.com/title/tt0050771/" ;
+        align:relation  "=" .
+
+erel:All_About_Eve  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/All_About_Eve" ;
+        align:entity2   "http://www.imdb.com/title/tt0042192/" ;
+        align:relation  "=" .
+
+erel:Look_Back_in_Anger
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Look_Back_in_Anger_(1959_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0051879/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#What_Goes_On_(Beatles_song)>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/What_Goes_On_(Beatles_song)" ;
+        align:entity2   "https://www.last.fm/music/The+Beatles/_/What+Goes+On" ;
+        align:relation  "=" .
+
+erel:Eric_Clapton  a    align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Eric_Clapton" ;
+        align:entity2   "https://www.last.fm/music/Eric+Clapton" ;
+        align:relation  "=" .
+
+erel:Rick_Danko  a      align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Rick_Danko" ;
+        align:entity2   "https://www.last.fm/music/Rick+Danko" ;
+        align:relation  "=" .
+
+erel:Linkin_Park  a     align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Linkin_Park" ;
+        align:entity2   "https://www.last.fm/music/Linkin+Park" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Birthday_Song_(2_Chainz_song)>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Birthday_Song_(2_Chainz_song)" ;
+        align:entity2   "https://www.last.fm/music/2+Chainz/_/Birthday+Song" ;
+        align:relation  "=" .
+
+erel:You_Only_Live_Once
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/You_Only_Live_Once_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0029808/" ;
+        align:relation  "=" .
+
+erel:William_Hamilton
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/William_Hamilton_(film_editor)" ;
+        align:entity2   "http://www.imdb.com/name/nm0358215/" ;
+        align:relation  "=" .
+
+erel:Robert_Burks  a    align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Robert_Burks" ;
+        align:entity2   "http://www.imdb.com/name/nm0122079/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#That's_All_(Genesis_song)>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/That%27s_All_(Genesis_song)" ;
+        align:entity2   "https://www.last.fm/music/Genesis/_/That%27s+All" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#The_Lamb_Lies_Down_on_Broadway_(song)>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Lamb_Lies_Down_on_Broadway_(song)" ;
+        align:entity2   "https://www.last.fm/music/Genesis/_/The+Lamb+Lies+Down+on+Broadway" ;
+        align:relation  "=" .
+
+erel:Rain  a            align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Rain_(1932_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0023369/" ;
+        align:relation  "=" .
+
+erel:Lloyd_Bacon  a     align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Lloyd_Bacon" ;
+        align:entity2   "http://www.imdb.com/name/nm0045800/" ;
+        align:relation  "=" .
+
+erel:Night_Flight  a    align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Night_Flight_(1933_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0024381/" ;
+        align:relation  "=" .
+
+erel:Dudley_Nichols  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Dudley_Nichols" ;
+        align:entity2   "http://www.imdb.com/name/nm0629580/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Willie_Wilson_(drummer)>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Willie_Wilson_(drummer)" ;
+        align:entity2   "https://www.last.fm/music/Willie+Wilson" ;
+        align:relation  "=" .
+
+erel:Homecoming  a      align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Homecoming_(1948_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0040446/" ;
+        align:relation  "=" .
+
+erel:I_Wanna_Be_Your_Man
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/I_Wanna_Be_Your_Man" ;
+        align:entity2   "https://www.last.fm/music/The+Beatles/_/I+Wanna+Be+Your+Man" ;
+        align:relation  "=" .
+
+erel:Kirk_Douglas  a    align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Kirk_Douglas" ;
+        align:entity2   "http://www.imdb.com/name/nm0000018/" ;
+        align:relation  "=" .
+
+erel:Hondo  a           align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Hondo_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0045883/" ;
+        align:relation  "=" .
+
+erel:Peter_Glenville  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Peter_Glenville" ;
+        align:entity2   "http://www.imdb.com/name/nm0322706/" ;
+        align:relation  "=" .
+
+erel:Myrna_Loy  a       align:Cell ;
+        align:entity1   "Artist" , "http://dbpedia.org/resource/Myrna_Loy" ;
+        align:entity2   "http://dbpedia.org/resource/Myrna_Loy" , "http://www.imdb.com/name/nm0001485/" ;
+        align:relation  "=" .
+
+erel:Bold_Venture  a    align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Bold_Venture" ;
+        align:entity2   "http://www.imdb.com/title/tt0052450/" ;
+        align:relation  "=" .
+
+erel:Fort_Apache  a     align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Fort_Apache_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0040369/" ;
+        align:relation  "=" .
+
+erel:The_Wall  a        align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Wall" ;
+        align:entity2   "https://www.last.fm/music/Pink+Floyd/The+Wall" ;
+        align:relation  "=" .
+
+erel:Key_Largo  a       align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Key_Largo" ;
+        align:entity2   "http://www.imdb.com/title/tt0040506/" ;
+        align:relation  "=" .
+
+erel:Orson_Welles  a    align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Orson_Welles" ;
+        align:entity2   "http://www.imdb.com/name/nm0000080/" ;
+        align:relation  "=" .
+
+erel:Rendezvous  a      align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Rendezvous_(1935_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0026922/" ;
+        align:relation  "=" .
+
+erel:49th_Parallel  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/49th_parallel_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0033627/" ;
+        align:relation  "=" .
+
+erel:Stewart_Stern  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Stewart_Stern" ;
+        align:entity2   "http://www.imdb.com/name/nm0827856/" ;
+        align:relation  "=" .
+
+erel:James_Wong_Howe  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/James_Wong_Howe" ;
+        align:entity2   "http://www.imdb.com/name/nm0002146/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Monster_(Kanye_West_song)>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Monster_(Kanye_West_song)" ;
+        align:entity2   "https://www.last.fm/music/Kanye+West/_/Monster" ;
+        align:relation  "=" .
+
+erel:The_Glass_Menagerie
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Glass_Menagerie_(1987_film)" , "http://dbpedia.org/resource/The_Glass_Menagerie_(1950_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0093093/" , "http://www.imdb.com/title/tt0042509/" ;
+        align:relation  "=" .
+
+erel:Lee_J._Cobb  a     align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Lee_J._Cobb" ;
+        align:entity2   "http://www.imdb.com/name/nm0002011/" ;
+        align:relation  "=" .
+
+erel:Prince_of_Players
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Prince_of_Players" ;
+        align:entity2   "http://www.imdb.com/title/tt0048510/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Paul_Jackson,_Jr.>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Paul_Jackson_Jr." ;
+        align:entity2   "https://www.last.fm/music/Paul+Jackson+Jr." ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#1_(Beatles_album)>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/1_(Beatles_album)" ;
+        align:entity2   "https://www.last.fm/music/The+Beatles/1" ;
+        align:relation  "=" .
+
+erel:Woman_of_the_Year
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Woman_of_the_Year" ;
+        align:entity2   "http://www.imdb.com/title/tt0035567/" ;
+        align:relation  "=" .
+
+erel:George_J._Folsey
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/George_J._Folsey" ;
+        align:entity2   "http://www.imdb.com/name/nm0005706/" ;
+        align:relation  "=" .
+
+erel:Geoffrey_Unsworth
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Geoffrey_Unsworth" ;
+        align:entity2   "http://www.imdb.com/name/nm0005910/" ;
+        align:relation  "=" .
+
+erel:The_Wrong_Man  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Wrong_Man" ;
+        align:entity2   "http://www.imdb.com/title/tt0051207/" ;
+        align:relation  "=" .
+
+erel:Malcolm_Arnold  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Malcolm_Arnold" ;
+        align:entity2   "http://www.imdb.com/name/nm0002185/" ;
+        align:relation  "=" .
+
+erel:Revolution_9  a    align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Revolution_9" ;
+        align:entity2   "https://www.last.fm/music/REVOLUTION+9" ;
+        align:relation  "=" .
+
+erel:Samuel_Bischoff  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Samuel_Bischoff" ;
+        align:entity2   "http://www.imdb.com/name/nm0083900/" ;
+        align:relation  "=" .
+
+erel:Dames  a           align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Dames" ;
+        align:entity2   "http://www.imdb.com/title/tt0025028/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Richard_Wright_(musician)>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Richard_Wright_(musician)" ;
+        align:entity2   "https://www.last.fm/music/Richard+Wright" ;
+        align:relation  "=" .
+
+erel:Lawrence_Weingarten
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Lawrence_Weingarten" ;
+        align:entity2   "http://www.imdb.com/name/nm0918318/" ;
+        align:relation  "=" .
+
+erel:The_Best_of_Everything
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Best_of_Everything_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0052619/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#One_of_These_Days_(instrumental)>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/One_of_These_Days_(instrumental)" ;
+        align:entity2   "https://www.last.fm/music/Pink+Floyd/_/One+of+These+Days" ;
+        align:relation  "=" .
+
+erel:The_Adventures_of_Robin_Hood
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Adventures_of_Robin_Hood" ;
+        align:entity2   "http://www.imdb.com/title/tt0029843/" ;
+        align:relation  "=" .
+
+erel:Paul_McCartney  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Paul_McCartney" ;
+        align:entity2   "https://www.last.fm/music/Paul+McCartney" ;
+        align:relation  "=" .
+
+erel:Beau_Geste  a      align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Beau_Geste_(1926_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0016634/" ;
+        align:relation  "=" .
+
+erel:George_Barnes  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/George_Barnes_(cinematographer)" ;
+        align:entity2   "http://www.imdb.com/name/nm0055604/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Four's_a_Crowd>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Four%27s_a_Crowd" ;
+        align:entity2   "http://www.imdb.com/title/tt0030151/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Her_Majesty_(song)>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Her_Majesty_(song)" ;
+        align:entity2   "https://www.last.fm/music/The+Beatles/_/Her+Majesty" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Kiss_of_Death_(Jadakiss_album)>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Kiss_of_Death_(Jadakiss_album)" ;
+        align:entity2   "https://www.last.fm/music/Jadakiss/Kiss+Of+Death" ;
+        align:relation  "=" .
+
+erel:Last_Train_from_Gun_Hill
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Last_Train_from_Gun_Hill" ;
+        align:entity2   "http://www.imdb.com/title/tt0052993/" ;
+        align:relation  "=" .
+
+erel:The_Philadelphia_Story
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Philadelphia_Story_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0032904/" ;
+        align:relation  "=" .
+
+erel:North_by_Northwest
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/North_by_Northwest" ;
+        align:entity2   "http://www.imdb.com/title/tt0053125/" ;
+        align:relation  "=" .
+
+erel:Stuart_Heisler  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Stuart_Heisler" ;
+        align:entity2   "http://www.imdb.com/name/nm0374702/" ;
+        align:relation  "=" .
+
+erel:Robert_Fripp  a    align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Robert_Fripp" ;
+        align:entity2   "https://www.last.fm/music/Robert+Fripp" ;
+        align:relation  "=" .
+
+erel:Ray_Milland  a     align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Ray_Milland" ;
+        align:entity2   "http://www.imdb.com/name/nm0001537/" ;
+        align:relation  "=" .
+
+erel:Rob_Fraboni  a     align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Rob_Fraboni" ;
+        align:entity2   "https://www.last.fm/music/Rob+Fraboni" ;
+        align:relation  "=" .
+
+erel:Psycho  a          align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Psycho_(1960_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0054215/" ;
+        align:relation  "=" .
+
+erel:John_Entwistle  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/John_Entwistle" ;
+        align:entity2   "https://www.last.fm/music/John+Entwistle" ;
+        align:relation  "=" .
+
+erel:The_Vikings  a     align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Viking_(1958_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0052365/" ;
+        align:relation  "=" .
+
+erel:How_to_Marry_a_Millionaire
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/How_to_Marry_a_Millionaire" ;
+        align:entity2   "http://www.imdb.com/title/tt0045891/" ;
+        align:relation  "=" .
+
+erel:Step_Inside_Love
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Step_Inside_Love" ;
+        align:entity2   "https://www.last.fm/music/Cilla+Black/_/Step+Inside+Love" ;
+        align:relation  "=" .
+
+erel:Pet_Shop_Boys  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Pet_Shop_Boys" ;
+        align:entity2   "https://www.last.fm/music/Pet+Shop+Boys" ;
+        align:relation  "=" .
+
+erel:The_Idle_Class  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Idle_Class" ;
+        align:entity2   "http://www.imdb.com/title/tt0012304/" ;
+        align:relation  "=" .
+
+erel:Laurence_Olivier
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Laurence_Olivier" ;
+        align:entity2   "http://www.imdb.com/name/nm0000059/" ;
+        align:relation  "=" .
+
+erel:The_Public_Enemy
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Public_Enemy" ;
+        align:entity2   "http://www.imdb.com/title/tt0022286/" ;
+        align:relation  "=" .
+
+erel:Humphrey_Bogart  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Humphrey_Bogart" ;
+        align:entity2   "http://www.imdb.com/name/nm0000007/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Jane's_Addiction>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Jane%27s_Addiction" ;
+        align:entity2   "https://www.last.fm/music/Jane%27s+Addiction" ;
+        align:relation  "=" .
+
+erel:Daft_Punk  a       align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Daft_Punk" ;
+        align:entity2   "https://www.last.fm/music/Daft+Punk" ;
+        align:relation  "=" .
+
+erel:12_Angry_Men  a    align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/12_Angry_Men_(1957_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0050083/" ;
+        align:relation  "=" .
+
+erel:Libeled_Lady  a    align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Libeled_Lady" ;
+        align:entity2   "http://www.imdb.com/title/tt0027884/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Forever_(Drake_song)>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Forever_(Drake_song)" ;
+        align:entity2   "https://www.last.fm/music/Drake/_/Forever" ;
+        align:relation  "=" .
+
+erel:John_Barrymore  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/John_Barrymore" ;
+        align:entity2   "http://www.imdb.com/name/nm0000858/" ;
+        align:relation  "=" .
+
+erel:Ace_in_the_Hole  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Ace_in_the_Hole_(1951_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0043338/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Suddenly,_Last_Summer>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Suddenly,_Last_Summer_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0053318/" ;
+        align:relation  "=" .
+
+erel:Mannequin  a       align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Mannequin_(1937_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0030413/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Desire_(Bob_Dylan_album)>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Desire_(Bob_Dylan_album)" ;
+        align:entity2   "https://www.last.fm/music/Bob+Dylan/Desire" ;
+        align:relation  "=" .
+
+erel:Arthur_Freed  a    align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Arthur_Freed" ;
+        align:entity2   "http://www.imdb.com/name/nm0006085/" ;
+        align:relation  "=" .
+
+erel:Eminem  a          align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Eminem" ;
+        align:entity2   "https://www.last.fm/music/Eminem" ;
+        align:relation  "=" .
+
+erel:Dinner_at_Eight  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Dinner_at_Eight_(film)" , "http://dbpedia.org/resource/Dinner_at_Eight" ;
+        align:entity2   "http://www.imdb.com/title/tt0023948/" ;
+        align:relation  "=" .
+
+erel:Gregg_Toland  a    align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Gregg_Toland" ;
+        align:entity2   "http://www.imdb.com/name/nm0005904/" ;
+        align:relation  "=" .
+
+erel:Joe_Pasternak  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Joe_Pasternak" ;
+        align:entity2   "http://www.imdb.com/name/nm0664990/" ;
+        align:relation  "=" .
+
+erel:When_Ladies_Meet
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/When_Ladies_Meet_(1941_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0034386/" ;
+        align:relation  "=" .
+
+erel:Lionel_Newman  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Lionel_Newman" ;
+        align:entity2   "http://www.imdb.com/name/nm0006213/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Dylan_(2007_album)>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Dylan_(2007_album)" ;
+        align:entity2   "https://www.last.fm/music/Bob+Dylan/Dylan" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Come_and_Get_It_(Badfinger_song)__Come_and_Get_It__1>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Come_and_Get_It_(Badfinger_song)__Come_and_Get_It__1" ;
+        align:entity2   "https://www.last.fm/music/The+Beatles/_/Come+and+Get+It" ;
+        align:relation  "=" .
+
+erel:The_Butcher_Boy  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Butcher_Boy_(1917_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0007761/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Octopus's_Garden>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Octopus%27s_Garden" ;
+        align:entity2   "https://www.last.fm/music/The+Beatles/_/Octopus%27s+Garden" ;
+        align:relation  "=" .
+
+erel:Battle_of_Britain
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Battle_of_Britain_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0064072/" ;
+        align:relation  "=" .
+
+erel:Holiday  a         align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Holiday_(1938_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0030241/" ;
+        align:relation  "=" .
+
+erel:The_Band  a        align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Band" ;
+        align:entity2   "https://www.last.fm/music/The+Band" ;
+        align:relation  "=" .
+
+erel:The_Rolling_Stones
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Rolling_Stones" ;
+        align:entity2   "https://www.last.fm/music/The+Rolling+Stones" ;
+        align:relation  "=" .
+
+erel:Exodus  a          align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Exodus_(1960_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0053804/" ;
+        align:relation  "=" .
+
+erel:Rebecca  a         align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Rebecca_(1940_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0032976/" ;
+        align:relation  "=" .
+
+erel:Rod_Stewart  a     align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Rod_Stewart" ;
+        align:entity2   "https://www.last.fm/music/Rod+Stewart" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Seven_Stones_(song)>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Seven_Stones_(song)" ;
+        align:entity2   "https://www.last.fm/music/Genesis/_/Seven+Stones" ;
+        align:relation  "=" .
+
+erel:The_Letter  a      align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Lette_(1940_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0032701/" ;
+        align:relation  "=" .
+
+erel:Ralph_Richardson
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Ralph_Richardson" ;
+        align:entity2   "http://www.imdb.com/name/nm0724732/" ;
+        align:relation  "=" .
+
+erel:Ian_Dalrymple  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Ian_Dalrymple" ;
+        align:entity2   "http://www.imdb.com/name/nm7458906/" ;
+        align:relation  "=" .
+
+erel:The_Village_Squire
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Village_Squire" ;
+        align:entity2   "http://www.imdb.com/title/tt0027175/" ;
+        align:relation  "=" .
+
+erel:Dial_M_for_Murder
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Dial_M_for_Murder" ;
+        align:entity2   "http://www.imdb.com/title/tt0046912/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#The_Nun's_Story>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Nun's_Story_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0053131/" ;
+        align:relation  "=" .
+
+erel:Sidney_Howard  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Sidney_Howard" ;
+        align:entity2   "http://www.imdb.com/name/nm0397608/" ;
+        align:relation  "=" .
+
+erel:Jack_Hildyard  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Jack_Hildyard" ;
+        align:entity2   "http://www.imdb.com/name/nm0005742/" ;
+        align:relation  "=" .
+
+erel:The_Medusa_Touch
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Medusa_Touch_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0077921/" ;
+        align:relation  "=" .
+
+erel:The_Effect_of_Gamma_Rays_on_Man-in-the-Moon_Marigolds
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Effect_of_Gamma_Rays_on_Man-in-the-Moon_Marigolds_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0068528/" ;
+        align:relation  "=" .
+
+erel:Dionne_Warwick  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Dionne_Warwick" ;
+        align:entity2   "https://www.last.fm/music/Dionne+Warwick" ;
+        align:relation  "=" .
+
+erel:Tom_Petty  a       align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Tom_Petty" ;
+        align:entity2   "https://www.last.fm/music/Tom+Petty" ;
+        align:relation  "=" .
+
+erel:High_Sierra  a     align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/High_Sierra_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0033717/" ;
+        align:relation  "=" .
+
+erel:The_Smiling_Lieutenant
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Smiling_Lieutenant" ;
+        align:entity2   "http://www.imdb.com/title/tt0022074/" ;
+        align:relation  "=" .
+
+erel:The_Shop_Around_the_Corner
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Shop_Around_the_Corner" ;
+        align:entity2   "http://www.imdb.com/title/tt0033045/" ;
+        align:relation  "=" .
+
+erel:Victor_Milner  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Victor_Milner" ;
+        align:entity2   "http://www.imdb.com/name/nm0005800/" ;
+        align:relation  "=" .
+
+erel:Herbert_Stothart
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Herbert_Stothart" ;
+        align:entity2   "http://www.imdb.com/name/nm0006307/" ;
+        align:relation  "=" .
+
+erel:Harold_Rosson  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Harold_Rosson" ;
+        align:entity2   "http://www.imdb.com/name/nm0005849/" ;
+        align:relation  "=" .
+
+erel:Forgotten_Faces  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Forgotten_Faces_(1928_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0018906/" ;
+        align:relation  "=" .
+
+erel:Roy_Webb  a        align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Roy_Webb" ;
+        align:entity2   "http://www.imdb.com/name/nm0002202/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#All_Together_Now_(film)>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/All_Together_Now_(film)" ;
+        align:entity2   "https://www.last.fm/music/The+Beatles/All+together+now" ;
+        align:relation  "=" .
+
+erel:Meet_Me_in_St._Louis
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Meet_Me_in_St._Louis" ;
+        align:entity2   "http://www.imdb.com/title/tt0037059/" ;
+        align:relation  "=" .
+
+erel:The_Dirty_Mac  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Dirty_Mac" ;
+        align:entity2   "https://www.last.fm/music/The+Dirty+Mac" ;
+        align:relation  "=" .
+
+erel:Boys_Town  a       align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Boys_Town_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0029942/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Ian_Stewart_(musician)>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Ian_Stewart_(musician)" ;
+        align:entity2   "https://www.last.fm/music/Ian+Stewart" ;
+        align:relation  "=" .
+
+erel:Words_for_Battle
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Words_for_Battle" ;
+        align:entity2   "http://www.imdb.com/title/tt0034401/" ;
+        align:relation  "=" .
+
+erel:The_Beatles_at_Shea_Stadium
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Beatles_at_Shea_Stadium" ;
+        align:entity2   "https://www.last.fm/music/The+Beatles/The+Beatles+At+Shea+Stadium" ;
+        align:relation  "=" .
+
+erel:Tom_Petty_and_the_Heartbreakers
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Tom_Petty_and_the_Heartbreakers" ;
+        align:entity2   "https://www.last.fm/music/Tom+Petty+and+The+Heartbreakers" ;
+        align:relation  "=" .
+
+erel:Ernest_Haller  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Ernest_Haller" ;
+        align:entity2   "http://www.imdb.com/name/nm0005735/" ;
+        align:relation  "=" .
+
+erel:Duff_McKagan  a    align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Duff_McKagan" ;
+        align:entity2   "https://www.last.fm/music/Duff+McKagan" ;
+        align:relation  "=" .
+
+erel:Robbie_Williams  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Robbie_Williams" ;
+        align:entity2   "https://www.last.fm/music/Robbie+Williams" ;
+        align:relation  "=" .
+
+erel:Ibiza_Bar  a       align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Ibiza_Bar" ;
+        align:entity2   "https://www.last.fm/music/Pink+Floyd/_/Ibiza+Bar" ;
+        align:relation  "=" .
+
+erel:Bringing_Up_Baby
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Bringing_Up_Baby" ;
+        align:entity2   "http://www.imdb.com/title/tt0029947/" ;
+        align:relation  "=" .
+
+erel:Clarence_Brown  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Clarence_Brown" ;
+        align:entity2   "http://www.imdb.com/name/nm0113284/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Supper's_Ready>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Supper%27s_Ready" ;
+        align:entity2   "https://www.last.fm/music/Genesis/_/Supper%27s+Ready" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Goodbye_Cruel_World_(Pink_Floyd_song)>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Goodbye_Cruel_World_(Pink_Floyd_song)" ;
+        align:entity2   "https://www.last.fm/music/Pink+Floyd/_/Goodbye+Cruel+World" ;
+        align:relation  "=" .
+
+erel:To_Have_and_Have_Not
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/To_Have_and_Have_Not_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0037382/" ;
+        align:relation  "=" .
+
+erel:Traveling_Wilburys
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Traveling_Wilburys" ;
+        align:entity2   "https://www.last.fm/music/Traveling+Wilburys" ;
+        align:relation  "=" .
+
+erel:Busby_Berkeley  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Busby_Berkeley" ;
+        align:entity2   "http://www.imdb.com/name/nm0000923/" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Birthday_(Beatles_song)>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Birthday_(Beatles_song)" ;
+        align:entity2   "https://www.last.fm/music/The+Beatles/_/Birthday" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Flying_(Beatles_instrumental)>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Flying_(Beatles_instrumental)" ;
+        align:entity2   "https://www.last.fm/music/The+Beatles/_/Flying" ;
+        align:relation  "=" .
+
+erel:Dede_Allen  a      align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Dede_Allen" ;
+        align:entity2   "http://www.imdb.com/name/nm0020441/" ;
+        align:relation  "=" .
+
+erel:Matt_Colton  a     align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Matt_Colton" ;
+        align:entity2   "https://www.last.fm/music/Matt+Colton" ;
+        align:relation  "=" .
+
+erel:As_You_Like_It  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/As_You_Like_It_(1936_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0027311/" ;
+        align:relation  "=" .
+
+erel:The_Knockout  a    align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Knockout" ;
+        align:entity2   "http://www.imdb.com/title/tt0004194/" ;
+        align:relation  "=" .
+
+erel:John_G._Adolfi  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/John_G._Adolfi" ;
+        align:entity2   "http://www.imdb.com/name/nm0012317/" ;
+        align:relation  "=" .
+
+erel:Love_Affair  a     align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Love_Affair_(1939_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0031593/" ;
+        align:relation  "=" .
+
+erel:Judy_Garland  a    align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Judy_Garland" ;
+        align:entity2   "http://www.imdb.com/name/nm0000023/" ;
+        align:relation  "=" .
+
+erel:Red_Dust  a        align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Red_Dust" ;
+        align:entity2   "http://www.imdb.com/title/tt0023382/" ;
+        align:relation  "=" .
+
+erel:Dead_End  a        align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Dead_End_(1937_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0028773/" ;
+        align:relation  "=" .
+
+erel:Warren_Zevon  a    align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Warren_Zevon" ;
+        align:entity2   "https://www.last.fm/music/Warren+Zevon" ;
+        align:relation  "=" .
+
+erel:Hud  a             align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Hud_(1963_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0057163/" ;
+        align:relation  "=" .
+
+erel:Richard_Russo  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Richard_Russo" ;
+        align:entity2   "http://www.imdb.com/name/nm0751720/" ;
+        align:relation  "=" .
+
+erel:Jimmy_the_Gent  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Jimmy_the_Gent_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0025330/" ;
+        align:relation  "=" .
+
+erel:The_Merry_Widow  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Merry_Widow_(1934_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0025493/" ;
+        align:relation  "=" .
+
+erel:Pink_Floyd  a      align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Pink_Floyd" ;
+        align:entity2   "https://www.last.fm/music/Pink+Floyd" ;
+        align:relation  "=" .
+
+<http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Adam's_Rib>
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Adam%27s_Rib" ;
+        align:entity2   "http://www.imdb.com/title/tt0041090/" ;
+        align:relation  "=" .
+
+erel:Peter_Gabriel  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Peter_Gabriel" ;
+        align:entity2   "https://www.last.fm/music/Peter+Gabriel" ;
+        align:relation  "=" .
+
+erel:Rick_Rubin  a      align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Rick_Rubin" ;
+        align:entity2   "https://www.last.fm/music/Rick+Rubin" ;
+        align:relation  "=" .
+
+erel:Akon  a            align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Akon" ;
+        align:entity2   "https://www.last.fm/music/Akon" ;
+        align:relation  "=" .
+
+erel:Mike_McKnight  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Mike_McKnight" ;
+        align:entity2   "https://www.last.fm/music/Mike+McKnight" ;
+        align:relation  "=" .
+
+erel:Devotion  a        align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Devotion_(1946_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0038474/" ;
+        align:relation  "=" .
+
+erel:Directed_by_John_Ford
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Directed_by_John_Ford" ;
+        align:entity2   "http://www.imdb.com/title/tt0066997/" ;
+        align:relation  "=" .
+
+erel:Tennessee_Williams
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Tennessee_Williams" ;
+        align:entity2   "http://www.imdb.com/name/nm0931783/" ;
+        align:relation  "=" .
+
+erel:Captain_Blood  a   align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Captain_Blood_(1935_film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0026174/" ;
+        align:relation  "=" .
+
+erel:One_Way_Passage  a  align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/One_Way_Passage" ;
+        align:entity2   "http://www.imdb.com/title/tt0023305/" ;
+        align:relation  "=" .
+
+erel:Rick_Vito  a       align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Rick_Vito" ;
+        align:entity2   "https://www.last.fm/music/Rick+Vito" ;
+        align:relation  "=" .
+
+erel:The_Winning_of_Barbara_Worth
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/The_Winning_of_Barbara_Worth" ;
+        align:entity2   "http://www.imdb.com/title/tt0017567/" ;
+        align:relation  "=" .
+
+erel:The_Birds  a       align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Birds_(film)" ;
+        align:entity2   "http://www.imdb.com/title/tt0056869/" ;
+        align:relation  "=" .
+
+erel:Vanessa_Redgrave
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Vanessa_Redgrave" ;
+        align:entity2   "http://www.imdb.com/name/nm0000603/" ;
+        align:relation  "=" .
+
+erel:Vittorio_Storaro
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Vittorio_Storaro" ;
+        align:entity2   "http://www.imdb.com/name/nm0005886/" ;
+        align:relation  "=" .
+
+erel:Frank_D._Williams
+        a               align:Cell ;
+        align:entity1   "http://dbpedia.org/resource/Frank_Williams_(cinematographer)" ;
+        align:entity2   "http://www.imdb.com/name/nm0930596/" ;
+        align:relation  "=" .

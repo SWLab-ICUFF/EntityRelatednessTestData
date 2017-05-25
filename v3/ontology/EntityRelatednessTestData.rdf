@@ -1,0 +1,57 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdfs:Class rdf:about="http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Property">
+    <rdfs:subClassOf>
+      <rdfs:Class rdf:about="http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#PathElement"/>
+    </rdfs:subClassOf>
+  </rdfs:Class>
+  <rdfs:Class rdf:about="http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#EntityPair"/>
+  <rdfs:Class rdf:about="http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Entity">
+    <rdfs:subClassOf rdf:resource="http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#PathElement"/>
+  </rdfs:Class>
+  <rdfs:Class rdf:about="http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Path"/>
+  <rdfs:Class rdf:about="http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#ListOfPathElements">
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#List"/>
+  </rdfs:Class>
+  <rdf:Description rdf:about="http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#firstPathElement">
+    <rdfs:range rdf:resource="http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#PathElement"/>
+    <rdfs:domain rdf:resource="http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#ListOfPathElements"/>
+    <rdfs:subPropertyOf rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#first"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#first">
+    <rdfs:range rdf:resource="http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Entity"/>
+    <rdfs:domain rdf:resource="http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#EntityPair"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#score">
+    <rdfs:domain rdf:resource="http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Path"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#double"/>
+    <rdfs:domain rdf:resource="http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#PathElement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#hasPath">
+    <rdfs:range rdf:resource="http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Path"/>
+    <rdfs:domain rdf:resource="http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#EntityPair"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#restOfPathElements">
+    <rdfs:range rdf:resource="http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#ListOfPathElements"/>
+    <rdfs:domain rdf:resource="http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#ListOfPathElements"/>
+    <rdfs:subPropertyOf rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#rest"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#expression">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:domain rdf:resource="http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Path"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#rank">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#long"/>
+    <rdfs:domain rdf:resource="http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Path"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#hasListOfpathElements">
+    <rdfs:range rdf:resource="http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#ListOfPathElements"/>
+    <rdfs:domain rdf:resource="http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Path"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#second">
+    <rdfs:range rdf:resource="http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#Entity"/>
+    <rdfs:domain rdf:resource="http://swlab.ic.uff.br/ontology/EntityRelatednessTestData/v3.rdf#EntityPair"/>
+  </rdf:Description>
+</rdf:RDF>
