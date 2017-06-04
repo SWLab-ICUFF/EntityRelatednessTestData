@@ -14,8 +14,8 @@
     <rdfs:label>EntityPair</rdfs:label>
   </rdfs:Class>
   <rdfs:Class rdf:about="http://swlab.ic.uff.br/ontology/EntityRelatednessTestData_v1.rdf#Album">
-    <owl:sameAs rdf:resource="http://dbpedia.org/ontology/Album"/>
     <owl:sameAs rdf:resource="http://purl.org/ontology/mo/album"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/ontology/Album"/>
     <rdfs:label>Album</rdfs:label>
     <rdfs:subClassOf>
       <rdfs:Class rdf:about="http://swlab.ic.uff.br/ontology/EntityRelatednessTestData_v1.rdf#Category"/>
@@ -58,8 +58,8 @@
     <rdfs:label>Category</rdfs:label>
   </rdfs:Class>
   <rdfs:Class rdf:about="http://swlab.ic.uff.br/ontology/EntityRelatednessTestData_v1.rdf#Movie">
-    <owl:sameAs rdf:resource="http://dbpedia.org/ontology/Film"/>
     <owl:sameAs rdf:resource="http://www.movieontology.org/2010/01/movieontology.owl#Movie"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/ontology/Film"/>
     <rdfs:label>Movie</rdfs:label>
     <rdfs:subClassOf rdf:resource="http://swlab.ic.uff.br/ontology/EntityRelatednessTestData_v1.rdf#Category"/>
   </rdfs:Class>
@@ -88,8 +88,8 @@
     <owl:sameAs rdf:resource="http://dbpedia.org/ontology/Writer"/>
     <owl:sameAs rdf:resource="http://dbpedia.org/ontology/MovieDirector"/>
     <owl:sameAs rdf:resource="http://www.movieontology.org/2010/01/movieontology.owl#Producer"/>
-    <owl:sameAs rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
     <owl:sameAs rdf:resource="http://www.movieontology.org/2010/01/movieontology.owl#Writer"/>
+    <owl:sameAs rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
     <owl:sameAs rdf:resource="http://dbpedia.org/ontology/Artist"/>
     <owl:sameAs rdf:resource="http://dbpedia.org/ontology/Band"/>
     <owl:sameAs rdf:resource="http://dbpedia.org/ontology/MusicComposer"/>
