@@ -88,8 +88,8 @@
     <owl:sameAs rdf:resource="http://dbpedia.org/ontology/Writer"/>
     <owl:sameAs rdf:resource="http://dbpedia.org/ontology/MovieDirector"/>
     <owl:sameAs rdf:resource="http://www.movieontology.org/2010/01/movieontology.owl#Producer"/>
-    <owl:sameAs rdf:resource="http://www.movieontology.org/2010/01/movieontology.owl#Writer"/>
     <owl:sameAs rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <owl:sameAs rdf:resource="http://www.movieontology.org/2010/01/movieontology.owl#Writer"/>
     <owl:sameAs rdf:resource="http://dbpedia.org/ontology/Artist"/>
     <owl:sameAs rdf:resource="http://dbpedia.org/ontology/Band"/>
     <owl:sameAs rdf:resource="http://dbpedia.org/ontology/MusicComposer"/>
@@ -147,9 +147,9 @@
     <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#long"/>
     <rdfs:domain rdf:resource="http://swlab.ic.uff.br/ontology/EntityRelatednessTestData_v1.rdf#Path"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://swlab.ic.uff.br/ontology/EntityRelatednessTestData_v1.rdf#hasListOfpathElements">
+  <rdf:Description rdf:about="http://swlab.ic.uff.br/ontology/EntityRelatednessTestData_v1.rdf#hasListOfPathElements">
     <rdfs:comment>The relationship between a path and a list of path elements.</rdfs:comment>
-    <rdfs:label>hasListOfpathElements</rdfs:label>
+    <rdfs:label>hasListOfPathElements</rdfs:label>
     <rdfs:range rdf:resource="http://swlab.ic.uff.br/ontology/EntityRelatednessTestData_v1.rdf#ListOfPathElements"/>
     <rdfs:domain rdf:resource="http://swlab.ic.uff.br/ontology/EntityRelatednessTestData_v1.rdf#Path"/>
   </rdf:Description>
