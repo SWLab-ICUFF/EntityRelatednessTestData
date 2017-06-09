@@ -4,6 +4,8 @@
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
     xmlns="http://swlab.ic.uff.br/ontology/EntityRelatednessTestData_v1.rdf#">
   <rdfs:Class rdf:about="http://swlab.ic.uff.br/ontology/EntityRelatednessTestData_v1.rdf#Song">
+    <owl:sameAs rdf:resource="http://dbpedia.org/ontology/Song"/>
+    <owl:sameAs rdf:resource="http://purl.org/ontology/mo/track"/>
     <rdfs:label>Song</rdfs:label>
     <rdfs:subClassOf>
       <rdfs:Class rdf:about="http://swlab.ic.uff.br/ontology/EntityRelatednessTestData_v1.rdf#Category"/>
